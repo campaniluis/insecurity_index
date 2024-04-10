@@ -1,0 +1,1 @@
+In this project I create an insecurity index to rank countries. The main concept behind the project is using a logaritmic scale for muder rate (per 100.000) as an independent variable and % of effectively controled territory (0 if ≤ 95%, else 1) and armed conflict deaths (if != 0, 1; else, 0) as dependent variables
