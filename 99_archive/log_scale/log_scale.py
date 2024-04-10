@@ -27,7 +27,7 @@ def determine_echelon(log_rate):
 data['Echelon'] = data['Log_Homicide_Rate'].apply(determine_echelon)
 
 # Select only the necessary columns to simplify the spreadsheet
-data_final = data[['Entity', 'Year', 'Homicide rate per 100,000 population - Both sexes - All ages', 'Echelon']]
+data_final = data[['Entity', 'Code', 'Year', 'Homicide rate per 100,000 population - Both sexes - All ages', 'Echelon']]
 
 # Saving the updated spreadsheet
 output_path = './updated_homicide-rate-echelons.csv'
