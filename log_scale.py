@@ -2,7 +2,7 @@ import numpy as np
 
 import pandas as pd
 
-data = pd.read_csv(homicide-rate-unodc.csv)
+data = pd.read_csv("homicide-rate-unodc.csv")
 # Calculate the logarithm of the homicide rates
 data['Log_Homicide_Rate'] = np.log(data['Homicide rate per 100,000 population - Both sexes - All ages'])
 
@@ -36,7 +36,7 @@ data_recent['Echelon'] = data_recent['Log_Homicide_Rate'].apply(determine_echelo
 data_final = data_recent[['Entity', 'Year', 'Homicide rate per 100,000 population - Both sexes - All ages', 'Echelon']]
 
 # Saving the updated spreadsheet
-output_path = '/mnt/data/updated_homicide-rate-echelons.csv'
+output_path = './updated_homicide-rate-echelons.csv'
 data_final.to_csv(output_path, index=False)
 
 output_path
