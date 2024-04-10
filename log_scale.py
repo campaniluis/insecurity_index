@@ -1,5 +1,8 @@
 import numpy as np
 
+import pandas as pd
+
+data = pd.read_csv(homicide-rate-unodc.csv)
 # Calculate the logarithm of the homicide rates
 data['Log_Homicide_Rate'] = np.log(data['Homicide rate per 100,000 population - Both sexes - All ages'])
 
