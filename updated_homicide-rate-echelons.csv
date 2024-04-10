@@ -1,210 +1,4205 @@
 Entity,Year,"Homicide rate per 100,000 population - Both sexes - All ages",Echelon
+Afghanistan,2009,4.0715265,Low
+Afghanistan,2010,3.4870927,Low
+Afghanistan,2011,4.208668,Low
+Afghanistan,2012,6.393913,Medium
+Afghanistan,2015,9.975262,Medium
+Afghanistan,2016,6.6924186,Medium
+Afghanistan,2017,6.8006945,Medium
+Afghanistan,2018,6.7435727,Medium
+Afghanistan,2019,7.180397,Medium
+Afghanistan,2020,6.594439,Medium
 Afghanistan,2021,4.0224977,Low
+Africa (UN),2000,13.645948,High
+Africa (UN),2001,13.589387,High
+Africa (UN),2002,13.524751,High
+Africa (UN),2003,13.095996,High
+Africa (UN),2004,12.850431,High
+Africa (UN),2005,12.7091255,High
+Africa (UN),2006,12.759147,High
+Africa (UN),2007,12.555357,High
+Africa (UN),2008,12.498256,High
+Africa (UN),2009,12.342634,High
+Africa (UN),2010,12.226504,High
+Africa (UN),2011,12.290624,High
+Africa (UN),2012,12.340445,High
+Africa (UN),2013,12.359684,High
+Africa (UN),2014,12.483554,High
+Africa (UN),2015,12.366553,High
+Africa (UN),2016,12.334789,High
+Africa (UN),2017,12.51506,High
+Africa (UN),2018,12.317689,High
+Africa (UN),2019,12.313706,High
+Africa (UN),2020,12.066697,High
 Africa (UN),2021,12.655763,High
+Albania,1992,3.9349356,Low
+Albania,1993,5.786633,Medium
+Albania,1994,3.400123,Low
+Albania,1995,7.8858495,Medium
+Albania,1996,8.314658,Medium
+Albania,1997,40.999237,Very High
+Albania,1998,20.419683,Very High
+Albania,1999,16.582197,High
+Albania,2000,4.116881,Low
+Albania,2001,6.9761276,Medium
+Albania,2002,6.9152064,Medium
+Albania,2003,5.3669734,Medium
+Albania,2004,4.27738,Low
+Albania,2005,5.078094,Medium
+Albania,2006,3.1630955,Low
+Albania,2007,3.5281267,Low
+Albania,2008,3.1507385,Low
+Albania,2009,2.900488,Low
+Albania,2010,4.0845757,Low
+Albania,2011,4.8954477,Low
+Albania,2012,5.4284067,Medium
+Albania,2013,4.2950954,Low
+Albania,2014,4.64616,Low
+Albania,2015,2.22031,Low
+Albania,2016,2.7420435,Low
+Albania,2017,2.01434,Low
+Albania,2018,2.294046,Low
+Albania,2019,2.2617478,Low
+Albania,2020,2.127772,Low
 Albania,2021,2.3119686,Low
+Algeria,2006,0.93315166,Undefined
+Algeria,2007,0.79743814,Undefined
+Algeria,2008,0.94881076,Undefined
+Algeria,2009,0.78702044,Undefined
+Algeria,2010,0.7083823,Undefined
+Algeria,2011,0.76620924,Undefined
+Algeria,2012,1.4036288,Very Low
+Algeria,2013,1.2631371,Very Low
+Algeria,2014,1.4886416,Very Low
+Algeria,2015,1.38077,Very Low
+Algeria,2016,1.343602,Very Low
+Algeria,2017,1.2738065,Very Low
+Algeria,2018,1.3547354,Very Low
+Algeria,2019,1.2153039,Very Low
+Algeria,2020,1.5051206,Very Low
 Algeria,2021,1.5731823,Very Low
+American Samoa,2001,1.71456,Very Low
+American Samoa,2002,12.032247,High
+American Samoa,2003,5.1777253,Medium
+American Samoa,2004,6.9413714,Medium
+American Samoa,2005,10.479617,High
+American Samoa,2006,7.037607,Medium
+American Samoa,2007,1.7736,Very Low
+American Samoa,2008,5.3676386,Medium
+American Samoa,2009,3.6123252,Low
+American Samoa,2010,9.115853,Medium
+American Samoa,2011,9.206408,Medium
+American Samoa,2012,3.7249844,Low
+American Samoa,2013,5.6609116,Medium
+American Samoa,2014,5.7453103,Medium
+American Samoa,2015,7.786949,Medium
+American Samoa,2016,0.0,Undefined
+American Samoa,2017,14.151993,High
+American Samoa,2018,26.846191,Very High
 American Samoa,2019,0.0,Undefined
+Americas (UN),2000,15.4731,High
+Americas (UN),2001,16.230822,High
+Americas (UN),2002,16.26652,High
+Americas (UN),2003,16.091763,High
+Americas (UN),2004,15.066501,High
+Americas (UN),2005,14.792401,High
+Americas (UN),2006,15.034039,High
+Americas (UN),2007,14.639408,High
+Americas (UN),2008,15.580241,High
+Americas (UN),2009,16.307438,High
+Americas (UN),2010,16.619167,High
+Americas (UN),2011,16.89151,High
+Americas (UN),2012,17.011108,High
+Americas (UN),2013,16.498095,High
+Americas (UN),2014,16.234,High
+Americas (UN),2015,15.962302,High
+Americas (UN),2016,16.677736,High
+Americas (UN),2017,16.955256,High
+Americas (UN),2018,16.380625,High
+Americas (UN),2019,15.09908,High
+Americas (UN),2020,15.0788355,High
 Americas (UN),2021,14.964148,High
+Andorra,2004,1.2998239,Very Low
+Andorra,2007,0.0,Undefined
+Andorra,2008,1.3148379,Very Low
+Andorra,2009,0.0,Undefined
+Andorra,2010,0.0,Undefined
+Andorra,2011,1.4170829,Very Low
+Andorra,2012,0.0,Undefined
+Andorra,2013,0.0,Undefined
+Andorra,2014,0.0,Undefined
+Andorra,2015,0.0,Undefined
 Andorra,2020,2.5740025,Low
+Angola,2011,4.3488812,Low
+Angola,2012,4.8316097,Low
+Angola,2015,4.4582353,Low
 Angola,2016,4.102248,Low
+Anguilla,1990,0.0,Undefined
+Anguilla,1991,11.60564,High
+Anguilla,1992,0.0,Undefined
+Anguilla,1993,10.963109,High
+Anguilla,1994,0.0,Undefined
+Anguilla,1995,10.416124,High
+Anguilla,1996,0.0,Undefined
+Anguilla,1997,9.870207,Medium
+Anguilla,1998,0.0,Undefined
+Anguilla,1999,0.0,Undefined
+Anguilla,2000,9.051822,Medium
+Anguilla,2001,0.0,Undefined
+Anguilla,2002,17.30029,High
+Anguilla,2003,17.029972,High
+Anguilla,2004,8.37942,Medium
+Anguilla,2005,0.0,Undefined
+Anguilla,2006,40.56795,Very High
+Anguilla,2007,31.937403,Very High
+Anguilla,2008,7.855151,Medium
+Anguilla,2009,7.724394,Medium
+Anguilla,2010,0.0,Undefined
+Anguilla,2011,0.0,Undefined
+Anguilla,2012,37.160908,Very High
+Anguilla,2013,7.29927,Medium
 Anguilla,2014,28.327608,Very High
+Antigua and Barbuda,1990,1.5790803,Very Low
+Antigua and Barbuda,1991,4.714461,Low
+Antigua and Barbuda,1992,3.0931501,Low
+Antigua and Barbuda,1993,6.075934,Medium
+Antigua and Barbuda,1994,7.4546757,Medium
+Antigua and Barbuda,1995,10.234218,High
+Antigua and Barbuda,1996,4.2981176,Low
+Antigua and Barbuda,1997,1.4041493,Very Low
+Antigua and Barbuda,2000,6.6617813,Medium
+Antigua and Barbuda,2001,9.184544,Medium
+Antigua and Barbuda,2002,6.477103,Medium
+Antigua and Barbuda,2003,6.4041395,Medium
+Antigua and Barbuda,2004,5.0670753,Medium
+Antigua and Barbuda,2005,3.7561507,Low
+Antigua and Barbuda,2006,13.59779,High
+Antigua and Barbuda,2007,20.727789,Very High
+Antigua and Barbuda,2008,19.218988,High
+Antigua and Barbuda,2009,18.927408,High
+Antigua and Barbuda,2010,7.0015755,Medium
+Antigua and Barbuda,2012,11.40589,High
+Antigua and Barbuda,2017,21.94932,Very High
+Antigua and Barbuda,2018,13.09679,High
+Antigua and Barbuda,2019,3.2567456,Low
+Antigua and Barbuda,2020,9.71251,Medium
 Antigua and Barbuda,2021,17.163792,High
+Argentina,2001,8.348343,Medium
+Argentina,2002,9.423247,Medium
+Argentina,2003,7.7511554,Medium
+Argentina,2004,6.046219,Medium
+Argentina,2005,5.6257277,Medium
+Argentina,2006,5.347438,Medium
+Argentina,2007,5.364114,Medium
+Argentina,2008,5.8872066,Medium
+Argentina,2009,6.4938993,Medium
+Argentina,2010,5.8004694,Medium
+Argentina,2011,6.0475802,Medium
+Argentina,2012,6.3119206,Medium
+Argentina,2013,7.247288,Medium
+Argentina,2014,7.53782,Medium
+Argentina,2015,6.558466,Medium
+Argentina,2016,6.011234,Medium
+Argentina,2017,5.259381,Medium
+Argentina,2018,5.367726,Medium
+Argentina,2019,5.155823,Medium
+Argentina,2020,5.3668137,Medium
 Argentina,2021,4.6226788,Low
+Armenia,1990,5.004865,Medium
+Armenia,1991,5.141486,Medium
+Armenia,1992,8.53253,Medium
+Armenia,1993,7.7516026,Medium
+Armenia,1994,4.653626,Low
+Armenia,1995,3.49105,Low
+Armenia,1996,3.4557,Low
+Armenia,1997,3.0567784,Low
+Armenia,1998,2.8698833,Low
+Armenia,1999,2.8072107,Low
+Armenia,2000,2.8720002,Low
+Armenia,2001,2.8086898,Low
+Armenia,2002,2.2221954,Low
+Armenia,2004,2.7073355,Low
+Armenia,2005,1.903358,Very Low
+Armenia,2006,2.6102874,Low
+Armenia,2007,2.5629137,Low
+Armenia,2008,3.2513018,Low
+Armenia,2009,3.2722774,Low
+Armenia,2010,1.9006935,Very Low
+Armenia,2011,2.4240553,Low
+Armenia,2012,2.2302885,Low
+Armenia,2013,2.1713772,Low
+Armenia,2014,2.4914103,Low
+Armenia,2015,2.6054382,Low
+Armenia,2016,3.0357645,Low
+Armenia,2017,2.4544842,Low
+Armenia,2018,1.7627003,Very Low
+Armenia,2019,2.5881004,Low
+Armenia,2020,1.8534304,Very Low
 Armenia,2021,2.1856172,Low
+Aruba,1990,0.0,Undefined
+Aruba,1995,7.7871513,Medium
+Aruba,1999,2.3023703,Low
+Aruba,2001,4.4106054,Low
+Aruba,2002,5.4477506,Medium
+Aruba,2003,4.314948,Low
+Aruba,2004,2.1381342,Low
+Aruba,2005,6.350349,Medium
+Aruba,2006,5.2297697,Medium
+Aruba,2007,3.0995898,Low
+Aruba,2008,5.102249,Medium
+Aruba,2009,4.03177,Low
+Aruba,2010,3.9863865,Low
+Aruba,2011,1.9745675,Very Low
+Aruba,2012,3.9172864,Low
+Aruba,2013,5.8320374,Medium
 Aruba,2014,1.9306138,Very Low
+Asia (UN),2000,3.3688762,Low
+Asia (UN),2001,3.2861388,Low
+Asia (UN),2002,3.1987464,Low
+Asia (UN),2003,3.110312,Low
+Asia (UN),2004,3.1070535,Low
+Asia (UN),2005,2.9657845,Low
+Asia (UN),2006,2.8758082,Low
+Asia (UN),2007,2.8097327,Low
+Asia (UN),2008,2.7752123,Low
+Asia (UN),2009,2.7420762,Low
+Asia (UN),2010,2.6782172,Low
+Asia (UN),2011,2.7211475,Low
+Asia (UN),2012,2.7030075,Low
+Asia (UN),2013,2.6368656,Low
+Asia (UN),2014,2.608817,Low
+Asia (UN),2015,2.3975363,Low
+Asia (UN),2016,2.315362,Low
+Asia (UN),2017,2.1889129,Low
+Asia (UN),2018,2.1029654,Low
+Asia (UN),2019,2.037763,Low
+Asia (UN),2020,2.0178237,Low
 Asia (UN),2021,2.3276985,Low
+Australia,1990,2.1938055,Low
+Australia,1991,1.9686081,Very Low
+Australia,1992,1.7236933,Very Low
+Australia,1993,1.888664,Very Low
+Australia,1994,1.7971971,Very Low
+Australia,1995,1.9774483,Very Low
+Australia,1996,1.9437898,Very Low
+Australia,1997,1.9771594,Very Low
+Australia,1998,1.795538,Very Low
+Australia,1999,2.0477753,Low
+Australia,2000,1.9034636,Very Low
+Australia,2001,1.8027713,Very Low
+Australia,2002,1.879251,Very Low
+Australia,2003,1.5330728,Very Low
+Australia,2004,1.319946,Very Low
+Australia,2005,1.2839751,Very Low
+Australia,2006,1.3729398,Very Low
+Australia,2007,1.2241472,Very Low
+Australia,2008,1.2283583,Very Low
+Australia,2009,1.2141697,Very Low
+Australia,2010,1.049086,Very Low
+Australia,2011,1.1092706,Very Low
+Australia,2012,1.0691061,Very Low
+Australia,2013,1.0600654,Very Low
+Australia,2014,1.0353829,Very Low
+Australia,2015,0.99075425,Undefined
+Australia,2016,0.9381832,Undefined
+Australia,2017,0.84586084,Undefined
+Australia,2018,0.88473505,Undefined
+Australia,2019,0.887323,Undefined
+Australia,2020,0.86092544,Undefined
 Australia,2021,0.74456745,Undefined
+Austria,1990,1.1590459,Very Low
+Austria,1991,1.3280661,Very Low
+Austria,1992,1.2371161,Very Low
+Austria,1993,1.0119822,Very Low
+Austria,1994,1.1089597,Very Low
+Austria,1995,0.98146594,Undefined
+Austria,1996,1.2440248,Very Low
+Austria,1997,0.8284075,Undefined
+Austria,1998,0.9654129,Undefined
+Austria,1999,0.7508093,Undefined
+Austria,2000,1.0236655,Very Low
+Austria,2001,0.8706873,Undefined
+Austria,2002,0.80455583,Undefined
+Austria,2003,0.6157557,Undefined
+Austria,2004,0.72204673,Undefined
+Austria,2005,0.6563726,Undefined
+Austria,2006,0.7378053,Undefined
+Austria,2007,0.54251367,Undefined
+Austria,2008,0.6970206,Undefined
+Austria,2009,0.61129564,Undefined
+Austria,2010,0.7294182,Undefined
+Austria,2011,0.91762805,Undefined
+Austria,2012,0.96089554,Undefined
+Austria,2013,0.7193787,Undefined
+Austria,2014,0.4914542,Undefined
+Austria,2015,0.5091166,Undefined
+Austria,2016,0.6180974,Undefined
+Austria,2017,0.79568094,Undefined
+Austria,2018,0.9727943,Undefined
+Austria,2019,0.867123,Undefined
+Austria,2020,0.72969943,Undefined
 Austria,2021,0.7285295,Undefined
+Azerbaijan,1990,4.4292846,Low
+Azerbaijan,1991,4.7358365,Low
+Azerbaijan,1992,7.378975,Medium
+Azerbaijan,1993,6.1756253,Medium
+Azerbaijan,1994,6.379541,Medium
+Azerbaijan,1995,5.615179,Medium
+Azerbaijan,1996,5.0320153,Medium
+Azerbaijan,1997,3.5499728,Low
+Azerbaijan,1998,3.4821126,Low
+Azerbaijan,1999,2.9871197,Low
+Azerbaijan,2000,2.759349,Low
+Azerbaijan,2001,2.6322072,Low
+Azerbaijan,2002,2.532212,Low
+Azerbaijan,2007,2.1287594,Low
+Azerbaijan,2008,2.1334054,Low
+Azerbaijan,2010,2.2301123,Low
+Azerbaijan,2011,2.2545109,Low
+Azerbaijan,2012,2.129549,Low
+Azerbaijan,2013,2.2986166,Low
+Azerbaijan,2014,2.4225302,Low
+Azerbaijan,2015,2.1392045,Low
+Azerbaijan,2016,1.6940236,Very Low
+Azerbaijan,2017,1.8070674,Very Low
+Azerbaijan,2018,1.9404047,Very Low
+Azerbaijan,2019,1.6417869,Very Low
+Azerbaijan,2020,2.236277,Low
 Azerbaijan,2021,1.9102119,Very Low
+Bahamas,1990,16.624859,High
+Bahamas,1991,10.142815,High
+Bahamas,1992,14.540425,High
+Bahamas,1993,12.145841,High
+Bahamas,1994,17.687284,High
+Bahamas,1995,13.353185,High
+Bahamas,1996,16.725014,High
+Bahamas,1997,14.830553,High
+Bahamas,2000,22.76825,Very High
+Bahamas,2001,13.045088,High
+Bahamas,2002,15.568769,High
+Bahamas,2003,14.771463,High
+Bahamas,2004,12.824642,High
+Bahamas,2005,14.95095,High
+Bahamas,2006,17.296892,High
+Bahamas,2007,21.808025,Very High
+Bahamas,2008,20.121555,Very High
+Bahamas,2009,23.637674,Very High
+Bahamas,2010,25.182709,Very High
+Bahamas,2011,33.60233,Very High
+Bahamas,2012,28.791214,Very High
+Bahamas,2013,30.856995,Very High
+Bahamas,2014,31.35191,Very High
+Bahamas,2015,37.178745,Very High
+Bahamas,2016,28.031967,Very High
+Bahamas,2017,30.57491,Very High
+Bahamas,2018,22.642082,Very High
+Bahamas,2019,23.482475,Very High
+Bahamas,2020,17.959438,High
 Bahamas,2021,29.173424,Very High
+Bahrain,1995,0.8157485,Undefined
+Bahrain,1996,1.2643104,Very Low
+Bahrain,1997,0.9193395,Undefined
+Bahrain,2001,1.2324429,Very Low
+Bahrain,2002,1.069055,Very Low
+Bahrain,2007,0.38441873,Undefined
+Bahrain,2008,0.5403733,Undefined
+Bahrain,2009,1.1022063,Very Low
+Bahrain,2010,0.1647929,Undefined
+Bahrain,2011,0.99003613,Undefined
+Bahrain,2012,0.7347302,Undefined
+Bahrain,2013,0.87185824,Undefined
+Bahrain,2014,0.6864284,Undefined
+Bahrain,2015,0.22024135,Undefined
+Bahrain,2016,0.28375617,Undefined
+Bahrain,2017,0.411852,Undefined
+Bahrain,2018,0.33617073,Undefined
+Bahrain,2019,0.26770383,Undefined
+Bahrain,2020,0.0,Undefined
 Bahrain,2021,0.068340294,Undefined
+Bangladesh,2000,2.587595,Low
+Bangladesh,2001,2.7933366,Low
+Bangladesh,2002,2.611454,Low
+Bangladesh,2003,2.5427973,Low
+Bangladesh,2004,2.8114474,Low
+Bangladesh,2005,2.549098,Low
+Bangladesh,2006,2.9208682,Low
+Bangladesh,2007,2.6801088,Low
+Bangladesh,2008,2.8187065,Low
+Bangladesh,2009,2.8758037,Low
+Bangladesh,2010,2.687492,Low
+Bangladesh,2011,2.640286,Low
+Bangladesh,2012,2.7049658,Low
+Bangladesh,2013,2.8520393,Low
+Bangladesh,2014,2.8943079,Low
+Bangladesh,2015,2.556548,Low
+Bangladesh,2016,2.247401,Low
+Bangladesh,2017,2.1935306,Low
 Bangladesh,2018,2.339875,Low
+Barbados,1990,13.134107,High
+Barbados,1991,8.095543,Medium
+Barbados,1992,8.454628,Medium
+Barbados,1993,8.046116,Medium
+Barbados,1994,7.6420026,Medium
+Barbados,1995,6.481042,Medium
+Barbados,1998,7.586059,Medium
+Barbados,1999,8.706532,Medium
+Barbados,2000,7.556951,Medium
+Barbados,2001,9.420578,Medium
+Barbados,2002,9.382447,Medium
+Barbados,2003,12.336494,High
+Barbados,2004,8.193516,Medium
+Barbados,2005,10.761586,High
+Barbados,2006,12.942567,High
+Barbados,2007,9.210003,Medium
+Barbados,2008,8.4361725,Medium
+Barbados,2009,6.939587,Medium
+Barbados,2010,11.284586,High
+Barbados,2011,9.800843,Medium
+Barbados,2012,7.965315,Medium
+Barbados,2013,8.668485,Medium
+Barbados,2014,9.009236,Medium
+Barbados,2015,11.147751,High
+Barbados,2016,7.8952374,Medium
+Barbados,2017,10.745486,High
+Barbados,2018,10.011137,High
+Barbados,2019,17.131874,High
+Barbados,2020,14.606706,High
 Barbados,2021,11.379821,High
+Belarus,1990,4.8712544,Low
+Belarus,1991,4.44652,Low
+Belarus,1992,5.670153,Medium
+Belarus,1993,7.2134075,Medium
+Belarus,1994,7.913783,Medium
+Belarus,1995,9.176332,Medium
+Belarus,1996,9.29434,Medium
+Belarus,1997,9.816436,Medium
+Belarus,1998,10.002446,High
+Belarus,1999,9.448712,Medium
+Belarus,2000,9.87668,Medium
+Belarus,2001,9.498875,Medium
+Belarus,2002,9.757891,Medium
+Belarus,2007,6.604935,Medium
+Belarus,2008,5.639659,Medium
+Belarus,2009,4.9909263,Low
+Belarus,2010,4.12067,Low
+Belarus,2011,3.842595,Low
+Belarus,2012,3.5074148,Low
+Belarus,2013,3.4361296,Low
+Belarus,2014,3.5074184,Low
+Belarus,2015,3.3606138,Low
+Belarus,2016,3.1623044,Low
+Belarus,2017,2.4722195,Low
+Belarus,2018,2.3309605,Low
 Belarus,2019,2.3258288,Low
+Belgium,1990,1.0409307,Very Low
+Belgium,1991,1.023646,Very Low
+Belgium,1992,1.2075212,Very Low
+Belgium,1993,1.4407884,Very Low
+Belgium,1994,1.1917552,Very Low
+Belgium,1995,1.4066094,Very Low
+Belgium,1996,1.1853925,Very Low
+Belgium,1997,1.427886,Very Low
+Belgium,2000,2.0654027,Low
+Belgium,2001,2.7354062,Low
+Belgium,2002,3.0804682,Low
 Belgium,2021,1.0765264,Very Low
+Belize,2000,17.054483,High
+Belize,2001,25.796103,Very High
+Belize,2002,33.9861,Very High
+Belize,2003,25.37898,Very High
+Belize,2004,29.030403,Very High
+Belize,2005,28.88988,Very High
+Belize,2006,31.863733,Very High
+Belize,2007,32.640865,Very High
+Belize,2008,33.696304,Very High
+Belize,2009,30.874954,Very High
+Belize,2010,40.048866,Very High
+Belize,2011,37.628494,Very High
+Belize,2012,43.019176,Very High
+Belize,2013,28.721668,Very High
+Belize,2014,34.909958,Very High
+Belize,2015,33.067406,Very High
+Belize,2016,37.57019,Very High
+Belize,2017,37.89764,Very High
+Belize,2018,37.42809,Very High
+Belize,2019,34.43889,Very High
+Belize,2020,25.827984,Very High
 Belize,2021,31.247578,Very High
+Bermuda,1990,1.7400383,Very Low
+Bermuda,1991,5.183675,Medium
+Bermuda,1992,1.7146041,Very Low
+Bermuda,1993,5.107296,Medium
+Bermuda,1994,10.15031,High
+Bermuda,1996,6.6844363,Medium
+Bermuda,1997,3.3207698,Low
+Bermuda,1998,0.0,Undefined
+Bermuda,1999,3.279683,Low
+Bermuda,2000,0.0,Undefined
+Bermuda,2001,4.857277,Low
+Bermuda,2002,1.6092824,Very Low
+Bermuda,2003,3.201665,Low
+Bermuda,2004,1.5938668,Very Low
+Bermuda,2005,3.1766958,Low
+Bermuda,2006,4.755828,Low
+Bermuda,2007,4.7501802,Low
+Bermuda,2008,7.904201,Medium
+Bermuda,2009,9.470669,Medium
+Bermuda,2010,11.03283,High
+Bermuda,2011,12.591882,High
+Bermuda,2012,9.439825,Medium
+Bermuda,2013,7.873272,Medium
+Bermuda,2014,6.3136296,Medium
+Bermuda,2015,6.334727,Medium
+Bermuda,2016,12.684721,High
+Bermuda,2017,7.902015,Medium
+Bermuda,2019,0.0,Undefined
+Bermuda,2020,10.93229,High
 Bermuda,2021,10.905975,High
+Bhutan,1990,3.5813925,Low
+Bhutan,1991,2.1137552,Low
+Bhutan,1992,4.9455624,Low
+Bhutan,1993,3.6479673,Low
+Bhutan,1994,3.8368604,Low
+Bhutan,1995,3.0329683,Low
+Bhutan,1996,2.232583,Low
+Bhutan,1997,1.2800235,Very Low
+Bhutan,1998,1.9743602,Very Low
+Bhutan,1999,2.2767475,Low
+Bhutan,2000,3.0653586,Low
+Bhutan,2001,3.14969,Low
+Bhutan,2002,3.069229,Low
+Bhutan,2003,0.7878644,Undefined
+Bhutan,2004,2.3077242,Low
+Bhutan,2005,1.6583173,Very Low
+Bhutan,2006,1.3367802,Very Low
+Bhutan,2007,2.0539498,Low
+Bhutan,2008,2.6096904,Low
+Bhutan,2009,2.2933233,Low
+Bhutan,2010,2.267842,Low
+Bhutan,2011,4.485999,Low
+Bhutan,2012,4.576053,Low
+Bhutan,2013,3.2926848,Low
+Bhutan,2015,1.6144786,Very Low
+Bhutan,2016,1.2003818,Very Low
+Bhutan,2017,1.7193004,Very Low
+Bhutan,2018,1.1809528,Very Low
+Bhutan,2019,1.042401,Very Low
 Bhutan,2020,2.4595277,Low
+Bolivia,2015,4.896265,Low
+Bolivia,2016,5.7000723,Medium
+Bolivia,2017,6.5322704,Medium
+Bolivia,2018,4.945332,Low
+Bolivia,2019,4.2199774,Low
+Bolivia,2020,3.4935853,Low
 Bolivia,2021,3.4935303,Low
+Bosnia and Herzegovina,1990,1.6242758,Very Low
+Bosnia and Herzegovina,2000,2.3687894,Low
+Bosnia and Herzegovina,2001,1.9547397,Very Low
+Bosnia and Herzegovina,2002,2.1436687,Low
+Bosnia and Herzegovina,2004,1.6413782,Very Low
+Bosnia and Herzegovina,2007,1.6467577,Very Low
+Bosnia and Herzegovina,2008,1.6736863,Very Low
+Bosnia and Herzegovina,2009,1.8309587,Very Low
+Bosnia and Herzegovina,2010,1.4693967,Very Low
+Bosnia and Herzegovina,2011,1.362492,Very Low
+Bosnia and Herzegovina,2012,1.7145778,Very Low
+Bosnia and Herzegovina,2013,1.2715758,Very Low
+Bosnia and Herzegovina,2014,1.4001416,Very Low
+Bosnia and Herzegovina,2015,1.6173314,Very Low
+Bosnia and Herzegovina,2016,1.2927371,Very Low
+Bosnia and Herzegovina,2017,1.2209207,Very Low
+Bosnia and Herzegovina,2018,1.1470153,Very Low
+Bosnia and Herzegovina,2019,1.2497354,Very Low
+Bosnia and Herzegovina,2020,1.2958022,Very Low
 Bosnia and Herzegovina,2021,0.9783111,Undefined
+Botswana,2001,12.089016,High
+Botswana,2002,14.205095,High
+Botswana,2003,17.078451,High
+Botswana,2004,13.931584,High
+Botswana,2005,15.373992,High
+Botswana,2006,13.532407,High
+Botswana,2007,14.235042,High
+Botswana,2008,13.998765,High
+Botswana,2009,14.104462,High
+Botswana,2010,14.486071,High
+Botswana,2020,8.678912,Medium
 Botswana,2021,10.546963,High
+Brazil,1990,19.442558,High
+Brazil,1991,18.357327,High
+Brazil,1992,16.656002,High
+Brazil,1993,17.680256,High
+Brazil,1994,18.543499,High
+Brazil,1995,20.793213,Very High
+Brazil,1996,23.424883,Very High
+Brazil,1997,24.0331,Very High
+Brazil,1998,24.526455,Very High
+Brazil,1999,24.73625,Very High
+Brazil,2000,25.79976,Very High
+Brazil,2001,26.90898,Very High
+Brazil,2002,27.543724,Very High
+Brazil,2003,27.960468,Very High
+Brazil,2004,26.19828,Very High
+Brazil,2005,25.478415,Very High
+Brazil,2006,26.037931,Very High
+Brazil,2007,25.018942,Very High
+Brazil,2008,26.020863,Very High
+Brazil,2009,26.455711,Very High
+Brazil,2010,26.630033,Very High
+Brazil,2011,26.355639,Very High
+Brazil,2012,28.197144,Very High
+Brazil,2013,28.179903,Very High
+Brazil,2014,29.358646,Very High
+Brazil,2015,28.356405,Very High
+Brazil,2016,29.589155,Very High
+Brazil,2017,30.593037,Very High
+Brazil,2018,26.636013,Very High
+Brazil,2019,20.810465,Very High
 Brazil,2020,22.384066,Very High
+British Virgin Islands,1990,6.4034834,Medium
+British Virgin Islands,1991,0.0,Undefined
+British Virgin Islands,1992,0.0,Undefined
+British Virgin Islands,1993,0.0,Undefined
+British Virgin Islands,1994,0.0,Undefined
+British Virgin Islands,1995,11.315738,High
+British Virgin Islands,1996,11.037223,High
+British Virgin Islands,1999,5.1056876,Medium
+British Virgin Islands,2001,4.841091,Low
+British Virgin Islands,2002,4.6975923,Low
+British Virgin Islands,2003,9.09856,Medium
+British Virgin Islands,2004,17.609121,High
 British Virgin Islands,2006,8.222839,Medium
+Brunei,1996,2.9392939,Low
+Brunei,1997,2.554156,Low
+Brunei,1998,1.2494045,Very Low
+Brunei,1999,1.2230752,Very Low
+Brunei,2000,1.1978683,Very Low
+Brunei,2003,0.84735113,Undefined
+Brunei,2004,0.5548458,Undefined
+Brunei,2005,0.5453789,Undefined
+Brunei,2006,0.8047038,Undefined
+Brunei,2007,0.79208237,Undefined
+Brunei,2008,0.26003203,Undefined
+Brunei,2009,0.76861787,Undefined
+Brunei,2010,0.25249177,Undefined
+Brunei,2011,0.24906228,Undefined
+Brunei,2012,0.98368555,Undefined
 Brunei,2013,0.48578766,Undefined
+Bulgaria,1990,2.5890255,Low
+Bulgaria,1991,4.29964,Low
+Bulgaria,1992,5.329617,Medium
+Bulgaria,1993,5.690042,Medium
+Bulgaria,1994,5.755419,Medium
+Bulgaria,1995,5.827135,Medium
+Bulgaria,1996,5.213432,Medium
+Bulgaria,1997,4.784249,Low
+Bulgaria,1998,4.6266346,Low
+Bulgaria,1999,4.006223,Low
+Bulgaria,2000,4.099934,Low
+Bulgaria,2001,3.833296,Low
+Bulgaria,2002,3.1975684,Low
+Bulgaria,2003,3.1195772,Low
+Bulgaria,2004,3.1022274,Low
+Bulgaria,2005,2.546313,Low
+Bulgaria,2006,2.3950443,Low
+Bulgaria,2007,2.2930326,Low
+Bulgaria,2008,2.2410676,Low
+Bulgaria,2009,1.9647046,Very Low
+Bulgaria,2010,1.9493505,Very Low
+Bulgaria,2011,1.6969084,Very Low
+Bulgaria,2012,1.8829263,Very Low
+Bulgaria,2013,1.4667951,Very Low
+Bulgaria,2014,1.5192329,Very Low
+Bulgaria,2015,1.7238423,Very Low
+Bulgaria,2016,1.0902605,Very Low
+Bulgaria,2017,1.4340553,Very Low
+Bulgaria,2018,1.2926013,Very Low
+Bulgaria,2019,1.1768823,Very Low
+Bulgaria,2020,0.9886556,Undefined
 Bulgaria,2021,1.2779799,Very Low
+Burundi,2012,5.1043954,Medium
+Burundi,2013,5.123366,Medium
+Burundi,2014,5.3740325,Medium
+Burundi,2015,4.2975073,Low
 Burundi,2016,5.82391,Medium
+Cambodia,1992,4.414391,Low
+Cambodia,1993,5.847582,Medium
+Cambodia,1994,2.8487208,Low
+Cambodia,1995,3.6356883,Low
+Cambodia,1996,4.8468103,Low
+Cambodia,1997,2.7730227,Low
+Cambodia,1998,6.7957387,Medium
+Cambodia,1999,4.8827605,Low
+Cambodia,2000,4.711672,Low
+Cambodia,2001,3.2987006,Low
+Cambodia,2002,3.3832788,Low
+Cambodia,2003,3.980384,Low
+Cambodia,2004,3.9258256,Low
+Cambodia,2005,3.3820043,Low
+Cambodia,2006,2.967848,Low
+Cambodia,2007,2.8655195,Low
+Cambodia,2008,2.388143,Low
+Cambodia,2009,2.338274,Low
+Cambodia,2010,2.3044472,Low
 Cambodia,2011,1.8389057,Very Low
+Cameroon,2000,3.041428,Low
+Cameroon,2001,4.873089,Low
+Cameroon,2002,6.478559,Medium
+Cameroon,2003,6.126819,Medium
+Cameroon,2008,4.1326976,Low
+Cameroon,2009,6.609979,Medium
+Cameroon,2010,5.025647,Medium
+Cameroon,2011,4.0833545,Low
+Cameroon,2012,4.1839643,Low
+Cameroon,2015,3.741421,Low
+Cameroon,2016,3.3190465,Low
+Cameroon,2017,4.1159043,Low
 Cameroon,2020,4.5373755,Low
+Canada,1990,2.3755112,Low
+Canada,1991,2.6913424,Low
+Canada,1992,2.5857532,Low
+Canada,1993,2.1836066,Low
+Canada,1994,2.0565064,Low
+Canada,1995,2.0041366,Low
+Canada,1996,2.142337,Low
+Canada,1997,1.9609975,Very Low
+Canada,1998,1.8543822,Very Low
+Canada,1999,1.7730393,Very Low
+Canada,2000,1.7794689,Very Low
+Canada,2001,1.7869376,Very Low
+Canada,2002,1.8580953,Very Low
+Canada,2003,1.736273,Very Low
+Canada,2004,1.9585313,Very Low
+Canada,2005,2.061093,Low
+Canada,2006,1.8689367,Very Low
+Canada,2007,1.8166627,Very Low
+Canada,2008,1.8483654,Very Low
+Canada,2009,1.815805,Very Low
+Canada,2010,1.6400001,Very Low
+Canada,2011,1.774293,Very Low
+Canada,2012,1.582503,Very Low
+Canada,2013,1.4516441,Very Low
+Canada,2014,1.4828578,Very Low
+Canada,2015,1.7099458,Very Low
+Canada,2016,1.7057317,Very Low
+Canada,2017,1.8192091,Very Low
+Canada,2018,1.7874861,Very Low
+Canada,2019,1.8362274,Very Low
+Canada,2020,2.0032356,Low
 Canada,2021,2.0652595,Low
+Cape Verde,2003,3.1244206,Low
+Cape Verde,2004,4.3158107,Low
+Cape Verde,2005,8.928073,Medium
+Cape Verde,2006,7.015659,Medium
+Cape Verde,2013,10.001111,High
+Cape Verde,2014,11.903105,High
+Cape Verde,2015,8.330828,Medium
+Cape Verde,2016,11.103261,High
+Cape Verde,2017,6.7262115,Medium
+Cape Verde,2018,5.4271564,Medium
+Cape Verde,2019,5.718935,Medium
 Cape Verde,2020,6.1787724,Medium
+Cayman Islands,1990,7.6841803,Medium
+Cayman Islands,1991,7.315155,Medium
+Cayman Islands,1992,3.487176,Low
+Cayman Islands,1993,6.658122,Medium
+Cayman Islands,1994,6.365879,Medium
+Cayman Islands,1995,6.0971894,Medium
+Cayman Islands,1996,2.9245324,Low
+Cayman Islands,1997,5.6212935,Medium
+Cayman Islands,1998,2.7066164,Low
+Cayman Islands,1999,0.0,Undefined
+Cayman Islands,2000,10.08611,High
+Cayman Islands,2001,4.871573,Low
+Cayman Islands,2002,0.0,Undefined
+Cayman Islands,2003,6.8395553,Medium
+Cayman Islands,2004,11.040818,High
+Cayman Islands,2005,6.4203396,Medium
+Cayman Islands,2006,2.0756793,Low
+Cayman Islands,2007,4.028441,Low
+Cayman Islands,2008,7.824267,Medium
+Cayman Islands,2009,15.208692,High
+Cayman Islands,2010,16.644012,High
+Cayman Islands,2013,8.589294,Medium
+Cayman Islands,2014,8.394966,Medium
+Cayman Islands,2017,4.718391,Low
+Cayman Islands,2018,10.788484,High
+Cayman Islands,2019,3.024163,Low
 Cayman Islands,2020,4.456957,Low
+Chile,2003,3.2347336,Low
+Chile,2005,3.5609825,Low
+Chile,2006,3.6119704,Low
+Chile,2007,3.734343,Low
+Chile,2008,3.529102,Low
+Chile,2009,3.742549,Low
+Chile,2010,3.181574,Low
+Chile,2011,3.7033644,Low
+Chile,2012,2.5026278,Low
+Chile,2013,3.175342,Low
+Chile,2014,2.4763799,Low
+Chile,2015,2.3446956,Low
+Chile,2016,3.428468,Low
+Chile,2017,4.240938,Low
+Chile,2018,4.4114227,Low
+Chile,2019,3.9444344,Low
+Chile,2020,4.797849,Low
 Chile,2021,3.6320386,Low
+China,1995,2.2457106,Low
+China,1996,2.0687962,Low
+China,1997,2.1061537,Low
+China,2002,2.0513282,Low
+China,2003,1.8925831,Very Low
+China,2004,1.9055121,Very Low
+China,2005,1.5917081,Very Low
+China,2006,1.3687598,Very Low
+China,2007,1.2197381,Very Low
+China,2008,1.1134691,Very Low
+China,2009,1.0952669,Very Low
+China,2010,0.9946659,Undefined
+China,2011,0.8853467,Undefined
+China,2012,0.82586884,Undefined
+China,2013,0.77319944,Undefined
+China,2014,0.72791475,Undefined
+China,2015,0.66010606,Undefined
+China,2016,0.615883,Undefined
+China,2017,0.5665558,Undefined
+China,2018,0.53102547,Undefined
+China,2019,0.5189666,Undefined
 China,2020,0.50227034,Undefined
+Colombia,1990,74.628716,Very High
+Colombia,1991,85.42758,Very High
+Colombia,1992,83.043015,Very High
+Colombia,1993,82.16443,Very High
+Colombia,1994,76.72092,Very High
+Colombia,1995,62.054317,Very High
+Colombia,1996,63.741085,Very High
+Colombia,1997,62.211826,Very High
+Colombia,1998,60.849537,Very High
+Colombia,1999,63.12033,Very High
+Colombia,2000,67.6754,Very High
+Colombia,2001,69.88325,Very High
+Colombia,2002,70.170975,Very High
+Colombia,2003,57.29256,Very High
+Colombia,2004,48.525425,Very High
+Colombia,2005,42.895775,Very High
+Colombia,2006,40.86465,Very High
+Colombia,2007,39.712208,Very High
+Colombia,2008,36.836437,Very High
+Colombia,2009,35.693077,Very High
+Colombia,2010,34.494293,Very High
+Colombia,2011,35.59345,Very High
+Colombia,2012,35.90898,Very High
+Colombia,2013,33.35357,Very High
+Colombia,2014,28.585234,Very High
+Colombia,2015,27.128765,Very High
+Colombia,2016,26.040422,Very High
+Colombia,2017,25.434488,Very High
+Colombia,2018,26.231325,Very High
+Colombia,2019,25.753473,Very High
+Colombia,2020,24.242764,Very High
 Colombia,2021,27.484365,Very High
 Cook Islands,2012,3.489514,Low
+Costa Rica,1990,4.4011664,Low
+Costa Rica,1991,4.0748105,Low
+Costa Rica,1992,4.8164635,Low
+Costa Rica,1993,4.6984587,Low
+Costa Rica,1994,5.216167,Medium
+Costa Rica,1995,5.1499414,Medium
+Costa Rica,1996,5.1692533,Medium
+Costa Rica,1997,5.615842,Medium
+Costa Rica,1998,5.861693,Medium
+Costa Rica,1999,6.279749,Medium
+Costa Rica,2000,6.257551,Medium
+Costa Rica,2001,6.340634,Medium
+Costa Rica,2002,6.2581515,Medium
+Costa Rica,2003,7.1622796,Medium
+Costa Rica,2004,6.5838985,Medium
+Costa Rica,2005,7.7620196,Medium
+Costa Rica,2006,8.017045,Medium
+Costa Rica,2007,8.310775,Medium
+Costa Rica,2008,11.372923,High
+Costa Rica,2009,11.505267,High
+Costa Rica,2010,11.40137,High
+Costa Rica,2011,10.128365,High
+Costa Rica,2012,8.592673,Medium
+Costa Rica,2013,8.577627,Medium
+Costa Rica,2014,9.846647,Medium
+Costa Rica,2015,11.378396,High
+Costa Rica,2016,11.688089,High
+Costa Rica,2017,12.074873,High
+Costa Rica,2018,11.605453,High
+Costa Rica,2019,11.0728,High
+Costa Rica,2020,11.126065,High
 Costa Rica,2021,11.40871,High
+Croatia,1990,2.8110023,Low
+Croatia,1991,9.020497,Medium
+Croatia,1992,8.065321,Medium
+Croatia,1993,4.5488667,Low
+Croatia,1994,2.9671586,Low
+Croatia,1995,3.4532254,Low
+Croatia,1996,2.5637639,Low
+Croatia,1997,2.504578,Low
+Croatia,1998,2.2532516,Low
+Croatia,1999,2.4102511,Low
+Croatia,2000,2.2205446,Low
+Croatia,2001,1.7973005,Very Low
+Croatia,2002,1.6284217,Very Low
+Croatia,2003,1.5466903,Very Low
+Croatia,2004,1.86796,Very Low
+Croatia,2005,1.535099,Very Low
+Croatia,2006,1.6751331,Very Low
+Croatia,2007,1.4073216,Very Low
+Croatia,2008,1.6159633,Very Low
+Croatia,2009,1.1181778,Very Low
+Croatia,2010,1.4191923,Very Low
+Croatia,2011,1.1259601,Very Low
+Croatia,2012,1.1773956,Very Low
+Croatia,2013,1.0675694,Very Low
+Croatia,2014,0.8403416,Undefined
+Croatia,2015,0.86960304,Undefined
+Croatia,2016,1.041728,Very Low
+Croatia,2017,1.0972061,Very Low
+Croatia,2018,0.57685584,Undefined
+Croatia,2019,0.79907954,Undefined
+Croatia,2020,0.97635525,Undefined
 Croatia,2021,0.81278074,Undefined
+Cuba,1992,6.240873,Medium
+Cuba,1993,7.3978868,Medium
+Cuba,1994,8.275768,Medium
+Cuba,1995,7.7974114,Medium
+Cuba,1996,6.6769857,Medium
+Cuba,1997,6.792064,Medium
+Cuba,1998,7.413612,Medium
+Cuba,1999,5.501308,Medium
+Cuba,2000,5.2855306,Medium
+Cuba,2001,5.4313054,Medium
+Cuba,2002,5.9176097,Medium
+Cuba,2003,5.7325435,Medium
+Cuba,2004,5.8795786,Medium
+Cuba,2005,6.082101,Medium
+Cuba,2006,5.1151667,Medium
+Cuba,2007,5.0399795,Medium
+Cuba,2008,4.5669756,Low
+Cuba,2009,5.0074515,Medium
+Cuba,2010,4.4728193,Low
+Cuba,2011,4.726203,Low
+Cuba,2012,5.4910607,Medium
+Cuba,2013,5.953233,Medium
+Cuba,2014,5.2947283,Medium
+Cuba,2015,5.458605,Medium
+Cuba,2016,5.043197,Medium
+Cuba,2017,4.5517077,Low
+Cuba,2018,4.334299,Low
 Cuba,2019,4.4182506,Low
+Curacao,2001,7.110808,Medium
+Curacao,2002,27.584743,Very High
+Curacao,2003,30.047237,Very High
+Curacao,2004,28.259686,Very High
+Curacao,2005,17.655487,High
+Curacao,2006,12.02694,High
 Curacao,2007,17.091825,High
+Cyprus,1990,0.6341154,Undefined
+Cyprus,1991,0.12514697,Undefined
+Cyprus,1992,0.24678227,Undefined
+Cyprus,1993,0.6053375,Undefined
+Cyprus,1994,0.8289478,Undefined
+Cyprus,1995,1.043578,Very Low
+Cyprus,1996,1.136288,Very Low
+Cyprus,1997,0.66854566,Undefined
+Cyprus,1998,0.7653117,Undefined
+Cyprus,1999,1.0734221,Very Low
+Cyprus,2000,0.8436705,Undefined
+Cyprus,2001,0.72551644,Undefined
+Cyprus,2002,0.20362565,Undefined
+Cyprus,2004,1.5706531,Very Low
+Cyprus,2005,1.9285259,Very Low
+Cyprus,2006,1.4212109,Very Low
+Cyprus,2007,1.2105714,Very Low
+Cyprus,2008,0.82388157,Undefined
+Cyprus,2009,1.710211,Very Low
+Cyprus,2010,0.7081617,Undefined
+Cyprus,2011,0.7859672,Undefined
+Cyprus,2012,1.9021984,Very Low
+Cyprus,2013,1.0283054,Very Low
+Cyprus,2014,0.9345834,Undefined
+Cyprus,2015,1.263392,Very Low
+Cyprus,2016,1.0852493,Very Low
+Cyprus,2017,0.5792194,Undefined
+Cyprus,2018,1.2306874,Very Low
+Cyprus,2019,1.2206669,Very Low
+Cyprus,2020,1.212085,Very Low
 Cyprus,2021,1.2859793,Very Low
+Czechia,1994,2.0055609,Low
+Czechia,1995,1.7067988,Very Low
+Czechia,1996,1.6803211,Very Low
+Czechia,1997,1.8192352,Very Low
+Czechia,1998,1.6952732,Very Low
+Czechia,1999,1.6781884,Very Low
+Czechia,2000,1.8661984,Very Low
+Czechia,2001,1.3196125,Very Low
+Czechia,2002,1.3576645,Very Low
+Czechia,2003,1.5905484,Very Low
+Czechia,2004,1.3059157,Very Low
+Czechia,2005,1.0505722,Very Low
+Czechia,2006,1.2615461,Very Low
+Czechia,2007,1.2188246,Very Low
+Czechia,2008,1.0984159,Very Low
+Czechia,2009,0.90198064,Undefined
+Czechia,2010,0.98425674,Undefined
+Czechia,2011,0.8193302,Undefined
+Czechia,2012,0.9989473,Undefined
+Czechia,2013,0.85595655,Undefined
+Czechia,2014,0.7701683,Undefined
+Czechia,2015,0.83620006,Undefined
+Czechia,2016,0.6174252,Undefined
+Czechia,2017,0.62670296,Undefined
+Czechia,2019,0.9205769,Undefined
+Czechia,2020,0.73117787,Undefined
 Czechia,2021,0.44716123,Undefined
+Denmark,1990,0.7969485,Undefined
+Denmark,1991,1.3182573,Very Low
+Denmark,1992,1.1979591,Very Low
+Denmark,1993,1.367021,Very Low
+Denmark,1994,1.4384903,Very Low
+Denmark,1995,1.1269873,Very Low
+Denmark,1996,1.2937577,Very Low
+Denmark,1997,1.6674936,Very Low
+Denmark,1998,0.9247042,Undefined
+Denmark,1999,0.97747046,Undefined
+Denmark,2000,1.0860091,Very Low
+Denmark,2001,0.9700138,Undefined
+Denmark,2002,0.89240944,Undefined
+Denmark,2010,0.7566411,Undefined
+Denmark,2011,0.8249618,Undefined
+Denmark,2012,0.83914196,Undefined
+Denmark,2013,0.853275,Undefined
+Denmark,2014,1.3095833,Very Low
+Denmark,2015,1.0919731,Very Low
+Denmark,2016,0.9812757,Undefined
+Denmark,2017,1.2375193,Very Low
+Denmark,2018,1.005777,Very Low
+Denmark,2019,1.1387403,Very Low
+Denmark,2020,0.9441021,Undefined
 Denmark,2021,0.80283684,Undefined
+Dominica,1998,13.055209,High
+Dominica,1999,10.189599,High
+Dominica,2000,2.926287,Low
+Dominica,2001,1.4672976,Very Low
+Dominica,2002,13.184495,High
+Dominica,2003,11.688643,High
+Dominica,2004,11.666229,High
+Dominica,2005,11.649326,High
+Dominica,2006,7.273574,Medium
+Dominica,2007,10.178117,High
+Dominica,2008,10.177081,High
+Dominica,2009,18.899057,High
+Dominica,2010,21.816595,Very High
+Dominica,2011,8.728289,Medium
+Dominica,2014,12.973721,High
+Dominica,2015,12.855949,High
+Dominica,2016,22.83268,Very High
+Dominica,2017,26.987486,Very High
+Dominica,2018,18.35575,High
+Dominica,2019,18.200146,High
+Dominica,2020,20.834925,Very High
 Dominica,2021,13.809771,High
+Dominican Republic,1991,12.4752655,High
+Dominican Republic,1992,10.865263,High
+Dominican Republic,1993,12.275487,High
+Dominican Republic,1994,13.011504,High
+Dominican Republic,1995,12.795827,High
+Dominican Republic,1996,12.880175,High
+Dominican Republic,1997,12.736077,High
+Dominican Republic,1998,13.535172,High
+Dominican Republic,1999,12.673316,High
+Dominican Republic,2000,14.167305,High
+Dominican Republic,2001,12.631157,High
+Dominican Republic,2002,14.542187,High
+Dominican Republic,2003,21.323223,Very High
+Dominican Republic,2004,24.759134,Very High
+Dominican Republic,2005,26.121775,Very High
+Dominican Republic,2006,23.093077,Very High
+Dominican Republic,2007,22.452177,Very High
+Dominican Republic,2008,25.139275,Very High
+Dominican Republic,2009,24.616344,Very High
+Dominican Republic,2010,25.307508,Very High
+Dominican Republic,2011,25.37426,Very High
+Dominican Republic,2012,22.610174,Very High
+Dominican Republic,2013,19.474157,High
+Dominican Republic,2014,17.603382,High
+Dominican Republic,2016,15.35014,High
+Dominican Republic,2017,11.420795,High
+Dominican Republic,2018,9.920551,Medium
+Dominican Republic,2019,9.428515,Medium
+Dominican Republic,2020,8.73663,Medium
 Dominican Republic,2021,10.541584,High
+East Timor,2004,2.4313192,Low
+East Timor,2005,4.7456264,Low
+East Timor,2006,4.9267797,Low
+East Timor,2007,6.082236,Medium
+East Timor,2008,3.3554585,Low
+East Timor,2009,3.0031722,Low
+East Timor,2010,3.5829568,Low
 East Timor,2015,4.063648,Low
+Ecuador,1990,8.536018,Medium
+Ecuador,1991,10.789536,High
+Ecuador,1992,8.566804,Medium
+Ecuador,1993,8.317742,Medium
+Ecuador,1994,10.037319,High
+Ecuador,1995,11.867914,High
+Ecuador,1996,12.421422,High
+Ecuador,1997,10.982498,High
+Ecuador,1998,13.46585,High
+Ecuador,1999,13.551352,High
+Ecuador,2000,14.517079,High
+Ecuador,2001,12.907223,High
+Ecuador,2002,14.582335,High
+Ecuador,2007,15.948823,High
+Ecuador,2008,17.983282,High
+Ecuador,2009,17.805342,High
+Ecuador,2010,17.505487,High
+Ecuador,2011,15.376308,High
+Ecuador,2012,12.412907,High
+Ecuador,2013,10.971196,High
+Ecuador,2014,8.209052,Medium
+Ecuador,2015,6.4831214,Medium
+Ecuador,2016,5.8334804,Medium
+Ecuador,2017,5.8094463,Medium
+Ecuador,2018,5.841674,Medium
+Ecuador,2019,6.843968,Medium
+Ecuador,2020,7.800509,Medium
 Ecuador,2021,14.024255,High
+Egypt,1990,0.47015947,Undefined
+Egypt,1991,0.49137506,Undefined
+Egypt,1992,0.46008325,Undefined
+Egypt,1993,0.39750937,Undefined
+Egypt,1994,0.36797592,Undefined
+Egypt,2003,0.62003607,Undefined
+Egypt,2004,0.41536367,Undefined
+Egypt,2005,0.6601302,Undefined
+Egypt,2006,0.6808908,Undefined
+Egypt,2007,0.8270619,Undefined
+Egypt,2008,1.1533216,Very Low
+Egypt,2009,1.0666534,Very Low
+Egypt,2010,2.1076782,Low
+Egypt,2011,3.0302672,Low
+Egypt,2012,2.4188852,Low
+Egypt,2014,3.0232553,Low
+Egypt,2015,1.750853,Very Low
+Egypt,2016,1.5353159,Very Low
 Egypt,2017,1.3360921,Very Low
+El Salvador,1994,134.77866,Very High
+El Salvador,1995,138.77399,Very High
+El Salvador,1996,117.16123,Very High
+El Salvador,1997,112.50055,Very High
+El Salvador,1998,94.88397,Very High
+El Salvador,1999,64.90709,Very High
+El Salvador,2000,59.595715,Very High
+El Salvador,2001,59.95229,Very High
+El Salvador,2002,47.161377,Very High
+El Salvador,2003,55.684162,Very High
+El Salvador,2004,64.56631,Very High
+El Salvador,2005,64.29476,Very High
+El Salvador,2006,65.07651,Very High
+El Salvador,2007,57.85778,Very High
+El Salvador,2008,52.38873,Very High
+El Salvador,2009,71.939995,Very High
+El Salvador,2010,65.210625,Very High
+El Salvador,2011,71.21968,Very High
+El Salvador,2012,42.10158,Very High
+El Salvador,2013,40.62634,Very High
+El Salvador,2014,63.144913,Very High
+El Salvador,2015,106.8196,Very High
+El Salvador,2016,84.40911,Very High
+El Salvador,2017,63.223526,Very High
+El Salvador,2018,53.311302,Very High
+El Salvador,2019,38.183395,Very High
+El Salvador,2020,21.310303,Very High
 El Salvador,2021,18.165499,High
 Eritrea,2012,14.572975,High
+Estonia,1990,7.512698,Medium
+Estonia,1991,7.6007886,Medium
+Estonia,1992,14.0874195,High
+Estonia,1993,18.744572,High
+Estonia,1994,20.464489,Very High
+Estonia,1995,16.933111,High
+Estonia,1996,14.916322,High
+Estonia,1997,12.522072,High
+Estonia,1998,13.889416,High
+Estonia,1999,11.186332,High
+Estonia,2000,10.237125,High
+Estonia,2001,9.870357,Medium
+Estonia,2002,10.295525,High
+Estonia,2007,7.161109,Medium
+Estonia,2008,6.432258,Medium
+Estonia,2009,5.245208,Medium
+Estonia,2010,5.2570906,Medium
+Estonia,2011,4.8966837,Low
+Estonia,2012,4.7630496,Low
+Estonia,2013,3.9454272,Low
+Estonia,2014,3.118995,Low
+Estonia,2015,3.4229474,Low
+Estonia,2016,2.5077407,Low
+Estonia,2017,2.2010574,Low
+Estonia,2018,2.1177669,Low
+Estonia,2019,1.9592499,Very Low
+Estonia,2020,3.1592155,Low
 Estonia,2021,1.9567984,Very Low
+Eswatini,1990,19.086405,High
+Eswatini,1991,19.107317,High
+Eswatini,1992,18.807455,High
+Eswatini,1993,18.249496,High
+Eswatini,1994,15.9373,High
+Eswatini,1998,16.415339,High
+Eswatini,1999,11.19436,High
+Eswatini,2000,12.421197,High
+Eswatini,2001,17.66859,High
+Eswatini,2002,12.752086,High
+Eswatini,2003,12.7503195,High
+Eswatini,2004,13.6991,High
+Eswatini,2005,12.967797,High
+Eswatini,2006,11.783978,High
+Eswatini,2007,11.162274,High
+Eswatini,2008,19.910631,High
+Eswatini,2009,17.079403,High
+Eswatini,2010,18.910467,High
+Eswatini,2011,15.560379,High
+Eswatini,2012,9.357197,Medium
+Eswatini,2013,9.120832,Medium
+Eswatini,2014,10.48083,High
+Eswatini,2015,9.877101,Medium
+Eswatini,2016,10.15296,High
+Eswatini,2017,11.290696,High
 Eswatini,2021,12.664906,High
 Ethiopia,2012,8.631964,Medium
+Europe (UN),2000,7.7709756,Medium
+Europe (UN),2001,8.07029,Medium
+Europe (UN),2002,8.155012,Medium
+Europe (UN),2003,7.668064,Medium
+Europe (UN),2004,7.176179,Medium
+Europe (UN),2005,6.523952,Medium
+Europe (UN),2006,5.4910893,Medium
+Europe (UN),2007,4.9456253,Low
+Europe (UN),2008,3.858812,Low
+Europe (UN),2009,3.667208,Low
+Europe (UN),2010,3.4851217,Low
+Europe (UN),2011,3.402852,Low
+Europe (UN),2012,3.3826323,Low
+Europe (UN),2013,3.3395998,Low
+Europe (UN),2014,3.4196727,Low
+Europe (UN),2015,3.4586172,Low
+Europe (UN),2016,3.3354065,Low
+Europe (UN),2017,2.9369102,Low
+Europe (UN),2018,2.6214626,Low
+Europe (UN),2019,2.4577613,Low
+Europe (UN),2020,2.3697846,Low
 Europe (UN),2021,2.244574,Low
+Fiji,1990,4.1003036,Low
+Fiji,1991,2.1660686,Low
+Fiji,1992,3.304279,Low
+Fiji,1993,1.9006625,Very Low
+Fiji,1994,4.425878,Low
+Fiji,1995,3.0293622,Low
+Fiji,1996,1.6320617,Very Low
+Fiji,1997,1.6157659,Very Low
+Fiji,2003,2.912716,Low
+Fiji,2004,2.653761,Low
+Fiji,2005,2.6288013,Low
+Fiji,2006,2.491272,Low
+Fiji,2007,2.3578339,Low
+Fiji,2008,1.8957758,Very Low
+Fiji,2009,3.2172801,Low
+Fiji,2010,2.2095308,Low
+Fiji,2011,2.2017837,Low
+Fiji,2012,2.1952474,Low
+Fiji,2013,2.0800195,Low
+Fiji,2014,2.1844554,Low
 Fiji,2020,2.1729164,Low
+Finland,1990,3.0482028,Low
+Finland,1991,3.0714896,Low
+Finland,1992,3.093936,Low
+Finland,1993,2.5658207,Low
+Finland,1994,2.8888726,Low
+Finland,1995,2.8582935,Low
+Finland,1996,2.98553,Low
+Finland,1997,2.7043104,Low
+Finland,1998,2.1926656,Low
+Finland,1999,2.7683718,Low
+Finland,2000,2.8592353,Low
+Finland,2001,3.0069377,Low
+Finland,2002,2.5381708,Low
+Finland,2003,1.9758338,Very Low
+Finland,2004,2.8308342,Low
+Finland,2005,2.2683642,Low
+Finland,2006,2.2596722,Low
+Finland,2007,2.4391677,Low
+Finland,2008,2.5031288,Low
+Finland,2009,2.2476897,Low
+Finland,2010,2.2001498,Low
+Finland,2011,2.041511,Low
+Finland,2012,1.6439292,Very Low
+Finland,2013,1.6363689,Very Low
+Finland,2014,1.6112968,Very Low
+Finland,2015,1.4964975,Very Low
+Finland,2016,1.3466251,Very Low
+Finland,2017,1.2163817,Very Low
+Finland,2018,1.5592532,Very Low
+Finland,2019,1.466983,Very Low
 Finland,2020,1.645728,Very Low
+France,1990,2.401933,Low
+France,1991,2.392082,Low
+France,1992,2.360015,Low
+France,1993,2.6624026,Low
+France,1994,2.4567506,Low
+France,1995,2.3267012,Low
+France,1996,2.0321684,Low
+France,1997,1.6649561,Very Low
+France,1998,1.6546046,Very Low
+France,1999,1.6331859,Very Low
+France,2000,1.7915143,Very Low
+France,2001,1.774132,Very Low
+France,2002,1.8847018,Very Low
+France,2003,1.652484,Very Low
+France,2004,1.6470233,Very Low
+France,2005,1.6129544,Very Low
+France,2006,1.442896,Very Low
+France,2007,1.6191262,Very Low
+France,2008,1.654218,Very Low
+France,2009,1.318983,Very Low
+France,2010,1.2747306,Very Low
+France,2011,1.3635943,Very Low
+France,2012,1.2430353,Very Low
+France,2013,1.2268063,Very Low
+France,2014,1.2455084,Very Low
+France,2015,1.5859641,Very Low
+France,2016,1.2173907,Very Low
+France,2017,1.106883,Very Low
+France,2018,1.0827998,Very Low
+France,2019,1.1692591,Very Low
+France,2020,1.0732001,Very Low
 France,2021,1.13743,Very Low
+French Guiana,2004,29.944216,Very High
+French Guiana,2005,22.35925,Very High
+French Guiana,2006,20.204985,Very High
+French Guiana,2007,13.126836,High
+French Guiana,2008,14.644203,High
+French Guiana,2009,13.421408,High
+French Guiana,2018,13.000024,High
+French Guiana,2019,13.300023,High
 French Guiana,2020,13.300023,High
+French Polynesia,2006,1.0913019,Very Low
+French Polynesia,2007,2.5163789,Low
+French Polynesia,2008,3.2078872,Low
 French Polynesia,2009,0.35425505,Undefined
+Georgia,1990,5.0077567,Medium
+Georgia,1991,7.872824,Medium
+Georgia,1992,14.696543,High
+Georgia,1993,17.123318,High
+Georgia,1994,11.564827,High
+Georgia,1995,8.016112,Medium
+Georgia,1996,5.6707535,Medium
+Georgia,1997,6.142199,Medium
+Georgia,1998,5.378004,Medium
+Georgia,1999,5.5523944,Medium
+Georgia,2000,5.6035256,Medium
+Georgia,2001,6.345788,Medium
+Georgia,2002,7.1901217,Medium
+Georgia,2004,7.470807,Medium
+Georgia,2005,10.173732,High
+Georgia,2006,8.21075,Medium
+Georgia,2007,8.447523,Medium
+Georgia,2008,6.7788773,Medium
+Georgia,2009,5.447189,Medium
+Georgia,2010,4.8738136,Low
+Georgia,2016,1.0341783,Very Low
+Georgia,2017,2.4125772,Low
+Georgia,2018,2.3592877,Low
 Georgia,2019,2.0420012,Low
+Germany,1990,1.1729844,Very Low
+Germany,1991,1.4122455,Very Low
+Germany,1992,1.4437997,Very Low
+Germany,1993,1.6730069,Very Low
+Germany,1994,2.4096794,Low
+Germany,1995,2.5048301,Low
+Germany,1996,2.3652885,Low
+Germany,1997,2.2103224,Low
+Germany,1998,1.9650563,Very Low
+Germany,1999,1.6258575,Very Low
+Germany,2000,1.6725591,Very Low
+Germany,2001,1.4488208,Very Low
+Germany,2002,1.4390358,Very Low
+Germany,2003,1.3485471,Very Low
+Germany,2004,1.3683347,Very Low
+Germany,2005,1.2855216,Very Low
+Germany,2006,1.2170813,Very Low
+Germany,2007,1.0938139,Very Low
+Germany,2008,1.0231787,Very Low
+Germany,2009,0.9881786,Undefined
+Germany,2010,0.97509885,Undefined
+Germany,2011,0.9063736,Undefined
+Germany,2012,0.8081371,Undefined
+Germany,2013,0.8349597,Undefined
+Germany,2014,0.87467664,Undefined
+Germany,2015,0.8309653,Undefined
+Germany,2016,1.1696628,Very Low
+Germany,2017,0.9839711,Undefined
+Germany,2018,0.9505807,Undefined
+Germany,2019,0.7492651,Undefined
+Germany,2020,0.93844897,Undefined
 Germany,2021,0.83324784,Undefined
+Ghana,2001,2.144034,Low
+Ghana,2002,1.931755,Very Low
+Ghana,2003,2.044116,Low
+Ghana,2004,2.06332,Low
+Ghana,2005,1.7469034,Very Low
+Ghana,2006,1.783659,Very Low
+Ghana,2007,1.6829535,Very Low
+Ghana,2008,1.7676497,Very Low
+Ghana,2009,1.7113706,Very Low
+Ghana,2010,1.650067,Very Low
+Ghana,2011,1.6141378,Very Low
+Ghana,2012,2.0849807,Low
+Ghana,2013,2.001773,Low
+Ghana,2014,1.9257805,Very Low
+Ghana,2015,1.8184376,Very Low
+Ghana,2016,1.8575976,Very Low
+Ghana,2017,2.015071,Low
+Ghana,2018,1.6196619,Very Low
+Ghana,2019,1.8114166,Very Low
+Ghana,2020,1.7246522,Very Low
 Ghana,2021,1.8365651,Very Low
+Gibraltar,2009,0.0,Undefined
 Gibraltar,2010,3.1987717,Low
+Greece,1990,1.0094877,Very Low
+Greece,1991,1.3280025,Very Low
+Greece,1992,1.307453,Very Low
+Greece,1993,1.4199919,Very Low
+Greece,1994,1.2491293,Very Low
+Greece,1995,1.4075413,Very Low
+Greece,1996,1.5642636,Very Low
+Greece,1997,1.8666197,Very Low
+Greece,1998,1.6088524,Very Low
+Greece,1999,1.4098777,Very Low
+Greece,2001,1.1921769,Very Low
+Greece,2002,0.8471051,Undefined
+Greece,2004,0.9986423,Undefined
+Greece,2005,1.1877502,Very Low
+Greece,2006,0.99044734,Undefined
+Greece,2007,1.1720695,Very Low
+Greece,2008,1.3003874,Very Low
+Greece,2009,1.3748817,Very Low
+Greece,2010,1.5951011,Very Low
+Greece,2011,1.6720091,Very Low
+Greece,2012,1.5140965,Very Low
+Greece,2013,1.4018042,Very Low
+Greece,2014,0.9849978,Undefined
+Greece,2015,0.86058193,Undefined
+Greece,2016,0.7814141,Undefined
+Greece,2017,0.8043225,Undefined
+Greece,2018,0.93104,Undefined
+Greece,2019,0.7376567,Undefined
+Greece,2020,0.7419928,Undefined
 Greece,2021,0.85205257,Undefined
+Greenland,1992,23.344557,Very High
+Greenland,1993,21.540892,Very High
+Greenland,1994,10.771896,High
+Greenland,1995,19.717678,High
+Greenland,1996,5.360972,Medium
+Greenland,1997,19.617634,High
+Greenland,1998,10.690899,High
+Greenland,1999,19.605572,High
+Greenland,2000,23.13826,Very High
+Greenland,2001,30.149328,Very High
+Greenland,2002,21.214533,Very High
+Greenland,2003,8.813911,Medium
+Greenland,2004,19.34372,High
+Greenland,2005,17.578709,High
+Greenland,2006,14.0817795,High
+Greenland,2007,14.107357,High
+Greenland,2008,14.139896,High
+Greenland,2009,17.717302,High
+Greenland,2010,19.520506,High
+Greenland,2011,1.7765933,Very Low
+Greenland,2012,14.235255,High
+Greenland,2013,12.4801655,High
+Greenland,2014,7.148921,Medium
+Greenland,2015,7.156339,Medium
 Greenland,2016,5.3651905,Medium
+Grenada,2000,13.96232,High
+Grenada,2001,5.5588756,Medium
+Grenada,2002,12.935296,High
+Grenada,2003,8.276623,Medium
+Grenada,2004,5.4786267,Medium
+Grenada,2005,9.977008,Medium
+Grenada,2006,10.811979,High
+Grenada,2007,9.845647,Medium
+Grenada,2008,14.22494,High
+Grenada,2009,6.1810427,Medium
+Grenada,2010,8.7689295,Medium
+Grenada,2011,3.4807427,Low
+Grenada,2012,12.078076,High
+Grenada,2013,5.130639,Medium
+Grenada,2014,6.7812414,Medium
+Grenada,2015,5.0428853,Medium
+Grenada,2016,9.169265,Medium
+Grenada,2017,9.923876,Medium
+Grenada,2018,9.849144,Medium
+Grenada,2019,13.037437,High
+Grenada,2020,11.321091,High
 Grenada,2021,4.012519,Low
+Guadeloupe,2004,6.3627944,Medium
+Guadeloupe,2005,5.7038913,Medium
+Guadeloupe,2006,5.986142,Medium
+Guadeloupe,2007,7.220864,Medium
+Guadeloupe,2008,7.958318,Medium
+Guadeloupe,2009,8.940168,Medium
+Guadeloupe,2011,6.6973753,Medium
+Guadeloupe,2012,7.692613,Medium
+Guadeloupe,2013,8.698958,Medium
+Guadeloupe,2014,5.2389064,Medium
+Guadeloupe,2015,9.772268,Medium
 Guadeloupe,2016,5.781015,Medium
+Guam,2000,1.2485368,Very Low
+Guam,2001,4.95284,Low
+Guam,2002,1.230296,Very Low
+Guam,2003,4.8964105,Low
+Guam,2004,5.487671,Medium
+Guam,2005,4.2571177,Low
+Guam,2006,6.679824,Medium
+Guam,2007,0.60693055,Undefined
+Guam,2008,0.60707426,Undefined
+Guam,2009,3.038036,Low
+Guam,2010,1.8192292,Very Low
+Guam,2011,2.4147444,Low
 Guam,2019,4.151248,Low
+Guatemala,1992,27.869928,Very High
+Guatemala,1993,32.862526,Very High
+Guatemala,1994,32.08544,Very High
+Guatemala,1995,31.457798,Very High
+Guatemala,1996,34.03781,Very High
+Guatemala,1997,36.6608,Very High
+Guatemala,1998,29.595766,Very High
+Guatemala,1999,23.160458,Very High
+Guatemala,2000,24.7446,Very High
+Guatemala,2001,26.896059,Very High
+Guatemala,2002,29.544691,Very High
+Guatemala,2003,33.70589,Very High
+Guatemala,2004,35.06728,Very High
+Guatemala,2005,40.64628,Very High
+Guatemala,2006,43.87729,Very High
+Guatemala,2007,42.207535,Very High
+Guatemala,2008,45.00892,Very High
+Guatemala,2009,45.569904,Very High
+Guatemala,2010,40.981575,Very High
+Guatemala,2011,38.298565,Very High
+Guatemala,2012,34.075195,Very High
+Guatemala,2013,33.42484,Very High
+Guatemala,2014,33.429344,Very High
+Guatemala,2017,32.78298,Very High
+Guatemala,2018,28.895842,Very High
+Guatemala,2019,25.645466,Very High
+Guatemala,2020,18.960165,High
 Guatemala,2021,19.990364,High
+Guinea-Bissau,2016,3.4885912,Low
 Guinea-Bissau,2017,1.1171243,Very Low
+Guyana,1990,12.046314,High
+Guyana,1991,25.803104,Very High
+Guyana,1992,14.093998,High
+Guyana,1993,15.658678,High
+Guyana,1994,14.408722,High
+Guyana,1995,14.500669,High
+Guyana,1996,11.677739,High
+Guyana,1997,11.519959,High
+Guyana,1998,14.9333315,High
+Guyana,1999,12.005055,High
+Guyana,2000,10.012503,High
+Guyana,2001,10.5289545,High
+Guyana,2002,18.807783,High
+Guyana,2003,27.479698,Very High
+Guyana,2004,17.22722,High
+Guyana,2005,18.691368,High
+Guyana,2006,20.174915,Very High
+Guyana,2007,15.201154,High
+Guyana,2008,20.950739,Very High
+Guyana,2009,15.573877,High
+Guyana,2010,18.718292,High
+Guyana,2011,17.467718,High
+Guyana,2012,18.68365,High
+Guyana,2013,20.737991,Very High
+Guyana,2014,19.837175,High
+Guyana,2015,19.73429,High
+Guyana,2016,18.706684,High
+Guyana,2017,15.067107,High
+Guyana,2018,14.130875,High
+Guyana,2019,17.02654,High
+Guyana,2020,19.69388,High
 Guyana,2021,16.28205,High
+Haiti,2007,5.1587834,Medium
+Haiti,2008,5.20091,Medium
+Haiti,2009,6.145538,Medium
+Haiti,2010,6.878068,Medium
+Haiti,2011,9.181951,Medium
+Haiti,2012,10.219083,High
+Haiti,2013,10.125515,High
+Haiti,2014,9.411548,Medium
+Haiti,2015,10.138438,High
+Haiti,2016,9.595058,Medium
+Haiti,2018,6.746927,Medium
+Haiti,2020,11.32062,High
 Haiti,2021,13.007129,High
+Honduras,1990,9.806251,Medium
+Honduras,1991,13.542591,High
+Honduras,1992,17.86991,High
+Honduras,1993,22.78623,Very High
+Honduras,1994,29.762339,Very High
+Honduras,1995,26.389893,Very High
+Honduras,1999,39.568558,Very High
+Honduras,2000,47.71115,Very High
+Honduras,2001,51.0101,Very High
+Honduras,2002,51.610367,Very High
+Honduras,2003,56.554672,Very High
+Honduras,2004,49.286194,Very High
+Honduras,2005,42.460865,Very High
+Honduras,2006,40.25719,Very High
+Honduras,2007,45.277523,Very High
+Honduras,2008,54.987938,Very High
+Honduras,2009,63.7889,Very High
+Honduras,2010,73.79067,Very High
+Honduras,2011,82.38905,Very High
+Honduras,2012,81.570755,Very High
+Honduras,2013,71.769295,Very High
+Honduras,2014,64.53877,Very High
+Honduras,2015,55.38756,Very High
+Honduras,2016,54.435158,Very High
+Honduras,2017,40.13777,Very High
+Honduras,2018,37.874573,Very High
+Honduras,2019,40.94859,Very High
+Honduras,2020,35.695362,Very High
 Honduras,2021,38.245457,Very High
+Hong Kong,1990,2.3464637,Low
+Hong Kong,1991,1.5531497,Very Low
+Hong Kong,1992,1.7976973,Very Low
+Hong Kong,1993,1.4121956,Very Low
+Hong Kong,1994,1.5562419,Very Low
+Hong Kong,1995,1.1691488,Very Low
+Hong Kong,1996,1.2157683,Very Low
+Hong Kong,1997,1.583547,Very Low
+Hong Kong,1998,0.9776877,Undefined
+Hong Kong,1999,0.9485146,Undefined
+Hong Kong,2000,0.6388167,Undefined
+Hong Kong,2001,0.97036827,Undefined
+Hong Kong,2002,1.0074688,Very Low
+Hong Kong,2003,0.7551053,Undefined
+Hong Kong,2004,0.6506653,Undefined
+Hong Kong,2005,0.49013427,Undefined
+Hong Kong,2006,0.5028306,Undefined
+Hong Kong,2007,0.2570894,Undefined
+Hong Kong,2008,0.51058924,Undefined
+Hong Kong,2009,0.6624762,Undefined
+Hong Kong,2010,0.49071583,Undefined
+Hong Kong,2011,0.23692176,Undefined
+Hong Kong,2012,0.3732344,Undefined
+Hong Kong,2013,0.8496845,Undefined
+Hong Kong,2014,0.36723787,Undefined
+Hong Kong,2015,0.2973038,Undefined
+Hong Kong,2016,0.37655023,Undefined
+Hong Kong,2017,0.32165036,Undefined
+Hong Kong,2018,0.64157784,Undefined
+Hong Kong,2019,0.32016557,Undefined
+Hong Kong,2020,0.2932959,Undefined
 Hong Kong,2021,0.30688852,Undefined
+Hungary,1990,1.9371647,Very Low
+Hungary,1991,2.9591084,Low
+Hungary,1992,2.9411592,Low
+Hungary,1993,2.8771644,Low
+Hungary,1994,3.026367,Low
+Hungary,1995,2.8662257,Low
+Hungary,1996,2.6289577,Low
+Hungary,1997,2.8095841,Low
+Hungary,1998,2.8164988,Low
+Hungary,1999,2.4730563,Low
+Hungary,2000,2.0093992,Low
+Hungary,2001,2.4955897,Low
+Hungary,2002,2.000315,Low
+Hungary,2003,2.253396,Low
+Hungary,2004,2.070436,Low
+Hungary,2005,1.6280298,Very Low
+Hungary,2006,1.7301275,Very Low
+Hungary,2007,1.5336856,Very Low
+Hungary,2008,1.8057547,Very Low
+Hungary,2009,1.3888085,Very Low
+Hungary,2010,1.3818206,Very Low
+Hungary,2011,1.4568114,Very Low
+Hungary,2012,1.249732,Very Low
+Hungary,2013,1.5563983,Very Low
+Hungary,2014,1.4795446,Very Low
+Hungary,2015,2.2449663,Low
+Hungary,2016,2.0580525,Low
+Hungary,2017,1.6344975,Very Low
+Hungary,2018,0.87967324,Undefined
+Hungary,2019,0.65494615,Undefined
+Hungary,2020,0.8204647,Undefined
 Hungary,2021,0.7724166,Undefined
+Iceland,1994,0.0,Undefined
+Iceland,1995,0.0,Undefined
+Iceland,1996,0.37155867,Undefined
+Iceland,1997,0.7370405,Undefined
+Iceland,1998,0.0,Undefined
+Iceland,1999,0.7203936,Undefined
+Iceland,2000,1.7764387,Very Low
+Iceland,2001,0.35058442,Undefined
+Iceland,2002,1.3898637,Very Low
+Iceland,2005,1.010004,Very Low
+Iceland,2006,0.0,Undefined
+Iceland,2007,0.6413278,Undefined
+Iceland,2008,0.0,Undefined
+Iceland,2009,0.3136758,Undefined
+Iceland,2010,0.6282729,Undefined
+Iceland,2011,0.93957585,Undefined
+Iceland,2012,0.3115464,Undefined
+Iceland,2013,0.30861863,Undefined
+Iceland,2014,0.3052098,Undefined
+Iceland,2015,0.9061815,Undefined
+Iceland,2016,0.29790765,Undefined
+Iceland,2017,0.87302697,Undefined
+Iceland,2018,0.8499884,Undefined
+Iceland,2019,0.27718145,Undefined
+Iceland,2020,1.3636277,Very Low
 Iceland,2021,0.5400516,Undefined
+India,1990,5.0734553,Medium
+India,1991,5.46425,Medium
+India,1992,5.474815,Medium
+India,1993,5.175898,Medium
+India,1994,5.020619,Medium
+India,1995,4.810433,Low
+India,1996,4.7709646,Low
+India,1997,4.7307525,Low
+India,1998,4.825762,Low
+India,1999,4.5921187,Low
+India,2000,4.5456276,Low
+India,2001,4.3022475,Low
+India,2002,4.1642046,Low
+India,2003,3.967281,Low
+India,2004,4.0914764,Low
+India,2005,3.9055507,Low
+India,2006,3.8350396,Low
+India,2007,3.8129203,Low
+India,2008,3.8118565,Low
+India,2009,3.744892,Low
+India,2010,3.744921,Low
+India,2011,3.788104,Low
+India,2012,3.7252629,Low
+India,2013,3.5533159,Low
+India,2014,3.6225762,Low
+India,2015,3.3543067,Low
+India,2016,3.1614263,Low
+India,2017,3.0288827,Low
+India,2018,2.993784,Low
+India,2019,2.926661,Low
+India,2020,2.9111555,Low
 India,2021,2.9362788,Low
+Indonesia,1998,0.84577996,Undefined
+Indonesia,1999,0.99053586,Undefined
+Indonesia,2000,1.0295581,Very Low
+Indonesia,2003,0.7329205,Undefined
 Indonesia,2004,0.62804675,Undefined
+Iran,2009,2.9802475,Low
+Iran,2013,2.596263,Low
 Iran,2014,2.42116,Low
+Iraq,1990,6.614423,Medium
+Iraq,1991,6.5615554,Medium
+Iraq,1992,7.5983076,Medium
+Iraq,1993,5.7940016,Medium
+Iraq,1994,6.2573857,Medium
+Iraq,2008,15.729824,High
+Iraq,2009,8.432093,Medium
+Iraq,2010,8.607103,Medium
+Iraq,2011,8.1351385,Medium
+Iraq,2012,7.9641047,Medium
 Iraq,2013,9.410459,Medium
+Ireland,1990,0.48775247,Undefined
+Ireland,1991,0.656242,Undefined
+Ireland,1992,0.70854306,Undefined
+Ireland,1993,0.64867306,Undefined
+Ireland,1994,0.70236605,Undefined
+Ireland,1995,1.2012911,Very Low
+Ireland,1996,1.1644903,Very Low
+Ireland,1997,1.043913,Very Low
+Ireland,1998,1.0329828,Very Low
+Ireland,1999,1.0215297,Very Low
+Ireland,2000,0.98170567,Undefined
+Ireland,2001,1.3580506,Very Low
+Ireland,2002,1.3352995,Very Low
+Ireland,2003,0.9346491,Undefined
+Ireland,2004,0.744056,Undefined
+Ireland,2005,1.2617637,Very Low
+Ireland,2006,1.4640574,Very Low
+Ireland,2007,1.7890589,Very Low
+Ireland,2008,1.1454515,Very Low
+Ireland,2009,1.1778321,Very Low
+Ireland,2010,1.215581,Very Low
+Ireland,2011,0.92419386,Undefined
+Ireland,2012,1.1392142,Very Low
+Ireland,2013,1.1113939,Very Low
+Ireland,2015,0.6644148,Undefined
+Ireland,2016,0.72098243,Undefined
+Ireland,2017,0.8172925,Undefined
+Ireland,2018,0.80670065,Undefined
+Ireland,2019,0.6535922,Undefined
+Ireland,2020,0.6671898,Undefined
 Ireland,2021,0.4411889,Undefined
+Isle of Man,2011,1.1855435,Very Low
+Isle of Man,2012,2.3714104,Low
+Isle of Man,2013,2.3768919,Low
+Isle of Man,2014,3.5758557,Low
+Isle of Man,2015,1.1962724,Very Low
 Isle of Man,2016,0.0,Undefined
+Israel,1990,3.0604253,Low
+Israel,1991,2.2659166,Low
+Israel,1992,2.933424,Low
+Israel,1993,2.7047775,Low
+Israel,1994,2.6186373,Low
+Israel,1995,2.0442677,Low
+Israel,1996,2.0846345,Low
+Israel,1997,2.7162166,Low
+Israel,1998,2.5044706,Low
+Israel,1999,2.2855854,Low
+Israel,2000,2.5175912,Low
+Israel,2001,3.0939493,Low
+Israel,2002,3.272142,Low
+Israel,2003,2.6405542,Low
+Israel,2004,2.4105568,Low
+Israel,2005,2.517082,Low
+Israel,2006,2.2394361,Low
+Israel,2007,1.9418864,Very Low
+Israel,2008,1.6962277,Very Low
+Israel,2009,2.0000827,Low
+Israel,2010,2.046819,Low
+Israel,2011,1.9705757,Very Low
+Israel,2012,1.6859617,Very Low
+Israel,2013,1.6436564,Very Low
+Israel,2014,1.3733737,Very Low
+Israel,2015,1.3736645,Very Low
+Israel,2016,1.2746646,Very Low
+Israel,2017,1.4802767,Very Low
+Israel,2018,1.3717287,Very Low
+Israel,2019,1.5334716,Very Low
+Israel,2020,1.4273497,Very Low
 Israel,2021,1.9438074,Very Low
+Italy,1990,3.160868,Low
+Italy,1991,3.412303,Low
+Italy,1992,2.5970743,Low
+Italy,1993,1.8832606,Very Low
+Italy,1994,1.7034721,Very Low
+Italy,1995,1.7790239,Very Low
+Italy,1996,1.6748984,Very Low
+Italy,1997,1.5335753,Very Low
+Italy,1998,1.5613272,Very Low
+Italy,1999,1.4382281,Very Low
+Italy,2000,1.3446523,Very Low
+Italy,2001,1.243969,Very Low
+Italy,2002,1.1276963,Very Low
+Italy,2005,1.0481122,Very Low
+Italy,2006,1.0696578,Very Low
+Italy,2007,1.0735221,Very Low
+Italy,2008,1.0384264,Very Low
+Italy,2009,0.99055046,Undefined
+Italy,2010,0.8842834,Undefined
+Italy,2011,0.9196023,Undefined
+Italy,2012,0.8805428,Undefined
+Italy,2013,0.8323302,Undefined
+Italy,2014,0.7874304,Undefined
+Italy,2015,0.77864414,Undefined
+Italy,2016,0.6720047,Undefined
+Italy,2017,0.6266246,Undefined
+Italy,2018,0.5995582,Undefined
+Italy,2019,0.53073996,Undefined
+Italy,2020,0.47898695,Undefined
 Italy,2021,0.51147586,Undefined
+Jamaica,1990,22.742195,Very High
+Jamaica,1991,23.467297,Very High
+Jamaica,1992,25.959368,Very High
+Jamaica,1993,26.717505,Very High
+Jamaica,1994,27.856258,Very High
+Jamaica,1995,31.083475,Very High
+Jamaica,1996,36.51949,Very High
+Jamaica,1997,40.626945,Very High
+Jamaica,1998,33.338936,Very High
+Jamaica,1999,32.893337,Very High
+Jamaica,2000,33.955986,Very High
+Jamaica,2001,43.383774,Very High
+Jamaica,2002,39.609688,Very High
+Jamaica,2003,36.7782,Very High
+Jamaica,2004,55.21721,Very High
+Jamaica,2005,62.535885,Very High
+Jamaica,2006,49.820415,Very High
+Jamaica,2007,58.64015,Very High
+Jamaica,2008,59.711445,Very High
+Jamaica,2009,61.82042,Very High
+Jamaica,2010,52.928127,Very High
+Jamaica,2011,41.25747,Very High
+Jamaica,2012,39.930183,Very High
+Jamaica,2013,43.34454,Very High
+Jamaica,2014,36.0921,Very High
+Jamaica,2015,43.264412,Very High
+Jamaica,2016,48.310635,Very High
+Jamaica,2017,58.646004,Very High
+Jamaica,2018,45.84195,Very High
+Jamaica,2019,47.62289,Very High
+Jamaica,2020,47.262203,Very High
 Jamaica,2021,52.127274,Very High
+Japan,1990,0.54654384,Undefined
+Japan,1991,0.51501524,Undefined
+Japan,1992,0.5408025,Undefined
+Japan,1993,0.57301044,Undefined
+Japan,1994,0.6002273,Undefined
+Japan,1995,0.5771961,Undefined
+Japan,1996,0.5185871,Undefined
+Japan,1997,0.56336695,Undefined
+Japan,1998,0.6135776,Undefined
+Japan,1999,0.581565,Undefined
+Japan,2000,0.53468406,Undefined
+Japan,2001,0.548535,Undefined
+Japan,2002,0.5200243,Undefined
+Japan,2003,0.5466566,Undefined
+Japan,2004,0.5474998,Undefined
+Japan,2005,0.5031363,Undefined
+Japan,2006,0.48396364,Undefined
+Japan,2007,0.44841498,Undefined
+Japan,2008,0.5106278,Undefined
+Japan,2009,0.39495137,Undefined
+Japan,2010,0.36298227,Undefined
+Japan,2011,0.34529293,Undefined
+Japan,2012,0.3355398,Undefined
+Japan,2013,0.2897894,Undefined
+Japan,2014,0.30986047,Undefined
+Japan,2015,0.28526312,Undefined
+Japan,2016,0.28505316,Undefined
+Japan,2017,0.24158695,Undefined
+Japan,2018,0.26454216,Undefined
+Japan,2019,0.2535939,Undefined
+Japan,2020,0.25390282,Undefined
 Japan,2021,0.22870894,Undefined
+Jordan,1990,3.4476943,Low
+Jordan,1991,3.3002589,Low
+Jordan,1992,3.6463435,Low
+Jordan,1993,4.0483255,Low
+Jordan,1994,4.604777,Low
+Jordan,1995,0.7850711,Undefined
+Jordan,1996,0.9764194,Undefined
+Jordan,1997,0.88726175,Undefined
+Jordan,2007,1.7301421,Very Low
+Jordan,2008,1.809171,Very Low
+Jordan,2009,1.5043155,Very Low
+Jordan,2010,1.6735778,Very Low
+Jordan,2011,1.9831281,Very Low
+Jordan,2012,2.2324328,Low
+Jordan,2013,1.8713902,Very Low
+Jordan,2014,1.9634961,Very Low
+Jordan,2015,1.5904369,Very Low
+Jordan,2016,1.3146466,Very Low
+Jordan,2017,1.3019582,Very Low
+Jordan,2018,0.8986731,Undefined
+Jordan,2019,1.1403272,Very Low
+Jordan,2020,0.98822176,Undefined
 Jordan,2021,1.0225796,Very Low
+Kazakhstan,1990,8.745113,Medium
+Kazakhstan,1991,8.897367,Medium
+Kazakhstan,1992,11.030652,High
+Kazakhstan,1993,15.229954,High
+Kazakhstan,1994,15.220499,High
+Kazakhstan,1995,14.889569,High
+Kazakhstan,1996,16.25966,High
+Kazakhstan,1997,16.314346,High
+Kazakhstan,1998,16.3562,High
+Kazakhstan,1999,15.560831,High
+Kazakhstan,2000,15.259658,High
+Kazakhstan,2001,14.134937,High
+Kazakhstan,2002,12.823553,High
+Kazakhstan,2003,12.9145565,High
+Kazakhstan,2004,13.47127,High
+Kazakhstan,2008,11.156719,High
+Kazakhstan,2009,10.797221,High
+Kazakhstan,2010,8.341434,Medium
+Kazakhstan,2011,8.419846,Medium
+Kazakhstan,2012,7.402269,Medium
+Kazakhstan,2013,6.45692,Medium
+Kazakhstan,2014,5.1386127,Medium
+Kazakhstan,2015,4.782487,Low
+Kazakhstan,2017,4.995956,Low
 Kazakhstan,2020,3.192962,Low
+Kenya,2004,3.4482226,Low
+Kenya,2005,3.0231836,Low
+Kenya,2006,2.9951317,Low
+Kenya,2007,2.896301,Low
+Kenya,2008,3.1009858,Low
+Kenya,2009,4.725644,Low
+Kenya,2010,4.638963,Low
+Kenya,2011,5.3265915,Medium
+Kenya,2012,5.429288,Medium
+Kenya,2014,5.029252,Medium
+Kenya,2015,4.825887,Low
+Kenya,2016,4.933743,Low
+Kenya,2017,5.0379853,Medium
+Kenya,2018,3.1409333,Low
+Kenya,2019,3.0931406,Low
+Kenya,2020,3.5759778,Low
 Kenya,2021,5.274913,Medium
+Kiribati,1991,0.0,Undefined
+Kiribati,1992,0.0,Undefined
+Kiribati,1993,0.0,Undefined
+Kiribati,1994,0.0,Undefined
+Kiribati,1995,0.0,Undefined
+Kiribati,1996,1.2072701,Very Low
+Kiribati,1997,0.0,Undefined
+Kiribati,1998,0.0,Undefined
+Kiribati,1999,0.0,Undefined
+Kiribati,2000,3.3774085,Low
+Kiribati,2001,4.418376,Low
+Kiribati,2008,6.73297,Medium
+Kiribati,2009,0.94343626,Undefined
+Kiribati,2010,3.703875,Low
+Kiribati,2011,10.011786,High
 Kiribati,2012,7.167335,Medium
+Kosovo,2008,6.2660465,Medium
+Kosovo,2009,4.061273,Low
+Kosovo,2010,5.9133224,Medium
+Kosovo,2011,3.4457116,Low
+Kosovo,2012,4.968498,Low
+Kosovo,2013,2.2706196,Low
+Kosovo,2014,3.0936956,Low
+Kosovo,2015,2.3875546,Low
+Kosovo,2016,2.1705317,Low
+Kosovo,2017,2.771898,Low
+Kosovo,2018,2.5731566,Low
+Kosovo,2019,1.4227626,Very Low
+Kosovo,2020,2.2146425,Low
 Kosovo,2021,1.9855483,Very Low
+Kuwait,1996,0.9393434,Undefined
+Kuwait,2001,1.9581518,Very Low
+Kuwait,2002,1.1233958,Very Low
+Kuwait,2003,1.3799628,Very Low
+Kuwait,2004,1.9967675,Very Low
+Kuwait,2005,1.8341216,Very Low
+Kuwait,2006,1.9040293,Very Low
+Kuwait,2007,2.3536272,Low
+Kuwait,2008,1.4334589,Very Low
+Kuwait,2009,1.7527857,Very Low
+Kuwait,2010,2.038489,Low
+Kuwait,2011,1.876695,Very Low
+Kuwait,2012,1.7969383,Very Low
+Kuwait,2017,1.1151773,Very Low
+Kuwait,2018,0.85703987,Undefined
+Kuwait,2019,0.36027116,Undefined
 Kuwait,2020,0.25226787,Undefined
+Latvia,1992,9.726298,Medium
+Latvia,1993,14.665265,High
+Latvia,1994,13.35147,High
+Latvia,1995,11.205569,High
+Latvia,1996,10.574965,High
+Latvia,1997,10.884881,High
+Latvia,1998,10.152956,High
+Latvia,1999,9.438043,Medium
+Latvia,2000,9.947631,Medium
+Latvia,2001,9.282613,Medium
+Latvia,2002,9.199775,Medium
+Latvia,2012,3.4085884,Low
+Latvia,2013,2.461252,Low
+Latvia,2014,3.1824346,Low
+Latvia,2015,3.3635306,Low
+Latvia,2016,3.496369,Low
+Latvia,2017,4.143514,Low
+Latvia,2018,4.339671,Low
+Latvia,2019,3.391501,Low
+Latvia,2020,3.6899357,Low
 Latvia,2021,3.0417538,Low
+Lebanon,2008,3.744159,Low
+Lebanon,2009,2.9286218,Low
+Lebanon,2010,3.262741,Low
+Lebanon,2011,3.3299925,Low
+Lebanon,2012,3.746376,Low
+Lebanon,2013,4.15577,Low
+Lebanon,2014,3.825102,Low
+Lebanon,2015,3.6099732,Low
+Lebanon,2016,3.7548215,Low
+Lebanon,2017,4.02668,Low
+Lebanon,2018,2.8903487,Low
+Lebanon,2019,3.1477506,Low
 Lebanon,2020,2.2603166,Low
+Lesotho,1990,28.84941,Very High
+Lesotho,1991,30.008043,Very High
+Lesotho,1992,34.436245,Very High
+Lesotho,1993,35.26957,Very High
+Lesotho,1994,43.59791,Very High
+Lesotho,2007,45.123055,Very High
 Lesotho,2008,37.69398,Very High
+Liberia,2007,2.7527428,Low
+Liberia,2008,4.677729,Low
+Liberia,2009,3.713126,Low
+Liberia,2010,3.2089903,Low
+Liberia,2011,3.8506157,Low
 Liberia,2012,3.1165302,Low
+Liechtenstein,1994,0.0,Undefined
+Liechtenstein,1995,0.0,Undefined
+Liechtenstein,1996,0.0,Undefined
+Liechtenstein,1997,0.0,Undefined
+Liechtenstein,1998,0.0,Undefined
+Liechtenstein,1999,3.066074,Low
+Liechtenstein,2000,0.0,Undefined
+Liechtenstein,2001,0.0,Undefined
+Liechtenstein,2002,0.0,Undefined
+Liechtenstein,2003,0.0,Undefined
+Liechtenstein,2004,2.915452,Low
+Liechtenstein,2007,0.0,Undefined
+Liechtenstein,2008,2.8248188,Low
+Liechtenstein,2009,0.0,Undefined
+Liechtenstein,2010,2.7834995,Low
+Liechtenstein,2011,0.0,Undefined
+Liechtenstein,2012,0.0,Undefined
+Liechtenstein,2013,0.0,Undefined
+Liechtenstein,2014,2.695672,Low
+Liechtenstein,2015,0.0,Undefined
+Liechtenstein,2016,0.0,Undefined
+Liechtenstein,2017,2.6393232,Low
+Liechtenstein,2018,2.6191037,Low
+Liechtenstein,2019,2.5986176,Low
+Liechtenstein,2020,2.5802457,Low
 Liechtenstein,2021,5.1230164,Medium
+Lithuania,1990,4.7545505,Low
+Lithuania,1991,5.6413393,Medium
+Lithuania,1992,7.0078535,Medium
+Lithuania,1993,10.980519,High
+Lithuania,1994,12.332725,High
+Lithuania,1995,13.396428,High
+Lithuania,1996,10.881183,High
+Lithuania,1997,10.582167,High
+Lithuania,1998,8.484493,Medium
+Lithuania,1999,8.503158,Medium
+Lithuania,2000,10.278815,High
+Lithuania,2001,9.915335,Medium
+Lithuania,2002,8.33381,Medium
+Lithuania,2004,10.021647,High
+Lithuania,2005,11.027016,High
+Lithuania,2006,8.667046,Medium
+Lithuania,2007,8.46469,Medium
+Lithuania,2008,9.242094,Medium
+Lithuania,2009,7.9233346,Medium
+Lithuania,2010,6.976703,Medium
+Lithuania,2011,6.806896,Medium
+Lithuania,2012,6.5941076,Medium
+Lithuania,2013,6.5385604,Medium
+Lithuania,2014,5.3089767,Medium
+Lithuania,2015,5.80343,Medium
+Lithuania,2016,5.2153044,Medium
+Lithuania,2017,3.4429927,Low
+Lithuania,2018,3.1987455,Low
+Lithuania,2019,3.299307,Low
+Lithuania,2020,3.5812218,Low
 Lithuania,2021,2.5837471,Low
+Luxembourg,1994,1.4923759,Very Low
+Luxembourg,1995,0.4906344,Undefined
+Luxembourg,1996,0.9680507,Undefined
+Luxembourg,1997,0.9559967,Undefined
+Luxembourg,1998,0.94434613,Undefined
+Luxembourg,1999,1.3974662,Very Low
+Luxembourg,2000,0.9182146,Undefined
+Luxembourg,2001,2.0396624,Low
+Luxembourg,2002,1.3455554,Very Low
+Luxembourg,2003,0.66467047,Undefined
+Luxembourg,2004,0.43688297,Undefined
+Luxembourg,2005,0.86047506,Undefined
+Luxembourg,2006,1.4817841,Very Low
+Luxembourg,2007,1.458733,Very Low
+Luxembourg,2008,1.6372122,Very Low
+Luxembourg,2009,1.0042822,Very Low
+Luxembourg,2010,1.9721162,Very Low
+Luxembourg,2011,0.7718938,Undefined
+Luxembourg,2012,0.0,Undefined
+Luxembourg,2013,0.18413985,Undefined
+Luxembourg,2014,0.71933454,Undefined
+Luxembourg,2015,0.87810576,Undefined
+Luxembourg,2016,0.8571169,Undefined
+Luxembourg,2017,0.3354115,Undefined
+Luxembourg,2018,0.49349168,Undefined
+Luxembourg,2019,0.6451894,Undefined
+Luxembourg,2020,0.4758887,Undefined
 Luxembourg,2021,0.6256638,Undefined
+Macao,1991,3.311345,Low
+Macao,1992,0.80565137,Undefined
+Macao,1993,3.1519847,Low
+Macao,1994,3.3437977,Low
+Macao,1995,2.0169373,Low
+Macao,1996,4.2048297,Low
+Macao,1997,7.286868,Medium
+Macao,1998,5.7309875,Medium
+Macao,1999,8.695284,Medium
+Macao,2000,2.3153749,Low
+Macao,2001,1.8218172,Very Low
+Macao,2002,0.44477555,Undefined
+Macao,2003,1.7296063,Very Low
+Macao,2004,0.84116757,Undefined
+Macao,2005,0.81863374,Undefined
+Macao,2006,1.9925777,Very Low
+Macao,2007,1.1643025,Very Low
+Macao,2008,0.7560886,Undefined
+Macao,2009,0.9207747,Undefined
+Macao,2010,0.35887507,Undefined
+Macao,2011,0.7005217,Undefined
+Macao,2012,0.6863813,Undefined
+Macao,2013,0.16852792,Undefined
+Macao,2014,0.16551715,Undefined
+Macao,2015,0.16253845,Undefined
+Macao,2016,0.1595689,Undefined
+Macao,2017,0.31318069,Undefined
+Macao,2018,0.30722392,Undefined
+Macao,2019,0.30136254,Undefined
+Macao,2020,0.2957342,Undefined
 Macao,2021,0.43693116,Undefined
+Malawi,2000,6.233644,Medium
+Malawi,2001,7.826891,Medium
+Malawi,2002,4.8114057,Low
+Malawi,2003,2.4818072,Low
+Malawi,2004,3.3114872,Low
+Malawi,2005,1.5679328,Very Low
+Malawi,2006,6.25843,Medium
+Malawi,2007,5.112829,Medium
+Malawi,2008,5.615784,Medium
+Malawi,2009,2.2379293,Low
+Malawi,2010,3.5329876,Low
+Malawi,2011,2.2646103,Low
 Malawi,2012,1.7906137,Very Low
+Malaysia,1990,1.7868301,Very Low
+Malaysia,1991,2.1312654,Low
+Malaysia,1992,1.9755263,Very Low
+Malaysia,1993,1.8897561,Very Low
+Malaysia,1994,1.7152743,Very Low
+Malaysia,1995,1.9665402,Very Low
+Malaysia,1996,2.1605632,Low
+Malaysia,1997,2.5412748,Low
+Malaysia,1998,2.8839264,Low
+Malaysia,1999,2.6286786,Low
+Malaysia,2000,2.4013789,Low
+Malaysia,2001,2.1960268,Low
+Malaysia,2002,2.3402767,Low
+Malaysia,2003,2.2838054,Low
+Malaysia,2004,1.9618487,Very Low
+Malaysia,2005,2.329929,Low
+Malaysia,2006,2.21808,Low
+Malaysia,2007,2.406561,Low
+Malaysia,2008,2.1580162,Low
+Malaysia,2009,1.9881488,Very Low
+Malaysia,2010,1.8803715,Very Low
+Malaysia,2011,1.8160553,Very Low
+Malaysia,2012,2.0296552,Low
+Malaysia,2013,2.0806503,Low
+Malaysia,2014,1.666315,Very Low
+Malaysia,2015,1.6028925,Very Low
+Malaysia,2016,1.446406,Very Low
+Malaysia,2017,1.1852711,Very Low
+Malaysia,2018,0.996936,Undefined
+Malaysia,2019,0.94500613,Undefined
+Malaysia,2020,0.76204836,Undefined
 Malaysia,2021,0.72377706,Undefined
+Maldives,1990,0.44452938,Undefined
+Maldives,1995,0.77456933,Undefined
+Maldives,1997,2.2301517,Low
+Maldives,2001,2.4362783,Low
+Maldives,2002,2.7370687,Low
+Maldives,2007,0.9227192,Undefined
+Maldives,2008,1.4841948,Very Low
+Maldives,2009,1.7190155,Very Low
+Maldives,2010,1.659409,Very Low
+Maldives,2011,0.8011954,Undefined
+Maldives,2012,2.580382,Low
+Maldives,2013,0.7486375,Undefined
+Maldives,2015,0.9183116,Undefined
+Maldives,2016,3.962554,Low
+Maldives,2017,7.1966505,Medium
 Maldives,2019,0.59463876,Undefined
+Malta,1990,1.0947162,Very Low
+Malta,1991,0.813737,Undefined
+Malta,1992,1.6134259,Very Low
+Malta,1993,1.8654653,Very Low
+Malta,1994,0.79247046,Undefined
+Malta,1998,1.2739421,Very Low
+Malta,1999,2.5253642,Low
+Malta,2000,1.0019752,Very Low
+Malta,2001,1.4919751,Very Low
+Malta,2002,1.4825852,Very Low
+Malta,2004,1.7123351,Very Low
+Malta,2005,0.97511506,Undefined
+Malta,2006,0.0,Undefined
+Malta,2007,0.9706829,Undefined
+Malta,2008,1.4513736,Very Low
+Malta,2009,0.96269554,Undefined
+Malta,2010,0.9552125,Undefined
+Malta,2011,0.7082638,Undefined
+Malta,2012,2.7913015,Low
+Malta,2013,1.5999086,Very Low
+Malta,2014,1.3439626,Very Low
+Malta,2015,0.8760815,Undefined
+Malta,2016,1.06905,Very Low
+Malta,2017,1.6684151,Very Low
+Malta,2018,1.6273856,Very Low
+Malta,2019,0.9927835,Undefined
+Malta,2020,1.3582791,Very Low
 Malta,2021,0.3796882,Undefined
+Marshall Islands,1991,10.626202,High
+Marshall Islands,1992,4.165365,Low
 Marshall Islands,1994,4.0128813,Low
+Martinique,2004,4.632621,Low
+Martinique,2005,4.74561,Low
+Martinique,2006,5.814674,Medium
+Martinique,2007,5.810722,Medium
+Martinique,2008,4.2986393,Low
 Martinique,2009,2.7903626,Low
+Mauritania,2018,1.241011,Very Low
+Mauritania,2019,1.0949284,Very Low
 Mauritania,2020,1.0225395,Very Low
+Mauritius,1990,1.8343743,Very Low
+Mauritius,1991,2.6261942,Low
+Mauritius,1992,2.7710388,Low
+Mauritius,1993,1.8530742,Very Low
+Mauritius,1994,2.3536365,Low
+Mauritius,1995,2.154787,Low
+Mauritius,1996,2.899683,Low
+Mauritius,1997,2.0265872,Low
+Mauritius,1998,2.5944028,Low
+Mauritius,1999,1.9080597,Very Low
+Mauritius,2000,2.1382802,Low
+Mauritius,2009,2.9690573,Low
+Mauritius,2010,2.5714352,Low
+Mauritius,2011,2.4878802,Low
+Mauritius,2012,2.1726573,Low
+Mauritius,2013,2.7117248,Low
+Mauritius,2014,1.4704591,Very Low
+Mauritius,2015,1.6239377,Very Low
+Mauritius,2016,1.6229864,Very Low
+Mauritius,2017,2.5487733,Low
+Mauritius,2018,2.8563013,Low
+Mauritius,2019,2.082885,Low
+Mauritius,2020,2.6968145,Low
 Mauritius,2021,2.6175704,Low
+Mayotte,2007,13.8030815,High
+Mayotte,2008,2.4877417,Low
 Mayotte,2009,5.8157005,Medium
+Melanesia (UN),2000,7.16485,Medium
+Melanesia (UN),2001,6.5680356,Medium
+Melanesia (UN),2002,6.82727,Medium
+Melanesia (UN),2003,8.43759,Medium
+Melanesia (UN),2004,8.149921,Medium
+Melanesia (UN),2005,7.9523335,Medium
+Melanesia (UN),2006,7.76853,Medium
+Melanesia (UN),2007,6.601061,Medium
+Melanesia (UN),2008,7.209065,Medium
+Melanesia (UN),2009,8.131709,Medium
+Melanesia (UN),2010,7.9978237,Medium
+Melanesia (UN),2011,7.807635,Medium
+Melanesia (UN),2012,7.8362203,Medium
+Melanesia (UN),2013,7.8513894,Medium
+Melanesia (UN),2014,7.883369,Medium
+Melanesia (UN),2015,7.9044995,Medium
+Melanesia (UN),2016,7.9241652,Medium
+Melanesia (UN),2017,7.942087,Medium
+Melanesia (UN),2018,7.958736,Medium
+Melanesia (UN),2019,7.9742045,Medium
+Melanesia (UN),2020,7.977513,Medium
 Melanesia (UN),2021,7.986667,Medium
+Mexico,1990,17.734856,High
+Mexico,1991,18.149622,High
+Mexico,1992,19.523924,High
+Mexico,1993,18.511583,High
+Mexico,1994,17.934782,High
+Mexico,1995,17.352533,High
+Mexico,1996,15.837478,High
+Mexico,1997,14.54341,High
+Mexico,1998,14.410036,High
+Mexico,1999,12.71503,High
+Mexico,2000,10.970289,High
+Mexico,2001,10.347677,High
+Mexico,2002,9.9963255,Medium
+Mexico,2003,9.847764,Medium
+Mexico,2004,8.974869,Medium
+Mexico,2005,9.408928,Medium
+Mexico,2006,9.77857,Medium
+Mexico,2007,8.187218,Medium
+Mexico,2008,12.769354,High
+Mexico,2009,17.8326,High
+Mexico,2010,22.88852,Very High
+Mexico,2011,23.839584,Very High
+Mexico,2012,22.432549,Very High
+Mexico,2013,19.663113,High
+Mexico,2014,16.849691,High
+Mexico,2015,17.28008,High
+Mexico,2016,20.209972,Very High
+Mexico,2017,26.114616,Very High
+Mexico,2018,29.581371,Very High
+Mexico,2019,29.308798,Very High
+Mexico,2020,29.185314,Very High
 Mexico,2021,28.175653,Very High
+Micronesia (UN),2000,2.6292775,Low
+Micronesia (UN),2001,3.8976588,Low
+Micronesia (UN),2002,2.859357,Low
+Micronesia (UN),2003,4.09454,Low
+Micronesia (UN),2004,4.3032413,Low
+Micronesia (UN),2005,3.9949517,Low
+Micronesia (UN),2006,4.8294773,Low
+Micronesia (UN),2007,2.8944008,Low
+Micronesia (UN),2008,3.0177946,Low
+Micronesia (UN),2009,2.6787715,Low
+Micronesia (UN),2010,2.807247,Low
+Micronesia (UN),2011,4.3306828,Low
+Micronesia (UN),2012,3.7207158,Low
+Micronesia (UN),2013,3.7279189,Low
+Micronesia (UN),2014,3.7343729,Low
+Micronesia (UN),2015,3.7429314,Low
+Micronesia (UN),2016,3.1739383,Low
+Micronesia (UN),2017,3.171224,Low
+Micronesia (UN),2018,3.4059107,Low
+Micronesia (UN),2019,4.194537,Low
+Micronesia (UN),2020,4.1780834,Low
 Micronesia (UN),2021,3.749088,Low
 Micronesia (country),2019,0.89783937,Undefined
+Moldova,1990,6.4729276,Medium
+Moldova,1991,6.4574633,Medium
+Moldova,1992,11.101465,High
+Moldova,1993,8.612078,Medium
+Moldova,1994,8.945886,Medium
+Moldova,1995,9.010964,Medium
+Moldova,1996,9.028948,Medium
+Moldova,1997,9.42239,Medium
+Moldova,1998,8.613691,Medium
+Moldova,1999,9.084704,Medium
+Moldova,2000,10.184465,High
+Moldova,2001,9.784547,Medium
+Moldova,2002,9.668144,Medium
+Moldova,2003,7.791925,Medium
+Moldova,2004,6.844584,Medium
+Moldova,2005,7.3974442,Medium
+Moldova,2006,6.6451116,Medium
+Moldova,2007,5.5973377,Medium
+Moldova,2008,6.1902905,Medium
+Moldova,2009,6.560888,Medium
+Moldova,2010,7.2046385,Medium
+Moldova,2011,6.0081334,Medium
+Moldova,2012,6.529443,Medium
+Moldova,2013,6.7027063,Medium
+Moldova,2014,4.822761,Low
+Moldova,2015,5.7667875,Medium
+Moldova,2016,6.201314,Medium
+Moldova,2017,4.4332566,Low
+Moldova,2018,5.283533,Medium
+Moldova,2019,3.8913121,Low
 Moldova,2020,3.0147362,Low
+Monaco,2001,3.0822816,Low
+Monaco,2007,0.0,Undefined
 Monaco,2008,0.0,Undefined
+Mongolia,2003,13.630294,High
+Mongolia,2004,13.1208315,High
+Mongolia,2005,15.551401,High
+Mongolia,2006,13.01699,High
+Mongolia,2007,11.321582,High
+Mongolia,2008,8.048939,Medium
+Mongolia,2009,8.212358,Medium
+Mongolia,2010,8.843597,Medium
+Mongolia,2011,9.694098,Medium
+Mongolia,2012,7.1266165,Medium
+Mongolia,2013,7.3106775,Medium
+Mongolia,2014,7.337686,Medium
+Mongolia,2015,7.21815,Medium
+Mongolia,2016,6.0735,Medium
+Mongolia,2017,6.169192,Medium
+Mongolia,2018,6.194708,Medium
+Mongolia,2019,6.341979,Medium
+Mongolia,2020,6.2228036,Medium
 Mongolia,2021,6.153327,Medium
+Montenegro,2002,4.2671757,Low
+Montenegro,2007,1.898967,Very Low
+Montenegro,2008,3.8006766,Low
+Montenegro,2009,3.327091,Low
+Montenegro,2010,2.3770134,Low
+Montenegro,2011,3.3238997,Low
+Montenegro,2012,2.6854098,Low
+Montenegro,2013,1.5774226,Very Low
+Montenegro,2014,3.1531096,Low
+Montenegro,2015,2.6815298,Low
+Montenegro,2016,4.4215403,Low
+Montenegro,2017,2.371774,Low
+Montenegro,2018,2.2171035,Low
+Montenegro,2019,3.6485002,Low
+Montenegro,2020,2.861469,Low
 Montenegro,2021,2.3890734,Low
+Montserrat,1990,0.0,Undefined
+Montserrat,1991,0.0,Undefined
+Montserrat,1992,19.786308,High
+Montserrat,1993,0.0,Undefined
+Montserrat,1994,11.16196,High
+Montserrat,1995,0.0,Undefined
+Montserrat,1996,12.960923,High
+Montserrat,1997,0.0,Undefined
+Montserrat,1998,15.603058,High
+Montserrat,1999,0.0,Undefined
+Montserrat,2000,0.0,Undefined
+Montserrat,2001,0.0,Undefined
+Montserrat,2002,0.0,Undefined
+Montserrat,2003,0.0,Undefined
+Montserrat,2004,0.0,Undefined
+Montserrat,2005,21.308332,Very High
+Montserrat,2006,21.134947,Very High
+Montserrat,2008,20.774904,Very High
+Montserrat,2012,20.100502,Very High
+Montserrat,2017,0.0,Undefined
 Montserrat,2018,0.0,Undefined
+Morocco,1990,0.36221838,Undefined
+Morocco,1991,0.49623656,Undefined
+Morocco,1992,0.5196712,Undefined
+Morocco,1993,0.57349277,Undefined
+Morocco,1994,0.7022485,Undefined
+Morocco,1997,2.671814,Low
+Morocco,1998,2.0005884,Low
+Morocco,1999,1.9164569,Very Low
+Morocco,2000,1.6144613,Very Low
+Morocco,2001,1.8769381,Very Low
+Morocco,2002,1.576694,Very Low
+Morocco,2003,1.7194139,Very Low
+Morocco,2004,1.5649388,Very Low
+Morocco,2005,1.5411459,Very Low
+Morocco,2006,1.6151514,Very Low
+Morocco,2007,1.6553199,Very Low
+Morocco,2008,1.3466102,Very Low
+Morocco,2009,1.3481935,Very Low
+Morocco,2010,1.3891941,Very Low
+Morocco,2011,1.3402748,Very Low
+Morocco,2012,1.1483511,Very Low
+Morocco,2013,1.2690983,Very Low
+Morocco,2014,1.0365386,Very Low
+Morocco,2015,1.2427748,Very Low
+Morocco,2016,1.6919576,Very Low
+Morocco,2017,2.1419656,Low
+Morocco,2018,1.419525,Very Low
+Morocco,2019,1.7270631,Very Low
+Morocco,2020,1.2483383,Very Low
 Morocco,2021,1.9311379,Very Low
+Mozambique,2001,6.037084,Medium
+Mozambique,2002,5.5630007,Medium
+Mozambique,2003,5.4412537,Medium
+Mozambique,2004,5.7376685,Medium
+Mozambique,2005,5.3881245,Medium
+Mozambique,2006,4.311346,Low
+Mozambique,2007,3.9895654,Low
+Mozambique,2008,4.554699,Low
+Mozambique,2009,3.668104,Low
+Mozambique,2010,3.7921925,Low
 Mozambique,2011,3.573169,Low
+Myanmar,1990,5.102301,Medium
+Myanmar,1995,3.7616441,Low
+Myanmar,2000,2.2859862,Low
+Myanmar,2001,1.9906627,Very Low
+Myanmar,2002,1.7512822,Very Low
+Myanmar,2003,1.6281545,Very Low
+Myanmar,2004,1.5695487,Very Low
+Myanmar,2005,1.4164641,Very Low
+Myanmar,2006,1.6157784,Very Low
+Myanmar,2007,1.5460626,Very Low
+Myanmar,2008,1.6232471,Very Low
+Myanmar,2009,1.793298,Very Low
+Myanmar,2010,1.6217533,Very Low
+Myanmar,2011,2.118707,Low
+Myanmar,2012,2.8595219,Low
+Myanmar,2013,2.4443054,Low
+Myanmar,2014,2.408344,Low
+Myanmar,2015,2.5289435,Low
+Myanmar,2016,2.5803418,Low
+Myanmar,2017,2.6621614,Low
+Myanmar,2018,2.7569962,Low
+Myanmar,2019,2.863865,Low
+Myanmar,2020,2.94067,Low
 Myanmar,2021,28.437815,Very High
+Namibia,1995,23.234512,Very High
+Namibia,1996,21.393078,Very High
+Namibia,1997,19.312065,High
+Namibia,1998,23.445335,Very High
+Namibia,1999,21.31276,Very High
+Namibia,2000,20.88898,Very High
+Namibia,2001,19.015272,High
+Namibia,2002,18.321177,High
+Namibia,2004,18.14989,High
+Namibia,2008,17.36527,High
+Namibia,2009,18.76282,High
+Namibia,2010,14.957577,High
+Namibia,2011,14.444222,High
+Namibia,2012,17.901054,High
+Namibia,2018,19.7865,High
+Namibia,2019,13.038265,High
+Namibia,2020,12.173084,High
 Namibia,2021,12.449852,High
+Nepal,1990,1.8046005,Very Low
+Nepal,1997,2.4731803,Low
+Nepal,1998,2.742231,Low
+Nepal,1999,2.609435,Low
+Nepal,2000,2.5855575,Low
+Nepal,2001,3.3979707,Low
+Nepal,2002,3.3869965,Low
+Nepal,2003,2.9474854,Low
+Nepal,2004,3.599451,Low
+Nepal,2005,3.3402941,Low
+Nepal,2006,2.30024,Low
+Nepal,2007,3.1482027,Low
+Nepal,2008,3.3182619,Low
+Nepal,2009,2.9822094,Low
+Nepal,2010,2.9932,Low
+Nepal,2011,2.4902444,Low
+Nepal,2012,2.3490074,Low
+Nepal,2013,2.2131686,Low
+Nepal,2014,2.0318909,Low
+Nepal,2015,2.020983,Low
+Nepal,2016,2.1463552,Low
+Nepal,2017,2.18923,Low
+Nepal,2018,2.2100058,Low
 Nepal,2019,2.2856154,Low
+Netherlands,1990,0.90333945,Undefined
+Netherlands,1991,1.1763468,Very Low
+Netherlands,1992,1.2738698,Very Low
+Netherlands,1993,1.2589267,Very Low
+Netherlands,1994,1.1140443,Very Low
+Netherlands,1995,1.2494603,Very Low
+Netherlands,1996,1.3579073,Very Low
+Netherlands,1997,1.3307823,Very Low
+Netherlands,1998,1.1194081,Very Low
+Netherlands,1999,1.2837956,Very Low
+Netherlands,2000,1.1321371,Very Low
+Netherlands,2001,1.2639507,Very Low
+Netherlands,2002,1.2144206,Very Low
+Netherlands,2003,1.2525128,Very Low
+Netherlands,2004,1.1793009,Very Low
+Netherlands,2005,1.0699902,Very Low
+Netherlands,2006,0.784041,Undefined
+Netherlands,2007,0.8724176,Undefined
+Netherlands,2008,0.9112575,Undefined
+Netherlands,2009,0.93128973,Undefined
+Netherlands,2010,0.8665763,Undefined
+Netherlands,2011,0.85621196,Undefined
+Netherlands,2012,0.86385113,Undefined
+Netherlands,2013,0.7410766,Undefined
+Netherlands,2014,0.725489,Undefined
+Netherlands,2015,0.610289,Undefined
+Netherlands,2016,0.548921,Undefined
+Netherlands,2017,0.76712084,Undefined
+Netherlands,2018,0.5785014,Undefined
+Netherlands,2019,0.62776226,Undefined
+Netherlands,2020,0.61372364,Undefined
 Netherlands,2021,0.65136546,Undefined
+New Caledonia,2006,3.2568715,Low
+New Caledonia,2007,4.8121843,Low
+New Caledonia,2008,4.346512,Low
 New Caledonia,2009,3.113125,Low
+New Zealand,1990,1.8646106,Very Low
+New Zealand,1991,1.539586,Very Low
+New Zealand,1992,1.8852232,Very Low
+New Zealand,1993,1.1590061,Very Low
+New Zealand,1994,1.5700786,Very Low
+New Zealand,1995,1.0615443,Very Low
+New Zealand,1996,1.2873957,Very Low
+New Zealand,1997,1.5890453,Very Low
+New Zealand,1998,1.2860744,Very Low
+New Zealand,1999,1.173864,Very Low
+New Zealand,2000,1.3488045,Very Low
+New Zealand,2001,1.3111961,Very Low
+New Zealand,2002,1.5195322,Very Low
+New Zealand,2003,1.0945435,Very Low
+New Zealand,2004,1.1025605,Very Low
+New Zealand,2005,1.4760036,Very Low
+New Zealand,2006,1.1722549,Very Low
+New Zealand,2007,1.1370382,Very Low
+New Zealand,2008,1.1971161,Very Low
+New Zealand,2009,1.5570943,Very Low
+New Zealand,2010,0.9893385,Undefined
+New Zealand,2011,0.89015305,Undefined
+New Zealand,2012,0.92964524,Undefined
+New Zealand,2013,1.0335582,Very Low
+New Zealand,2014,0.95255077,Undefined
+New Zealand,2015,1.0456172,Very Low
+New Zealand,2016,1.0711039,Very Low
+New Zealand,2017,0.7374241,Undefined
+New Zealand,2018,1.5500588,Very Low
 New Zealand,2019,2.601313,Low
+Nicaragua,1990,15.894716,High
+Nicaragua,1991,16.915901,High
+Nicaragua,1992,18.657509,High
+Nicaragua,1993,16.833498,High
+Nicaragua,1994,15.674794,High
+Nicaragua,1995,14.972694,High
+Nicaragua,1996,13.756154,High
+Nicaragua,1997,13.86857,High
+Nicaragua,1998,12.845378,High
+Nicaragua,1999,11.1091795,High
+Nicaragua,2000,9.291027,Medium
+Nicaragua,2001,10.341313,High
+Nicaragua,2002,10.534311,High
+Nicaragua,2003,11.929224,High
+Nicaragua,2004,11.993562,High
+Nicaragua,2005,13.3646755,High
+Nicaragua,2006,13.056503,High
+Nicaragua,2007,12.733052,High
+Nicaragua,2008,12.9401045,High
+Nicaragua,2009,13.897943,High
+Nicaragua,2010,13.405664,High
+Nicaragua,2011,12.418905,High
+Nicaragua,2012,11.159739,High
+Nicaragua,2013,9.706867,Medium
+Nicaragua,2014,8.45591,Medium
+Nicaragua,2015,8.319312,Medium
+Nicaragua,2016,7.0900507,Medium
+Nicaragua,2017,6.650689,Medium
+Nicaragua,2018,10.376991,High
+Nicaragua,2019,7.7281795,Medium
 Nicaragua,2021,11.006432,High
+Niger,2011,4.8081617,Low
 Niger,2012,4.3888946,Low
+Nigeria,2016,33.604195,Very High
 Nigeria,2019,21.74079,Very High
+North Macedonia,1998,2.384685,Low
+North Macedonia,1999,1.8776759,Very Low
+North Macedonia,2000,2.3062556,Low
+North Macedonia,2001,2.6785054,Low
+North Macedonia,2002,2.905939,Low
+North Macedonia,2003,3.3797772,Low
+North Macedonia,2004,2.360451,Low
+North Macedonia,2006,2.2103956,Low
+North Macedonia,2007,2.0158503,Low
+North Macedonia,2008,1.6776698,Very Low
+North Macedonia,2009,1.6748115,Very Low
+North Macedonia,2010,2.053655,Low
+North Macedonia,2011,1.4305472,Very Low
+North Macedonia,2012,1.3812957,Very Low
+North Macedonia,2013,1.046515,Very Low
+North Macedonia,2014,1.662478,Very Low
+North Macedonia,2015,1.1859796,Very Low
+North Macedonia,2016,0.90039027,Undefined
+North Macedonia,2017,1.467818,Very Low
+North Macedonia,2018,1.1828771,Very Low
 North Macedonia,2019,1.1351941,Very Low
+Norway,1990,1.1080631,Very Low
+Norway,1991,1.1731894,Very Low
+Norway,1992,1.0731223,Very Low
+Norway,1993,0.8812338,Undefined
+Norway,1994,0.7609403,Undefined
+Norway,1995,0.96345025,Undefined
+Norway,1996,0.98139685,Undefined
+Norway,1997,0.8625908,Undefined
+Norway,1998,0.8574635,Undefined
+Norway,1999,0.73955506,Undefined
+Norway,2000,1.0687563,Very Low
+Norway,2001,0.81966907,Undefined
+Norway,2002,1.0135647,Very Low
+Norway,2004,0.7839248,Undefined
+Norway,2005,0.71371585,Undefined
+Norway,2006,0.7079893,Undefined
+Norway,2007,0.63699996,Undefined
+Norway,2008,0.71298945,Undefined
+Norway,2009,0.6005136,Undefined
+Norway,2010,0.59307843,Undefined
+Norway,2011,2.2408123,Low
+Norway,2012,0.53794974,Undefined
+Norway,2013,0.90539265,Undefined
+Norway,2014,0.56443036,Undefined
+Norway,2015,0.462396,Undefined
+Norway,2016,0.51560277,Undefined
+Norway,2017,0.530565,Undefined
+Norway,2018,0.47060418,Undefined
+Norway,2019,0.5235329,Undefined
+Norway,2020,0.5762254,Undefined
 Norway,2021,0.5367368,Undefined
+Oceania (UN),2000,3.094576,Low
+Oceania (UN),2001,2.9357376,Low
+Oceania (UN),2002,3.0845072,Low
+Oceania (UN),2003,3.232133,Low
+Oceania (UN),2004,3.050152,Low
+Oceania (UN),2005,3.0521536,Low
+Oceania (UN),2006,3.0573175,Low
+Oceania (UN),2007,2.6378613,Low
+Oceania (UN),2008,2.8316567,Low
+Oceania (UN),2009,3.092007,Low
+Oceania (UN),2010,2.900689,Low
+Oceania (UN),2011,2.9056568,Low
+Oceania (UN),2012,2.8817048,Low
+Oceania (UN),2013,2.9008741,Low
+Oceania (UN),2014,2.900352,Low
+Oceania (UN),2015,2.9064977,Low
+Oceania (UN),2016,2.878421,Low
+Oceania (UN),2017,2.8182988,Low
+Oceania (UN),2018,2.9779515,Low
+Oceania (UN),2019,3.0673318,Low
+Oceania (UN),2020,2.9498804,Low
 Oceania (UN),2021,2.9040174,Low
+Oman,2002,1.1648909,Very Low
+Oman,2003,1.4393815,Very Low
+Oman,2004,1.7011935,Very Low
+Oman,2005,2.107195,Low
+Oman,2006,4.7253637,Low
+Oman,2007,1.4199636,Very Low
+Oman,2008,1.7728968,Very Low
+Oman,2009,1.3716216,Very Low
+Oman,2010,1.6655595,Very Low
+Oman,2011,1.0602238,Very Low
+Oman,2012,1.1030726,Very Low
+Oman,2013,2.5414758,Low
+Oman,2014,0.29930654,Undefined
+Oman,2015,0.38169974,Undefined
+Oman,2016,0.36379594,Undefined
+Oman,2017,0.3742965,Undefined
+Oman,2018,0.28253767,Undefined
+Oman,2019,0.49969932,Undefined
+Oman,2020,0.30813938,Undefined
 Oman,2021,0.24333748,Undefined
+Pakistan,1990,7.112651,Medium
+Pakistan,1996,6.603281,Medium
+Pakistan,1997,6.583162,Medium
+Pakistan,1998,7.043081,Medium
+Pakistan,1999,6.2340317,Medium
+Pakistan,2000,5.7692585,Medium
+Pakistan,2001,6.025083,Medium
+Pakistan,2002,5.7980137,Medium
+Pakistan,2003,5.600543,Medium
+Pakistan,2004,5.633799,Medium
+Pakistan,2005,5.6098423,Medium
+Pakistan,2006,5.6427255,Medium
+Pakistan,2007,5.8024063,Medium
+Pakistan,2008,6.485706,Medium
+Pakistan,2009,6.5699496,Medium
+Pakistan,2010,6.7830777,Medium
+Pakistan,2011,6.978756,Medium
+Pakistan,2012,6.847477,Medium
+Pakistan,2013,6.78736,Medium
+Pakistan,2014,6.37498,Medium
+Pakistan,2015,4.496389,Low
+Pakistan,2016,3.9882948,Low
+Pakistan,2017,3.8058107,Low
+Pakistan,2018,3.7504869,Low
+Pakistan,2019,3.6512518,Low
+Pakistan,2020,3.7368493,Low
 Pakistan,2021,3.9787881,Low
+Palau,2015,16.859615,High
+Palau,2016,0.0,Undefined
+Palau,2017,0.0,Undefined
 Palau,2018,11.195388,High
+Palestine,1995,1.1817877,Very Low
+Palestine,1996,4.3891726,Low
+Palestine,1997,1.5804926,Very Low
+Palestine,1998,1.5249492,Very Low
+Palestine,1999,1.7736984,Very Low
+Palestine,2000,1.3375994,Very Low
+Palestine,2001,1.7337042,Very Low
+Palestine,2002,2.5683746,Low
+Palestine,2004,2.7744663,Low
+Palestine,2005,2.3438432,Low
+Palestine,2008,1.2339785,Very Low
+Palestine,2009,1.1283793,Very Low
+Palestine,2010,0.97688586,Undefined
+Palestine,2011,0.7339011,Undefined
+Palestine,2012,0.69308996,Undefined
+Palestine,2013,0.5605127,Undefined
+Palestine,2014,0.54788584,Undefined
+Palestine,2015,1.2041172,Very Low
+Palestine,2016,0.41359663,Undefined
+Palestine,2017,0.7232586,Undefined
+Palestine,2018,0.4994229,Undefined
+Palestine,2019,0.7128637,Undefined
+Palestine,2020,0.9562893,Undefined
 Palestine,2021,0.8766134,Undefined
+Panama,1990,11.34709,High
+Panama,1991,11.750395,High
+Panama,1992,12.175157,High
+Panama,1993,11.812083,High
+Panama,1994,12.13654,High
+Panama,1995,13.880364,High
+Panama,1996,8.947883,Medium
+Panama,1997,11.138647,High
+Panama,1998,9.739439,Medium
+Panama,1999,9.683601,Medium
+Panama,2000,9.960917,Medium
+Panama,2001,9.9966545,Medium
+Panama,2002,12.047458,High
+Panama,2003,10.592128,High
+Panama,2004,9.496469,Medium
+Panama,2005,11.010724,High
+Panama,2006,6.560641,Medium
+Panama,2007,8.130285,Medium
+Panama,2008,14.10475,High
+Panama,2009,15.7894335,High
+Panama,2010,12.694496,High
+Panama,2011,14.883397,High
+Panama,2012,16.964672,High
+Panama,2013,17.348953,High
+Panama,2014,15.531814,High
+Panama,2015,11.90266,High
+Panama,2016,10.058772,High
+Panama,2017,9.228374,Medium
+Panama,2018,9.627263,Medium
+Panama,2019,11.34073,High
+Panama,2020,11.64308,High
 Panama,2021,12.639997,High
+Papua New Guinea,1998,9.768763,Medium
+Papua New Guinea,1999,8.45644,Medium
+Papua New Guinea,2000,8.44181,Medium
+Papua New Guinea,2001,7.651151,Medium
+Papua New Guinea,2002,7.976111,Medium
+Papua New Guinea,2003,9.998391,Medium
+Papua New Guinea,2005,9.27861,Medium
+Papua New Guinea,2006,9.093325,Medium
+Papua New Guinea,2007,7.513293,Medium
+Papua New Guinea,2008,8.44776,Medium
+Papua New Guinea,2009,9.471538,Medium
 Papua New Guinea,2010,9.402278,Medium
+Paraguay,2000,19.41911,High
+Paraguay,2001,25.213272,Very High
+Paraguay,2002,25.952837,Very High
+Paraguay,2003,24.004091,Very High
+Paraguay,2004,22.321415,Very High
+Paraguay,2005,16.195358,High
+Paraguay,2006,13.406388,High
+Paraguay,2007,14.006794,High
+Paraguay,2008,14.756035,High
+Paraguay,2009,14.397006,High
+Paraguay,2010,12.845377,High
+Paraguay,2011,11.242418,High
+Paraguay,2012,10.95669,High
+Paraguay,2013,10.057193,High
+Paraguay,2014,9.489845,Medium
+Paraguay,2015,9.987132,Medium
+Paraguay,2016,10.675619,High
+Paraguay,2017,8.512441,Medium
+Paraguay,2018,7.713405,Medium
+Paraguay,2019,8.483886,Medium
+Paraguay,2020,7.2672935,Medium
 Paraguay,2021,7.8313804,Medium
+Peru,2011,5.4854984,Medium
+Peru,2012,6.615217,Medium
+Peru,2013,6.701331,Medium
+Peru,2014,6.8393073,Medium
+Peru,2015,7.316391,Medium
+Peru,2016,7.8213387,Medium
+Peru,2017,7.868887,Medium
+Peru,2018,7.613974,Medium
+Peru,2019,7.2658343,Medium
 Peru,2020,5.7138987,Medium
+Philippines,1990,15.076618,High
+Philippines,1991,13.81192,High
+Philippines,1992,12.848694,High
+Philippines,1993,11.739725,High
+Philippines,1994,9.528416,Medium
+Philippines,1998,7.9377737,Medium
+Philippines,1999,7.479436,Medium
+Philippines,2000,7.3565044,Medium
+Philippines,2001,7.3493505,Medium
+Philippines,2002,8.061701,Medium
+Philippines,2007,6.6568875,Medium
+Philippines,2008,6.3779197,Medium
+Philippines,2009,9.77762,Medium
+Philippines,2010,9.134934,Medium
+Philippines,2011,8.811692,Medium
+Philippines,2012,8.654289,Medium
+Philippines,2016,10.636445,High
+Philippines,2017,7.746033,Medium
+Philippines,2018,5.204993,Medium
 Philippines,2019,4.315968,Low
+Poland,1990,1.7838259,Very Low
+Poland,1991,2.2244124,Low
+Poland,1992,2.2403896,Low
+Poland,1993,2.3617344,Low
+Poland,1994,2.389548,Low
+Poland,1995,2.2212398,Low
+Poland,1996,2.273354,Low
+Poland,1997,2.1017745,Low
+Poland,1998,1.977593,Very Low
+Poland,1999,1.9319537,Very Low
+Poland,2000,2.2205236,Low
+Poland,2001,2.0070941,Low
+Poland,2002,1.8526436,Very Low
+Poland,2008,0.8462503,Undefined
+Poland,2009,1.0037534,Very Low
+Poland,2010,0.9948869,Undefined
+Poland,2011,1.0926741,Very Low
+Poland,2012,1.0588757,Very Low
+Poland,2013,0.79000497,Undefined
+Poland,2014,0.74387264,Undefined
+Poland,2015,0.772959,Undefined
+Poland,2016,0.6747619,Undefined
+Poland,2017,0.74481976,Undefined
+Poland,2018,0.70869595,Undefined
+Poland,2019,0.6572521,Undefined
+Poland,2020,0.692197,Undefined
 Poland,2021,0.71265,Undefined
+Polynesia (UN),2000,3.6962655,Low
+Polynesia (UN),2001,4.0627794,Low
+Polynesia (UN),2002,4.9745817,Low
+Polynesia (UN),2003,4.346247,Low
+Polynesia (UN),2004,3.8692544,Low
+Polynesia (UN),2005,4.45613,Low
+Polynesia (UN),2006,4.7387843,Low
+Polynesia (UN),2007,3.8207574,Low
+Polynesia (UN),2008,4.8533645,Low
+Polynesia (UN),2009,4.121727,Low
+Polynesia (UN),2010,3.6624255,Low
+Polynesia (UN),2011,3.3165305,Low
+Polynesia (UN),2012,2.388058,Low
+Polynesia (UN),2013,2.2168195,Low
+Polynesia (UN),2014,2.4206522,Low
+Polynesia (UN),2015,2.7654123,Low
+Polynesia (UN),2016,2.3920257,Low
+Polynesia (UN),2017,3.5885034,Low
+Polynesia (UN),2018,5.4518585,Medium
+Polynesia (UN),2019,2.2997837,Low
+Polynesia (UN),2020,3.320572,Low
 Polynesia (UN),2021,3.3204246,Low
+Portugal,1990,1.5475528,Very Low
+Portugal,1991,1.5226,Very Low
+Portugal,1992,1.4297107,Very Low
+Portugal,1993,1.399619,Very Low
+Portugal,1994,1.4274157,Very Low
+Portugal,1995,1.0844424,Very Low
+Portugal,1996,1.0507903,Very Low
+Portugal,1997,1.1253092,Very Low
+Portugal,1998,1.2279683,Very Low
+Portugal,1999,1.0651429,Very Low
+Portugal,2000,1.1261452,Very Low
+Portugal,2001,1.0123585,Very Low
+Portugal,2002,1.1408397,Very Low
+Portugal,2005,1.2828658,Very Low
+Portugal,2010,1.1710927,Very Low
+Portugal,2011,1.0790523,Very Low
+Portugal,2012,1.1594659,Very Low
+Portugal,2013,1.3760765,Very Low
+Portugal,2014,0.88390386,Undefined
+Portugal,2015,0.9647448,Undefined
+Portugal,2016,0.63874555,Undefined
+Portugal,2017,0.7373251,Undefined
+Portugal,2018,0.78718466,Undefined
+Portugal,2019,0.70943195,Undefined
+Portugal,2020,0.7865459,Undefined
 Portugal,2021,0.7968822,Undefined
+Puerto Rico,1990,16.931095,High
+Puerto Rico,1991,22.831118,Very High
+Puerto Rico,1992,23.916101,Very High
+Puerto Rico,1993,26.172718,Very High
+Puerto Rico,1994,27.069317,Very High
+Puerto Rico,1995,23.320175,Very High
+Puerto Rico,1996,23.25325,Very High
+Puerto Rico,1997,19.257788,High
+Puerto Rico,1998,17.224806,High
+Puerto Rico,1999,15.563837,High
+Puerto Rico,2000,19.17897,High
+Puerto Rico,2001,20.928303,Very High
+Puerto Rico,2002,21.405598,Very High
+Puerto Rico,2003,21.382107,Very High
+Puerto Rico,2004,22.085194,Very High
+Puerto Rico,2005,21.678812,Very High
+Puerto Rico,2006,20.651136,Very High
+Puerto Rico,2007,20.500921,Very High
+Puerto Rico,2008,23.259407,Very High
+Puerto Rico,2009,25.568747,Very High
+Puerto Rico,2010,27.703648,Very High
+Puerto Rico,2011,31.93725,Very High
+Puerto Rico,2012,27.747494,Very High
+Puerto Rico,2013,25.56004,Very High
+Puerto Rico,2014,19.775223,High
+Puerto Rico,2015,17.556225,High
+Puerto Rico,2016,20.508396,Very High
+Puerto Rico,2017,21.625423,Very High
+Puerto Rico,2018,20.004404,Very High
+Puerto Rico,2019,19.223255,High
 Puerto Rico,2020,16.994926,High
+Qatar,1990,0.9056443,Undefined
+Qatar,1991,0.87626004,Undefined
+Qatar,1992,1.2730948,Very Low
+Qatar,1993,0.8229767,Undefined
+Qatar,1994,0.99863684,Undefined
+Qatar,1998,0.34423557,Undefined
+Qatar,1999,0.4891554,Undefined
+Qatar,2000,0.15481386,Undefined
+Qatar,2001,0.73656034,Undefined
+Qatar,2004,0.6427202,Undefined
+Qatar,2005,0.70695525,Undefined
+Qatar,2006,0.49258173,Undefined
+Qatar,2007,0.73058265,Undefined
+Qatar,2008,0.83086526,Undefined
+Qatar,2009,0.4968097,Undefined
+Qatar,2010,0.23343985,Undefined
+Qatar,2011,0.22170842,Undefined
+Qatar,2012,0.3673268,Undefined
+Qatar,2013,0.4421517,Undefined
+Qatar,2014,0.4064188,Undefined
+Qatar,2015,0.2484912,Undefined
+Qatar,2016,0.46239817,Undefined
+Qatar,2017,0.44251794,Undefined
+Qatar,2018,0.36143726,Undefined
+Qatar,2019,0.39184463,Undefined
+Qatar,2020,0.43472198,Undefined
 Qatar,2021,0.33479217,Undefined
+Reunion,2004,2.7895036,Low
+Reunion,2005,2.998839,Low
+Reunion,2006,2.2475486,Low
+Reunion,2007,2.7887619,Low
+Reunion,2008,2.0595472,Low
 Reunion,2009,1.6985407,Very Low
+Romania,1990,3.4856887,Low
+Romania,1991,3.6160693,Low
+Romania,1992,3.6796691,Low
+Romania,1993,3.2436016,Low
+Romania,1994,3.4286559,Low
+Romania,1995,3.363935,Low
+Romania,1996,3.2206452,Low
+Romania,1997,3.1090825,Low
+Romania,1998,2.5314465,Low
+Romania,1999,2.5681736,Low
+Romania,2000,2.5365107,Low
+Romania,2001,3.2067766,Low
+Romania,2002,3.0295289,Low
+Romania,2003,3.2400243,Low
+Romania,2004,2.2875357,Low
+Romania,2005,2.0528853,Low
+Romania,2006,1.707366,Very Low
+Romania,2007,1.8270141,Very Low
+Romania,2008,1.4661968,Very Low
+Romania,2009,1.2606078,Very Low
+Romania,2010,1.3080759,Very Low
+Romania,2011,1.0138334,Very Low
+Romania,2012,1.0527822,Very Low
+Romania,2013,1.0863853,Very Low
+Romania,2014,1.6253384,Very Low
+Romania,2015,1.7029973,Very Low
+Romania,2016,1.5456247,Very Low
+Romania,2017,1.2944916,Very Low
+Romania,2018,1.275069,Very Low
+Romania,2019,1.2497303,Very Low
+Romania,2020,1.4453217,Very Low
 Romania,2021,1.2623806,Very Low
+Russia,1990,14.286612,High
+Russia,1991,15.237573,High
+Russia,1992,22.801723,Very High
+Russia,1993,30.262476,Very High
+Russia,1994,32.164406,Very High
+Russia,1995,30.464308,Very High
+Russia,1996,26.36585,Very High
+Russia,1997,23.654865,Very High
+Russia,1998,22.72119,Very High
+Russia,1999,25.944033,Very High
+Russia,2000,27.981916,Very High
+Russia,2001,29.350595,Very High
+Russia,2002,30.394917,Very High
+Russia,2003,28.813345,Very High
+Russia,2004,27.194326,Very High
+Russia,2005,24.781633,Very High
+Russia,2006,20.122972,Very High
+Russia,2007,17.73156,High
+Russia,2008,12.711187,High
+Russia,2009,12.334836,High
+Russia,2010,11.651562,High
+Russia,2011,11.282427,High
+Russia,2012,11.311754,High
+Russia,2013,11.137363,High
+Russia,2014,11.446784,High
+Russia,2015,11.506314,High
+Russia,2016,10.93246,High
+Russia,2017,9.139064,Medium
+Russia,2018,8.214083,Medium
+Russia,2019,7.68617,Medium
+Russia,2020,7.3459663,Medium
 Russia,2021,6.7993197,Medium
+Rwanda,2006,3.4411838,Low
+Rwanda,2007,2.8141894,Low
+Rwanda,2008,1.4720922,Very Low
+Rwanda,2010,2.8227677,Low
+Rwanda,2012,2.3615508,Low
+Rwanda,2013,3.2338412,Low
+Rwanda,2014,3.7648048,Low
+Rwanda,2015,2.5165424,Low
+Rwanda,2016,3.2855864,Low
+Rwanda,2017,3.8429024,Low
+Rwanda,2018,2.274213,Low
+Rwanda,2019,3.1476364,Low
 Rwanda,2020,3.590347,Low
+Saint Helena,1994,0.0,Undefined
+Saint Helena,1995,0.0,Undefined
+Saint Helena,1996,0.0,Undefined
+Saint Helena,1997,0.0,Undefined
+Saint Helena,1998,0.0,Undefined
+Saint Helena,1999,0.0,Undefined
+Saint Helena,2000,0.0,Undefined
+Saint Helena,2001,0.0,Undefined
+Saint Helena,2002,0.0,Undefined
+Saint Helena,2003,0.0,Undefined
+Saint Helena,2004,17.736786,High
+Saint Helena,2005,0.0,Undefined
+Saint Helena,2006,0.0,Undefined
+Saint Helena,2007,0.0,Undefined
+Saint Helena,2008,0.0,Undefined
 Saint Helena,2009,0.0,Undefined
+Saint Kitts and Nevis,1995,9.400705,Medium
+Saint Kitts and Nevis,1996,9.2812805,Medium
+Saint Kitts and Nevis,1997,16.034636,High
+Saint Kitts and Nevis,1998,18.087067,High
+Saint Kitts and Nevis,1999,13.385239,High
+Saint Kitts and Nevis,2000,6.599063,Medium
+Saint Kitts and Nevis,2001,13.047591,High
+Saint Kitts and Nevis,2002,10.807539,High
+Saint Kitts and Nevis,2003,21.537567,Very High
+Saint Kitts and Nevis,2004,23.61554,Very High
+Saint Kitts and Nevis,2005,17.121273,High
+Saint Kitts and Nevis,2006,36.26744,Very High
+Saint Kitts and Nevis,2007,34.031693,Very High
+Saint Kitts and Nevis,2008,48.7748,Very High
+Saint Kitts and Nevis,2009,57.098747,Very High
+Saint Kitts and Nevis,2010,44.300995,Very High
+Saint Kitts and Nevis,2011,71.456345,Very High
+Saint Kitts and Nevis,2012,37.7145,Very High
+Saint Kitts and Nevis,2016,62.777924,Very High
+Saint Kitts and Nevis,2017,48.131756,Very High
+Saint Kitts and Nevis,2018,48.156445,Very High
+Saint Kitts and Nevis,2019,25.151169,Very High
+Saint Kitts and Nevis,2020,20.989662,Very High
 Saint Kitts and Nevis,2021,29.40775,Very High
+Saint Lucia,1990,9.838301,Medium
+Saint Lucia,1991,6.93152,Medium
+Saint Lucia,1992,9.561535,Medium
+Saint Lucia,1993,5.3837433,Medium
+Saint Lucia,1994,6.641804,Medium
+Saint Lucia,1995,10.502271,High
+Saint Lucia,1996,7.7937765,Medium
+Saint Lucia,1997,8.362602,Medium
+Saint Lucia,1998,8.925441,Medium
+Saint Lucia,1999,10.110233,High
+Saint Lucia,2000,14.420063,High
+Saint Lucia,2001,21.171467,Very High
+Saint Lucia,2002,25.958054,Very High
+Saint Lucia,2003,22.07959,Very High
+Saint Lucia,2004,22.528145,Very High
+Saint Lucia,2005,24.790565,Very High
+Saint Lucia,2006,25.830557,Very High
+Saint Lucia,2007,17.311573,High
+Saint Lucia,2008,23.134966,Very High
+Saint Lucia,2009,22.983425,Very High
+Saint Lucia,2010,25.740778,Very High
+Saint Lucia,2011,26.72158,Very High
+Saint Lucia,2012,22.527206,Very High
+Saint Lucia,2013,18.967861,High
+Saint Lucia,2014,19.45041,High
+Saint Lucia,2015,15.943242,High
+Saint Lucia,2016,17.0055,High
+Saint Lucia,2017,27.658068,Very High
+Saint Lucia,2018,20.799604,Very High
+Saint Lucia,2019,25.758259,Very High
+Saint Lucia,2020,29.011948,Very High
 Saint Lucia,2021,38.96433,Very High
+Saint Martin (French part),2011,22.008253,Very High
+Saint Martin (French part),2012,5.551546,Medium
+Saint Martin (French part),2013,22.447004,Very High
+Saint Martin (French part),2014,22.688278,Very High
+Saint Martin (French part),2015,17.133066,High
 Saint Martin (French part),2016,28.726551,Very High
+Saint Pierre and Miquelon,2006,0.0,Undefined
+Saint Pierre and Miquelon,2007,0.0,Undefined
+Saint Pierre and Miquelon,2008,16.505735,High
 Saint Pierre and Miquelon,2009,16.518005,High
+Saint Vincent and the Grenadines,1990,9.778864,Medium
+Saint Vincent and the Grenadines,1991,15.960277,High
+Saint Vincent and the Grenadines,1992,15.898041,High
+Saint Vincent and the Grenadines,1993,12.321666,High
+Saint Vincent and the Grenadines,1994,11.409163,High
+Saint Vincent and the Grenadines,1995,17.517122,High
+Saint Vincent and the Grenadines,1996,20.99912,Very High
+Saint Vincent and the Grenadines,1997,7.875635,Medium
+Saint Vincent and the Grenadines,1998,21.022297,Very High
+Saint Vincent and the Grenadines,1999,12.281294,High
+Saint Vincent and the Grenadines,2000,17.572762,High
+Saint Vincent and the Grenadines,2001,10.559569,High
+Saint Vincent and the Grenadines,2002,17.628988,High
+Saint Vincent and the Grenadines,2003,15.913994,High
+Saint Vincent and the Grenadines,2004,25.75317,Very High
+Saint Vincent and the Grenadines,2005,23.20548,Very High
+Saint Vincent and the Grenadines,2006,17.94905,High
+Saint Vincent and the Grenadines,2007,36.093266,Very High
+Saint Vincent and the Grenadines,2008,14.503855,High
+Saint Vincent and the Grenadines,2009,20.939644,Very High
+Saint Vincent and the Grenadines,2010,22.871258,Very High
+Saint Vincent and the Grenadines,2016,37.749203,Very High
+Saint Vincent and the Grenadines,2017,36.949837,Very High
+Saint Vincent and the Grenadines,2018,32.294678,Very High
+Saint Vincent and the Grenadines,2019,18.10843,High
+Saint Vincent and the Grenadines,2020,31.538958,Very High
 Saint Vincent and the Grenadines,2021,30.671318,Very High
+Samoa,2009,8.282602,Medium
+Samoa,2010,8.218974,Medium
+Samoa,2013,3.0009153,Low
+Samoa,2017,3.3713899,Low
 Samoa,2018,6.1993027,Medium
+San Marino,1995,0.0,Undefined
+San Marino,1996,0.0,Undefined
+San Marino,1997,0.0,Undefined
+San Marino,1998,0.0,Undefined
+San Marino,1999,0.0,Undefined
+San Marino,2000,0.0,Undefined
+San Marino,2001,0.0,Undefined
+San Marino,2002,3.575387,Low
+San Marino,2003,0.0,Undefined
+San Marino,2004,0.0,Undefined
+San Marino,2005,0.0,Undefined
+San Marino,2006,0.0,Undefined
+San Marino,2007,0.0,Undefined
+San Marino,2008,0.0,Undefined
+San Marino,2009,0.0,Undefined
+San Marino,2010,0.0,Undefined
 San Marino,2011,0.0,Undefined
+Sao Tome and Principe,1990,6.6476655,Medium
+Sao Tome and Principe,1991,5.687173,Medium
+Sao Tome and Principe,1992,9.55049,Medium
+Sao Tome and Principe,1993,6.241126,Medium
+Sao Tome and Principe,1994,6.1224804,Medium
+Sao Tome and Principe,2006,2.4136443,Low
+Sao Tome and Principe,2007,2.3550954,Low
+Sao Tome and Principe,2008,8.045815,Medium
+Sao Tome and Principe,2009,2.8069704,Low
+Sao Tome and Principe,2010,3.2941964,Low
 Sao Tome and Principe,2011,3.225035,Low
+Saudi Arabia,1999,0.8757876,Undefined
+Saudi Arabia,2000,0.8028815,Undefined
+Saudi Arabia,2001,1.0368593,Very Low
+Saudi Arabia,2002,1.2597568,Very Low
+Saudi Arabia,2003,1.079874,Very Low
+Saudi Arabia,2004,1.2720921,Very Low
+Saudi Arabia,2005,1.2173307,Very Low
+Saudi Arabia,2006,1.0046146,Very Low
+Saudi Arabia,2007,1.0037853,Very Low
+Saudi Arabia,2018,0.6396686,Undefined
 Saudi Arabia,2019,0.7954814,Undefined
+Serbia,2000,2.873338,Low
+Serbia,2001,3.069037,Low
+Serbia,2002,2.5302784,Low
+Serbia,2003,2.2313893,Low
+Serbia,2004,2.0856133,Low
+Serbia,2005,1.8771683,Very Low
+Serbia,2006,2.0013363,Low
+Serbia,2007,2.2041268,Low
+Serbia,2008,1.8128154,Very Low
+Serbia,2009,2.0031128,Low
+Serbia,2010,1.7246451,Very Low
+Serbia,2011,1.6927093,Very Low
+Serbia,2012,1.4490178,Very Low
+Serbia,2013,1.8370023,Very Low
+Serbia,2014,1.5641652,Very Low
+Serbia,2015,1.3298764,Very Low
+Serbia,2016,1.5480521,Very Low
+Serbia,2017,1.1520613,Very Low
+Serbia,2018,1.4124639,Very Low
+Serbia,2019,1.1890196,Very Low
+Serbia,2020,1.1416138,Very Low
 Serbia,2021,1.0552616,Very Low
+Seychelles,2004,11.804355,High
+Seychelles,2006,10.333781,High
+Seychelles,2007,9.057509,Medium
+Seychelles,2008,6.693142,Medium
+Seychelles,2009,15.379545,High
+Seychelles,2010,9.739364,Medium
+Seychelles,2011,17.05266,High
+Seychelles,2012,4.1968756,Low
+Seychelles,2013,18.611576,High
+Seychelles,2014,16.326365,High
+Seychelles,2015,7.0536075,Medium
+Seychelles,2016,11.939289,High
+Seychelles,2017,6.875519,Medium
+Seychelles,2018,8.729304,Medium
+Seychelles,2019,9.581068,Medium
+Seychelles,2020,8.52838,Medium
 Seychelles,2021,4.6961365,Low
+Sierra Leone,2004,2.024098,Low
+Sierra Leone,2005,1.7419353,Very Low
+Sierra Leone,2006,1.7384497,Very Low
+Sierra Leone,2007,2.25621,Low
+Sierra Leone,2008,3.0209196,Low
+Sierra Leone,2009,2.5240252,Low
+Sierra Leone,2010,2.5323544,Low
+Sierra Leone,2011,2.8280268,Low
+Sierra Leone,2012,1.6645583,Very Low
+Sierra Leone,2015,1.6951996,Very Low
 Sierra Leone,2020,2.1374865,Low
+Singapore,1990,1.5551538,Very Low
+Singapore,1991,1.6342906,Very Low
+Singapore,1992,1.3319988,Very Low
+Singapore,1993,1.7395837,Very Low
+Singapore,1994,1.4249929,Very Low
+Singapore,1995,1.5237558,Very Low
+Singapore,1996,0.9036386,Undefined
+Singapore,1997,1.0104637,Very Low
+Singapore,1998,1.0345829,Very Low
+Singapore,1999,0.9832392,Undefined
+Singapore,2000,1.011446,Very Low
+Singapore,2001,0.77644694,Undefined
+Singapore,2002,0.742196,Undefined
+Singapore,2003,0.63883954,Undefined
+Singapore,2004,0.46834004,Undefined
+Singapore,2006,0.3789075,Undefined
+Singapore,2007,0.38599643,Undefined
+Singapore,2008,0.5580355,Undefined
+Singapore,2009,0.3991455,Undefined
+Singapore,2010,0.36796108,Undefined
+Singapore,2011,0.30295318,Undefined
+Singapore,2012,0.2044228,Undefined
+Singapore,2013,0.31032914,Undefined
+Singapore,2014,0.25132388,Undefined
+Singapore,2015,0.24778682,Undefined
+Singapore,2016,0.31512976,Undefined
+Singapore,2017,0.19082357,Undefined
+Singapore,2018,0.15478449,Undefined
+Singapore,2019,0.20455457,Undefined
+Singapore,2020,0.16920847,Undefined
 Singapore,2021,0.10099207,Undefined
+Slovakia,1990,1.7676222,Very Low
+Slovakia,1991,2.4241385,Low
+Slovakia,1993,2.5742881,Low
+Slovakia,1994,2.4162683,Low
+Slovakia,1995,2.392525,Low
+Slovakia,1996,2.4634728,Low
+Slovakia,1997,2.609103,Low
+Slovakia,1998,2.3831332,Low
+Slovakia,1999,2.623441,Low
+Slovakia,2000,2.3992457,Low
+Slovakia,2001,2.1947546,Low
+Slovakia,2002,2.2510765,Low
+Slovakia,2003,2.5491333,Low
+Slovakia,2004,2.0093284,Low
+Slovakia,2005,1.729833,Very Low
+Slovakia,2006,1.5249472,Very Low
+Slovakia,2007,1.5246221,Very Low
+Slovakia,2008,1.5980272,Very Low
+Slovakia,2009,1.4474126,Very Low
+Slovakia,2010,1.6492403,Very Low
+Slovakia,2011,1.7768961,Very Low
+Slovakia,2012,1.3865052,Very Low
+Slovakia,2013,1.4405127,Very Low
+Slovakia,2014,1.328519,Very Low
+Slovakia,2015,0.8848832,Undefined
+Slovakia,2016,1.1047275,Very Low
+Slovakia,2017,1.470746,Very Low
+Slovakia,2018,1.2300924,Very Low
+Slovakia,2019,1.3934921,Very Low
+Slovakia,2020,1.154548,Very Low
 Slovakia,2021,1.0096148,Very Low
+Slovenia,1990,2.0644262,Low
+Slovenia,1991,2.0102549,Low
+Slovenia,1992,2.410437,Low
+Slovenia,1993,1.3054277,Very Low
+Slovenia,1994,2.0588024,Low
+Slovenia,1995,2.2098272,Low
+Slovenia,1996,1.9089084,Very Low
+Slovenia,1997,1.8092016,Very Low
+Slovenia,1998,0.70412654,Undefined
+Slovenia,1999,1.2586462,Very Low
+Slovenia,2000,1.8142061,Very Low
+Slovenia,2001,1.4123673,Very Low
+Slovenia,2002,1.8147292,Very Low
+Slovenia,2003,1.0555886,Very Low
+Slovenia,2004,1.3522166,Very Low
+Slovenia,2005,0.99761647,Undefined
+Slovenia,2006,0.59595656,Undefined
+Slovenia,2007,1.1862227,Very Low
+Slovenia,2008,0.4916341,Undefined
+Slovenia,2009,0.6355172,Undefined
+Slovenia,2010,0.7291154,Undefined
+Slovenia,2011,0.7746485,Undefined
+Slovenia,2012,0.67653966,Undefined
+Slovenia,2013,0.5790459,Undefined
+Slovenia,2014,0.7711152,Undefined
+Slovenia,2015,0.96114016,Undefined
+Slovenia,2016,0.47846434,Undefined
+Slovenia,2017,0.90545523,Undefined
+Slovenia,2018,0.42736584,Undefined
+Slovenia,2019,0.662596,Undefined
+Slovenia,2020,0.51944596,Undefined
 Slovenia,2021,0.4246466,Undefined
+Solomon Islands,2004,4.239219,Low
+Solomon Islands,2005,5.388757,Medium
+Solomon Islands,2006,4.6612535,Low
+Solomon Islands,2007,5.152402,Medium
 Solomon Islands,2008,3.6821635,Low
+South Africa,1994,60.00973,Very High
+South Africa,1995,61.103416,Very High
+South Africa,1996,57.028854,Very High
+South Africa,1997,54.070827,Very High
+South Africa,1998,54.800026,Very High
+South Africa,1999,48.75263,Very High
+South Africa,2000,46.47828,Very High
+South Africa,2001,45.321045,Very High
+South Africa,2002,45.22097,Very High
+South Africa,2003,41.21067,Very High
+South Africa,2004,38.70371,Very High
+South Africa,2005,37.79902,Very High
+South Africa,2006,38.60441,Very High
+South Africa,2007,36.802876,Very High
+South Africa,2008,35.763294,Very High
+South Africa,2009,32.766747,Very High
+South Africa,2010,30.690401,Very High
+South Africa,2011,29.658684,Very High
+South Africa,2012,30.507084,Very High
+South Africa,2013,31.598028,Very High
+South Africa,2014,32.5327,Very High
+South Africa,2015,33.41834,Very High
+South Africa,2016,33.703003,Very High
+South Africa,2017,35.903187,Very High
+South Africa,2018,36.66225,Very High
+South Africa,2019,36.71214,Very High
+South Africa,2020,33.964874,Very High
 South Africa,2021,41.865726,Very High
+South Korea,1990,0.4715146,Undefined
+South Korea,1991,0.48677853,Undefined
+South Korea,1992,0.5364186,Undefined
+South Korea,1993,0.68197614,Undefined
+South Korea,1994,0.4949064,Undefined
+South Korea,1995,0.50266564,Undefined
+South Korea,1996,0.5396055,Undefined
+South Korea,1997,0.60348594,Undefined
+South Korea,1998,0.81667113,Undefined
+South Korea,1999,0.82691747,Undefined
+South Korea,2000,0.79071534,Undefined
+South Korea,2001,0.8650941,Undefined
+South Korea,2002,0.7834618,Undefined
+South Korea,2003,0.81326205,Undefined
+South Korea,2004,0.8798716,Undefined
+South Korea,2005,0.85828435,Undefined
+South Korea,2006,0.86510533,Undefined
+South Korea,2007,0.8925616,Undefined
+South Korea,2008,0.8876776,Undefined
+South Korea,2009,1.0955049,Very Low
+South Korea,2010,0.99283755,Undefined
+South Korea,2011,0.8196075,Undefined
+South Korea,2012,0.8764121,Undefined
+South Korea,2013,0.7026197,Undefined
+South Korea,2014,0.7456776,Undefined
+South Korea,2015,0.73537487,Undefined
+South Korea,2016,0.6938221,Undefined
+South Korea,2017,0.58433396,Undefined
+South Korea,2018,0.5979461,Undefined
+South Korea,2019,0.5733167,Undefined
+South Korea,2020,0.59408206,Undefined
 South Korea,2021,0.52093244,Undefined
 South Sudan,2012,14.053967,High
+Spain,1990,1.2444314,Very Low
+Spain,1991,1.1270077,Very Low
+Spain,1992,1.1243491,Very Low
+Spain,1993,1.2019016,Very Low
+Spain,1994,1.0826846,Very Low
+Spain,1995,1.0322853,Very Low
+Spain,1996,0.9925875,Undefined
+Spain,1997,1.1523131,Very Low
+Spain,1998,1.2932843,Very Low
+Spain,1999,1.19875,Very Low
+Spain,2000,1.3573333,Very Low
+Spain,2001,1.4084697,Very Low
+Spain,2002,1.3597683,Very Low
+Spain,2003,1.3899982,Very Low
+Spain,2004,1.2104378,Very Low
+Spain,2005,1.1857516,Very Low
+Spain,2006,1.071521,Very Low
+Spain,2007,1.0652927,Very Low
+Spain,2008,0.8854267,Undefined
+Spain,2009,0.8885482,Undefined
+Spain,2010,0.8610181,Undefined
+Spain,2011,0.8238954,Undefined
+Spain,2012,0.77850837,Undefined
+Spain,2013,0.64802057,Undefined
+Spain,2014,0.6951536,Undefined
+Spain,2015,0.65042275,Undefined
+Spain,2016,0.6326211,Undefined
+Spain,2017,0.65902215,Undefined
+Spain,2018,0.61762637,Undefined
+Spain,2019,0.7022923,Undefined
+Spain,2020,0.6291724,Undefined
 Spain,2021,0.6106943,Undefined
+Sri Lanka,1990,11.537951,High
+Sri Lanka,1995,8.879073,Medium
+Sri Lanka,1996,9.687539,Medium
+Sri Lanka,1997,10.032997,High
+Sri Lanka,1999,10.2782955,High
+Sri Lanka,2005,6.196037,Medium
+Sri Lanka,2006,10.286499,High
+Sri Lanka,2008,9.869049,Medium
+Sri Lanka,2009,5.365562,Medium
+Sri Lanka,2010,3.6915977,Low
+Sri Lanka,2011,3.5091517,Low
+Sri Lanka,2012,3.2164214,Low
+Sri Lanka,2013,2.9292407,Low
+Sri Lanka,2014,2.6036446,Low
+Sri Lanka,2015,2.2824526,Low
+Sri Lanka,2016,2.4736886,Low
+Sri Lanka,2017,2.2597492,Low
+Sri Lanka,2018,2.3817568,Low
 Sri Lanka,2019,3.427305,Low
+Suriname,2000,14.196286,High
+Suriname,2001,16.20867,High
+Suriname,2002,11.49968,High
+Suriname,2003,11.909961,High
+Suriname,2004,9.009503,Medium
+Suriname,2005,13.366407,High
+Suriname,2006,11.876883,High
+Suriname,2007,8.523599,Medium
+Suriname,2008,8.0533695,Medium
+Suriname,2013,5.1423273,Medium
+Suriname,2014,5.617169,Medium
+Suriname,2015,5.9081626,Medium
+Suriname,2016,7.051301,Medium
+Suriname,2017,6.127039,Medium
+Suriname,2018,6.4003825,Medium
+Suriname,2019,4.997497,Low
+Suriname,2020,9.059985,Medium
 Suriname,2021,5.7097692,Medium
+Sweden,1990,1.1113183,Very Low
+Sweden,1991,1.3381163,Very Low
+Sweden,1992,1.3194029,Very Low
+Sweden,1993,1.2437518,Very Low
+Sweden,1994,1.146334,Very Low
+Sweden,1995,0.9933213,Undefined
+Sweden,1996,1.1268576,Very Low
+Sweden,1997,0.9877531,Undefined
+Sweden,1998,1.042064,Very Low
+Sweden,1999,1.1413879,Very Low
+Sweden,2000,1.0821726,Very Low
+Sweden,2001,0.97788537,Undefined
+Sweden,2002,1.1315243,Very Low
+Sweden,2003,0.9485012,Undefined
+Sweden,2004,1.1883261,Very Low
+Sweden,2005,0.916951,Undefined
+Sweden,2006,0.9994816,Undefined
+Sweden,2007,1.2112254,Very Low
+Sweden,2008,0.88847756,Undefined
+Sweden,2009,0.99984807,Undefined
+Sweden,2010,0.9699704,Undefined
+Sweden,2011,0.85556865,Undefined
+Sweden,2012,0.71159583,Undefined
+Sweden,2013,0.9016542,Undefined
+Sweden,2014,0.89253575,Undefined
+Sweden,2015,1.1371311,Very Low
+Sweden,2016,1.0649716,Very Low
+Sweden,2017,1.1234626,Very Low
+Sweden,2018,1.0627518,Very Low
+Sweden,2019,1.0810367,Very Low
+Sweden,2020,1.1958759,Very Low
 Sweden,2021,1.0795734,Very Low
+Switzerland,1990,1.6389308,Very Low
+Switzerland,1991,1.4421536,Very Low
+Switzerland,1992,1.3530856,Very Low
+Switzerland,1993,1.5138144,Very Low
+Switzerland,1994,1.1442405,Very Low
+Switzerland,1995,1.1650546,Very Low
+Switzerland,1996,1.1740259,Very Low
+Switzerland,1997,1.2276002,Very Low
+Switzerland,1998,1.0691845,Very Low
+Switzerland,1999,1.2461151,Very Low
+Switzerland,2000,0.9607273,Undefined
+Switzerland,2001,1.1904098,Very Low
+Switzerland,2002,1.1818901,Very Low
+Switzerland,2009,0.6593914,Undefined
+Switzerland,2010,0.6647546,Undefined
+Switzerland,2011,0.5814702,Undefined
+Switzerland,2012,0.5627998,Undefined
+Switzerland,2013,0.7047158,Undefined
+Switzerland,2014,0.50074553,Undefined
+Switzerland,2015,0.6882618,Undefined
+Switzerland,2016,0.53744835,Undefined
+Switzerland,2017,0.5324381,Undefined
+Switzerland,2018,0.5872381,Undefined
+Switzerland,2019,0.53640634,Undefined
+Switzerland,2020,0.5440688,Undefined
 Switzerland,2021,0.48323596,Undefined
+Syria,1997,1.9597462,Very Low
+Syria,1998,2.167666,Low
+Syria,1999,2.0753148,Low
+Syria,2000,2.189156,Low
+Syria,2001,2.2477353,Low
+Syria,2002,2.1440198,Low
+Syria,2003,2.2996526,Low
+Syria,2004,2.3556726,Low
+Syria,2005,2.3138735,Low
+Syria,2006,2.2951822,Low
+Syria,2007,2.5745053,Low
+Syria,2008,2.4634373,Low
+Syria,2009,2.1807632,Low
 Syria,2010,2.0727417,Low
+Tajikistan,1990,3.100855,Low
+Tajikistan,1991,2.6636405,Low
+Tajikistan,1992,10.696213,High
+Tajikistan,1993,22.805952,Very High
+Tajikistan,1994,10.957974,High
+Tajikistan,1995,7.352726,Medium
+Tajikistan,1996,8.019088,Medium
+Tajikistan,1997,8.141154,Medium
+Tajikistan,1998,7.974916,Medium
+Tajikistan,1999,5.7677727,Medium
+Tajikistan,2000,4.5113993,Low
+Tajikistan,2001,3.6356204,Low
+Tajikistan,2002,2.7515554,Low
+Tajikistan,2003,2.4578526,Low
+Tajikistan,2004,2.0878656,Low
+Tajikistan,2005,2.265792,Low
+Tajikistan,2006,2.748881,Low
+Tajikistan,2007,1.8362942,Very Low
+Tajikistan,2008,1.3652573,Very Low
+Tajikistan,2009,1.2987715,Very Low
+Tajikistan,2010,2.3747735,Low
+Tajikistan,2011,1.6185347,Very Low
 Tajikistan,2020,0.9116432,Undefined
+Tanzania,1995,6.904434,Medium
+Tanzania,1996,7.331234,Medium
+Tanzania,1997,7.408958,Medium
+Tanzania,2003,7.4409547,Medium
+Tanzania,2004,7.6275625,Medium
+Tanzania,2010,8.618831,Medium
+Tanzania,2011,8.938722,Medium
+Tanzania,2012,8.563153,Medium
+Tanzania,2013,7.506044,Medium
+Tanzania,2015,7.1294227,Medium
+Tanzania,2016,6.3214817,Medium
+Tanzania,2017,5.592973,Medium
+Tanzania,2018,4.706454,Low
+Tanzania,2019,4.541311,Low
 Tanzania,2020,3.704753,Low
+Thailand,1990,9.67618,Medium
+Thailand,1991,9.956704,Medium
+Thailand,1992,10.464948,High
+Thailand,1993,9.488765,Medium
+Thailand,1994,8.54092,Medium
+Thailand,1995,7.643269,Medium
+Thailand,1996,7.430524,Medium
+Thailand,1997,7.8489423,Medium
+Thailand,1998,8.682454,Medium
+Thailand,1999,8.090624,Medium
+Thailand,2000,8.153285,Medium
+Thailand,2001,7.8868947,Medium
+Thailand,2002,7.0660505,Medium
+Thailand,2003,9.932545,Medium
+Thailand,2004,6.5425262,Medium
+Thailand,2005,7.301581,Medium
+Thailand,2006,7.0673003,Medium
+Thailand,2007,6.636564,Medium
+Thailand,2008,5.9024267,Medium
+Thailand,2009,5.460552,Medium
+Thailand,2010,5.352239,Medium
 Thailand,2011,4.812783,Low
+Tonga,1995,2.0004702,Low
+Tonga,1996,1.9961076,Very Low
+Tonga,1997,1.9869261,Very Low
+Tonga,2000,0.9746351,Undefined
+Tonga,2001,5.8134184,Medium
+Tonga,2002,5.780124,Medium
+Tonga,2003,5.7465487,Medium
+Tonga,2004,1.9041091,Very Low
+Tonga,2005,3.7866776,Low
+Tonga,2006,7.533666,Medium
+Tonga,2007,0.9377564,Undefined
+Tonga,2008,3.740695,Low
+Tonga,2009,7.466587,Medium
+Tonga,2010,0.93124175,Undefined
+Tonga,2011,1.8585547,Very Low
+Tonga,2012,0.93021524,Undefined
+Tonga,2018,9.510179,Medium
 Tonga,2019,0.95283014,Undefined
+Trinidad and Tobago,2000,9.00764,Medium
+Trinidad and Tobago,2001,11.280721,High
+Trinidad and Tobago,2002,12.704654,High
+Trinidad and Tobago,2003,16.918499,High
+Trinidad and Tobago,2004,19.10118,High
+Trinidad and Tobago,2005,28.194208,Very High
+Trinidad and Tobago,2006,26.944204,Very High
+Trinidad and Tobago,2007,28.23389,Very High
+Trinidad and Tobago,2008,39.273335,Very High
+Trinidad and Tobago,2009,36.183502,Very High
+Trinidad and Tobago,2010,33.53906,Very High
+Trinidad and Tobago,2011,24.788383,Very High
+Trinidad and Tobago,2012,26.566431,Very High
+Trinidad and Tobago,2013,28.249578,Very High
+Trinidad and Tobago,2014,27.918308,Very High
+Trinidad and Tobago,2015,28.763645,Very High
+Trinidad and Tobago,2016,31.510971,Very High
+Trinidad and Tobago,2017,33.477455,Very High
+Trinidad and Tobago,2018,34.358803,Very High
+Trinidad and Tobago,2019,35.461575,Very High
+Trinidad and Tobago,2020,26.28204,Very High
 Trinidad and Tobago,2021,29.364283,Very High
+Tunisia,2004,1.8946341,Very Low
+Tunisia,2005,2.502805,Low
+Tunisia,2006,2.3751478,Low
+Tunisia,2007,2.580244,Low
+Tunisia,2008,2.6216295,Low
+Tunisia,2009,2.3645036,Low
+Tunisia,2010,2.6250422,Low
+Tunisia,2012,2.9710813,Low
+Tunisia,2019,4.738859,Low
 Tunisia,2020,4.6210556,Low
+Turkey,2003,4.2427297,Low
+Turkey,2004,4.2988815,Low
+Turkey,2005,4.8104415,Low
+Turkey,2006,4.551637,Low
+Turkey,2007,5.1072197,Medium
+Turkey,2008,4.566695,Low
+Turkey,2010,4.1860585,Low
+Turkey,2011,4.126791,Low
+Turkey,2012,4.2721963,Low
+Turkey,2015,2.806161,Low
+Turkey,2016,3.3374724,Low
+Turkey,2017,3.0953896,Low
+Turkey,2018,2.60961,Low
+Turkey,2019,2.4196925,Low
+Turkey,2020,2.5054843,Low
 Turkey,2021,2.5195987,Low
+Turkmenistan,1990,8.924063,Medium
+Turkmenistan,1991,8.006737,Medium
+Turkmenistan,1992,7.5387707,Medium
+Turkmenistan,1993,8.234743,Medium
+Turkmenistan,1994,7.452148,Medium
+Turkmenistan,1995,6.364419,Medium
+Turkmenistan,1996,7.765468,Medium
+Turkmenistan,1997,8.204099,Medium
+Turkmenistan,1998,7.7851434,Medium
+Turkmenistan,1999,7.1316223,Medium
+Turkmenistan,2000,5.8435607,Medium
+Turkmenistan,2001,5.350485,Medium
+Turkmenistan,2002,5.128785,Medium
+Turkmenistan,2003,4.8959994,Low
+Turkmenistan,2004,4.3362865,Low
+Turkmenistan,2005,4.216322,Low
+Turkmenistan,2006,4.097675,Low
+Turkmenistan,2010,1.9931778,Very Low
+Turkmenistan,2011,1.8653892,Very Low
+Turkmenistan,2012,1.4472358,Very Low
+Turkmenistan,2013,1.5107657,Very Low
+Turkmenistan,2014,1.571563,Very Low
 Turkmenistan,2015,1.0925301,Very Low
+Turks and Caicos Islands,1990,0.0,Undefined
+Turks and Caicos Islands,1991,0.0,Undefined
+Turks and Caicos Islands,1992,7.6840324,Medium
+Turks and Caicos Islands,1993,7.296873,Medium
+Turks and Caicos Islands,1994,13.886478,High
+Turks and Caicos Islands,1995,6.622078,Medium
+Turks and Caicos Islands,1996,6.3269114,Medium
+Turks and Caicos Islands,1997,12.109837,High
+Turks and Caicos Islands,1998,0.0,Undefined
+Turks and Caicos Islands,1999,0.0,Undefined
+Turks and Caicos Islands,2000,0.0,Undefined
+Turks and Caicos Islands,2001,0.0,Undefined
+Turks and Caicos Islands,2002,9.709681,Medium
+Turks and Caicos Islands,2003,0.0,Undefined
+Turks and Caicos Islands,2005,0.0,Undefined
+Turks and Caicos Islands,2007,7.6138268,Medium
+Turks and Caicos Islands,2008,7.293414,Medium
+Turks and Caicos Islands,2009,6.9977784,Medium
+Turks and Caicos Islands,2013,11.906711,High
 Turks and Caicos Islands,2014,5.716736,Medium
+Tuvalu,2002,0.0,Undefined
+Tuvalu,2003,0.0,Undefined
+Tuvalu,2004,0.0,Undefined
+Tuvalu,2005,0.0,Undefined
+Tuvalu,2006,0.0,Undefined
+Tuvalu,2007,0.0,Undefined
+Tuvalu,2008,0.0,Undefined
+Tuvalu,2009,0.0,Undefined
+Tuvalu,2010,9.479122,Medium
+Tuvalu,2011,9.345358,Medium
+Tuvalu,2012,18.425537,High
 Tuvalu,2019,0.0,Undefined
+Uganda,1995,8.268526,Medium
+Uganda,1996,8.498995,Medium
+Uganda,1997,8.771795,Medium
+Uganda,2007,8.926823,Medium
+Uganda,2008,9.154417,Medium
+Uganda,2009,10.292074,High
+Uganda,2010,9.770659,Medium
+Uganda,2011,11.271713,High
+Uganda,2012,11.863464,High
+Uganda,2013,10.934532,High
+Uganda,2014,12.309923,High
+Uganda,2016,11.566959,High
+Uganda,2017,11.80001,High
+Uganda,2018,10.832127,High
+Uganda,2019,10.985102,High
+Uganda,2020,10.044002,High
 Uganda,2021,8.531467,Medium
+Ukraine,1990,4.958343,Low
+Ukraine,1991,5.1245513,Medium
+Ukraine,1992,6.5076566,Medium
+Ukraine,1993,7.138109,Medium
+Ukraine,1994,8.202011,Medium
+Ukraine,1995,8.630809,Medium
+Ukraine,1996,9.672811,Medium
+Ukraine,1997,8.433435,Medium
+Ukraine,1998,8.43286,Medium
+Ukraine,1999,8.617173,Medium
+Ukraine,2000,9.0385065,Medium
+Ukraine,2001,10.025915,High
+Ukraine,2002,8.954377,Medium
+Ukraine,2003,8.488489,Medium
+Ukraine,2004,7.3780265,Medium
+Ukraine,2005,6.458818,Medium
+Ukraine,2006,6.348654,Medium
+Ukraine,2007,5.71329,Medium
+Ukraine,2008,5.3535447,Medium
+Ukraine,2009,4.8840175,Low
+Ukraine,2010,4.3517265,Low
+Ukraine,2012,5.144669,Medium
+Ukraine,2014,6.301487,Medium
+Ukraine,2017,6.160253,Medium
+Ukraine,2018,4.5042458,Low
+Ukraine,2019,4.116614,Low
+Ukraine,2020,3.8670301,Low
 Ukraine,2021,3.843201,Low
+United Arab Emirates,2010,0.7899294,Undefined
+United Arab Emirates,2011,0.59473795,Undefined
+United Arab Emirates,2012,0.79630977,Undefined
+United Arab Emirates,2013,0.6512911,Undefined
+United Arab Emirates,2014,0.69036144,Undefined
+United Arab Emirates,2015,0.67287964,Undefined
+United Arab Emirates,2019,0.6947718,Undefined
+United Arab Emirates,2020,0.6998813,Undefined
 United Arab Emirates,2021,0.46982723,Undefined
+United Kingdom,1990,1.2470567,Very Low
+United Kingdom,1991,1.279957,Very Low
+United Kingdom,1992,1.5109212,Very Low
+United Kingdom,1993,1.5351933,Very Low
+United Kingdom,1994,1.5903534,Very Low
+United Kingdom,1995,1.5535895,Very Low
+United Kingdom,1996,1.4463162,Very Low
+United Kingdom,1997,1.4849735,Very Low
+United Kingdom,1998,1.5760206,Very Low
+United Kingdom,1999,1.5690234,Very Low
+United Kingdom,2000,1.5547992,Very Low
+United Kingdom,2001,1.6347386,Very Low
+United Kingdom,2002,1.8650275,Very Low
+United Kingdom,2003,1.5523942,Very Low
+United Kingdom,2004,1.5834428,Very Low
+United Kingdom,2005,1.3811665,Very Low
+United Kingdom,2006,1.4143876,Very Low
+United Kingdom,2007,1.4250578,Very Low
+United Kingdom,2008,1.234165,Very Low
+United Kingdom,2009,1.1342572,Very Low
+United Kingdom,2010,1.2045882,Very Low
+United Kingdom,2011,1.0128565,Very Low
+United Kingdom,2012,0.98262423,Undefined
+United Kingdom,2013,0.9377581,Undefined
+United Kingdom,2014,0.90932244,Undefined
+United Kingdom,2015,0.99962646,Undefined
+United Kingdom,2016,1.2017326,Very Low
+United Kingdom,2017,1.2245553,Very Low
+United Kingdom,2018,1.1364834,Very Low
+United Kingdom,2019,1.150068,Very Low
 United Kingdom,2020,1.0035868,Very Low
+United States,1990,9.447617,Medium
+United States,1991,9.819917,Medium
+United States,1992,9.311245,Medium
+United States,1993,9.477557,Medium
+United States,1994,8.893766,Medium
+United States,1995,8.132935,Medium
+United States,1996,7.303399,Medium
+United States,1997,6.6843996,Medium
+United States,1998,6.1536784,Medium
+United States,1999,5.5598226,Medium
+United States,2000,5.5191503,Medium
+United States,2001,6.667239,Medium
+United States,2002,5.628225,Medium
+United States,2006,5.774419,Medium
+United States,2007,5.6575966,Medium
+United States,2008,5.386089,Medium
+United States,2009,4.9913774,Low
+United States,2010,4.7309804,Low
+United States,2011,4.6709437,Low
+United States,2012,4.6915956,Low
+United States,2013,4.483442,Low
+United States,2014,4.398294,Low
+United States,2015,4.892982,Low
+United States,2016,5.3216558,Medium
+United States,2017,5.2439237,Medium
+United States,2018,4.929848,Low
+United States,2019,4.9859467,Low
+United States,2020,6.420751,Medium
 United States,2021,6.8074665,Medium
+United States Virgin Islands,1997,28.359407,Very High
+United States Virgin Islands,1998,23.393236,Very High
+United States Virgin Islands,1999,25.04011,Very High
+United States Virgin Islands,2000,21.259878,Very High
+United States Virgin Islands,2001,25.924486,Very High
+United States Virgin Islands,2002,38.059696,Very High
+United States Virgin Islands,2003,28.894192,Very High
+United States Virgin Islands,2004,34.662693,Very High
+United States Virgin Islands,2005,34.747982,Very High
+United States Virgin Islands,2006,40.37009,Very High
+United States Virgin Islands,2007,40.373123,Very High
+United States Virgin Islands,2008,43.19979,Very High
+United States Virgin Islands,2009,46.96291,Very High
+United States Virgin Islands,2010,52.75951,Very High
+United States Virgin Islands,2011,42.66232,Very High
 United States Virgin Islands,2012,49.631107,Very High
+Uruguay,1990,6.6088924,Medium
+Uruguay,1991,6.1874595,Medium
+Uruguay,1992,5.770941,Medium
+Uruguay,1995,5.9533086,Medium
+Uruguay,1996,6.353371,Medium
+Uruguay,1997,7.4882846,Medium
+Uruguay,1998,7.4785075,Medium
+Uruguay,1999,6.5874486,Medium
+Uruguay,2000,6.500164,Medium
+Uruguay,2001,6.6041813,Medium
+Uruguay,2002,6.986364,Medium
+Uruguay,2003,5.9512978,Medium
+Uruguay,2004,6.0353656,Medium
+Uruguay,2005,5.726919,Medium
+Uruguay,2006,6.080158,Medium
+Uruguay,2007,5.828188,Medium
+Uruguay,2008,6.624451,Medium
+Uruguay,2009,6.758058,Medium
+Uruguay,2010,6.1145644,Medium
+Uruguay,2011,5.919734,Medium
+Uruguay,2012,7.920187,Medium
+Uruguay,2013,7.689622,Medium
+Uruguay,2014,7.901732,Medium
+Uruguay,2015,8.610512,Medium
+Uruguay,2016,7.8212743,Medium
+Uruguay,2017,8.269533,Medium
+Uruguay,2018,12.284647,High
+Uruguay,2019,11.492213,High
+Uruguay,2020,9.856853,Medium
 Uruguay,2021,8.901836,Medium
+Uzbekistan,1990,5.4667115,Medium
+Uzbekistan,1991,5.0393124,Medium
+Uzbekistan,1992,5.3038387,Medium
+Uzbekistan,1993,5.157132,Medium
+Uzbekistan,1994,5.4022355,Medium
+Uzbekistan,1995,5.0247097,Medium
+Uzbekistan,1996,4.9135075,Low
+Uzbekistan,1997,4.4142365,Low
+Uzbekistan,1998,4.390526,Low
+Uzbekistan,1999,4.1214976,Low
+Uzbekistan,2000,4.284759,Low
+Uzbekistan,2001,4.2814517,Low
+Uzbekistan,2002,4.136201,Low
+Uzbekistan,2003,3.7172995,Low
+Uzbekistan,2004,3.666868,Low
+Uzbekistan,2005,3.4244742,Low
+Uzbekistan,2006,3.1975555,Low
+Uzbekistan,2007,2.9842968,Low
+Uzbekistan,2008,2.9970992,Low
+Uzbekistan,2015,1.6349257,Very Low
+Uzbekistan,2016,2.4067216,Low
+Uzbekistan,2017,1.8500153,Very Low
+Uzbekistan,2018,1.4607278,Very Low
+Uzbekistan,2019,1.2008388,Very Low
+Uzbekistan,2020,1.3392328,Very Low
 Uzbekistan,2021,1.4054567,Very Low
+Vanuatu,2019,0.6570205,Undefined
 Vanuatu,2020,0.32083675,Undefined
+Vatican,2009,0.0,Undefined
+Vatican,2010,0.0,Undefined
+Vatican,2011,0.0,Undefined
+Vatican,2012,0.0,Undefined
+Vatican,2013,0.0,Undefined
+Vatican,2014,0.0,Undefined
+Vatican,2015,0.0,Undefined
+Vatican,2019,0.0,Undefined
+Vatican,2020,0.0,Undefined
 Vatican,2021,0.0,Undefined
+Venezuela,1990,12.526215,High
+Venezuela,1991,12.370086,High
+Venezuela,1992,15.777427,High
+Venezuela,1993,20.271961,Very High
+Venezuela,1994,21.870693,Very High
+Venezuela,1995,20.269337,Very High
+Venezuela,1996,21.97845,Very High
+Venezuela,1997,18.339615,High
+Venezuela,1998,19.358557,High
+Venezuela,1999,24.925982,Very High
+Venezuela,2000,32.83973,Very High
+Venezuela,2001,31.993309,Very High
+Venezuela,2002,37.965446,Very High
+Venezuela,2003,43.991882,Very High
+Venezuela,2004,37.057335,Very High
+Venezuela,2005,37.362034,Very High
+Venezuela,2006,45.22531,Very High
+Venezuela,2007,47.79638,Very High
+Venezuela,2008,52.22699,Very High
+Venezuela,2009,49.368305,Very High
+Venezuela,2010,45.55107,Very High
+Venezuela,2011,48.453133,Very High
+Venezuela,2012,54.53603,Very High
+Venezuela,2014,63.027313,Very High
+Venezuela,2015,51.274635,Very High
+Venezuela,2016,56.623848,Very High
+Venezuela,2017,47.982174,Very High
+Venezuela,2019,40.984848,Very High
+Venezuela,2020,29.4274,Very High
 Venezuela,2021,19.305056,High
+Vietnam,2001,1.2578652,Very Low
+Vietnam,2002,1.3231268,Very Low
+Vietnam,2003,1.299772,Very Low
+Vietnam,2004,1.2914399,Very Low
+Vietnam,2005,1.2665064,Very Low
+Vietnam,2006,1.2483354,Very Low
+Vietnam,2007,1.3779716,Very Low
+Vietnam,2008,1.275742,Very Low
+Vietnam,2009,1.425715,Very Low
+Vietnam,2010,1.5284115,Very Low
 Vietnam,2011,1.5370839,Very Low
+World,2000,6.901814,Medium
+World,2001,6.989272,Medium
+World,2002,6.950769,Medium
+World,2003,6.7678256,Medium
+World,2004,6.5454617,Medium
+World,2005,6.3400927,Medium
+World,2006,6.222697,Medium
+World,2007,6.051122,Medium
+World,2008,6.045708,Medium
+World,2009,6.094978,Medium
+World,2010,6.074349,Medium
+World,2011,6.1522136,Medium
+World,2012,6.177419,Medium
+World,2013,6.083612,Medium
+World,2014,6.075776,Medium
+World,2015,5.9162917,Medium
+World,2016,5.961374,Medium
+World,2017,5.930093,Medium
+World,2018,5.7590094,Medium
+World,2019,5.555708,Medium
+World,2020,5.5101085,Medium
 World,2021,5.791921,Medium
+Yemen,1998,3.4927042,Low
+Yemen,1999,5.652914,Medium
+Yemen,2000,3.7415385,Low
+Yemen,2003,3.487082,Low
+Yemen,2004,3.1157446,Low
+Yemen,2009,4.1199207,Low
+Yemen,2010,4.4414907,Low
+Yemen,2011,5.3973193,Medium
+Yemen,2012,6.1624374,Medium
 Yemen,2013,6.3111467,Medium
+Zambia,1990,7.1554947,Medium
+Zambia,1991,8.67969,Medium
+Zambia,1992,9.511617,Medium
+Zambia,1993,9.007465,Medium
+Zambia,1994,9.806217,Medium
+Zambia,1998,9.303884,Medium
+Zambia,1999,11.142016,High
+Zambia,2000,8.05772,Medium
+Zambia,2008,5.3995323,Medium
+Zambia,2009,6.0969715,Medium
+Zambia,2010,5.901935,Medium
+Zambia,2011,6.049427,Medium
+Zambia,2012,6.002174,Medium
+Zambia,2013,5.6908526,Medium
+Zambia,2014,5.242158,Medium
 Zambia,2015,5.2498026,Medium
+Zimbabwe,1990,5.803898,Medium
+Zimbabwe,2001,12.836898,High
+Zimbabwe,2002,13.54233,High
+Zimbabwe,2003,11.262167,High
+Zimbabwe,2004,11.150508,High
+Zimbabwe,2005,11.043168,High
+Zimbabwe,2006,8.693896,Medium
+Zimbabwe,2010,5.5374823,Medium
+Zimbabwe,2012,7.395217,Medium
+Zimbabwe,2018,4.876369,Low
+Zimbabwe,2019,5.1450353,Medium
+Zimbabwe,2020,4.9777703,Low
 Zimbabwe,2021,6.139985,Medium
