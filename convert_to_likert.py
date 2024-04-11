@@ -4,7 +4,7 @@ import pandas as pd
 data = pd.read_csv("updated_parsed_index.csv")
 
 columns_to_process = [
-    "Armed Conflict Deaths", 
+    "Armed Conflict Deaths",
     "Homicide Rate", 
     "Territorial Control",
     "TC Upper Est.",
