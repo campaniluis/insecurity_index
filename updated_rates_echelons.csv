@@ -1,0 +1,3215 @@
+Country,ISO Code,Year,Echelon_Armed Conflict Deaths,Echelon_Homicide Rate,Echelon_Territorial Control,Echelon_TC Upper Est.,Echelon_TC Lower Est.
+Afghanistan,AFG,2009,5,3,1,1,1
+Afghanistan,AFG,2010,5,3,1,1,1
+Afghanistan,AFG,2011,5,3,1,1,1
+Afghanistan,AFG,2012,5,4,1,1,1
+Afghanistan,AFG,2015,5,4,1,1,1
+Afghanistan,AFG,2016,5,4,1,1,1
+Afghanistan,AFG,2017,5,4,1,1,1
+Afghanistan,AFG,2018,5,4,1,1,1
+Afghanistan,AFG,2019,5,4,1,1,1
+Afghanistan,AFG,2020,5,4,1,1,1
+Afghanistan,AFG,2021,5,3,2,2,2
+Albania,ALB,1992,1,3,1,2,1
+Albania,ALB,1993,1,4,1,2,1
+Albania,ALB,1994,1,3,1,2,1
+Albania,ALB,1995,1,4,1,2,1
+Albania,ALB,1996,1,4,1,2,1
+Albania,ALB,1997,1,5,1,1,1
+Albania,ALB,1998,1,5,2,3,1
+Albania,ALB,1999,5,5,2,3,2
+Albania,ALB,2000,1,3,2,3,2
+Albania,ALB,2001,1,4,2,3,2
+Albania,ALB,2002,1,4,2,3,2
+Albania,ALB,2003,1,4,3,3,3
+Albania,ALB,2004,1,3,3,3,3
+Albania,ALB,2005,1,4,3,3,3
+Albania,ALB,2006,1,3,3,3,3
+Albania,ALB,2007,1,3,3,3,3
+Albania,ALB,2008,1,3,3,3,3
+Albania,ALB,2009,1,3,3,3,3
+Albania,ALB,2010,1,3,3,3,3
+Albania,ALB,2011,1,4,3,3,3
+Albania,ALB,2012,1,4,3,3,3
+Albania,ALB,2013,1,3,3,3,3
+Albania,ALB,2014,1,4,3,3,3
+Albania,ALB,2015,1,3,3,3,3
+Albania,ALB,2016,1,3,3,3,3
+Albania,ALB,2017,1,2,2,3,2
+Albania,ALB,2018,1,3,3,3,2
+Albania,ALB,2019,1,3,3,4,3
+Albania,ALB,2020,1,3,3,4,2
+Albania,ALB,2021,1,3,2,3,2
+Algeria,DZA,2006,5,1,1,2,1
+Algeria,DZA,2007,5,1,1,2,1
+Algeria,DZA,2008,5,1,1,2,1
+Algeria,DZA,2009,5,1,1,2,1
+Algeria,DZA,2010,5,1,1,2,1
+Algeria,DZA,2011,5,1,1,2,1
+Algeria,DZA,2012,5,2,2,2,1
+Algeria,DZA,2013,5,2,2,2,3
+Algeria,DZA,2014,5,2,2,2,3
+Algeria,DZA,2015,5,2,2,2,3
+Algeria,DZA,2016,5,2,3,2,3
+Algeria,DZA,2017,5,2,3,2,3
+Algeria,DZA,2018,5,2,3,3,3
+Algeria,DZA,2019,1,2,3,3,3
+Algeria,DZA,2020,5,2,3,3,3
+Algeria,DZA,2021,5,2,3,3,3
+Angola,AGO,2011,1,3,2,1,2
+Angola,AGO,2012,1,4,2,1,2
+Angola,AGO,2015,1,3,2,2,2
+Angola,AGO,2016,5,3,2,2,2
+Argentina,ARG,2001,1,4,3,3,3
+Argentina,ARG,2002,1,4,3,3,3
+Argentina,ARG,2003,1,4,3,3,3
+Argentina,ARG,2004,1,4,3,3,3
+Argentina,ARG,2005,1,4,3,3,3
+Argentina,ARG,2006,1,4,3,3,3
+Argentina,ARG,2007,1,4,3,3,3
+Argentina,ARG,2008,1,4,3,3,3
+Argentina,ARG,2009,1,4,3,3,3
+Argentina,ARG,2010,1,4,3,3,3
+Argentina,ARG,2011,1,4,3,3,3
+Argentina,ARG,2012,1,4,3,3,3
+Argentina,ARG,2013,1,4,3,3,3
+Argentina,ARG,2014,1,4,3,3,3
+Argentina,ARG,2015,1,4,3,3,3
+Argentina,ARG,2016,1,4,3,3,3
+Argentina,ARG,2017,1,4,3,3,3
+Argentina,ARG,2018,1,4,3,3,3
+Argentina,ARG,2019,1,4,3,3,3
+Argentina,ARG,2020,1,4,4,4,4
+Argentina,ARG,2021,1,4,4,4,4
+Armenia,ARM,1991,5,4,3,4,2
+Armenia,ARM,1992,5,4,5,5,5
+Armenia,ARM,1993,5,4,5,5,5
+Armenia,ARM,1994,5,4,5,5,5
+Armenia,ARM,1995,1,3,5,5,5
+Armenia,ARM,1996,1,3,5,5,5
+Armenia,ARM,1997,1,3,5,5,5
+Armenia,ARM,1998,1,3,5,5,5
+Armenia,ARM,1999,1,3,5,5,5
+Armenia,ARM,2000,1,3,5,5,5
+Armenia,ARM,2001,1,3,5,5,5
+Armenia,ARM,2002,1,3,5,5,5
+Armenia,ARM,2004,1,3,5,5,5
+Armenia,ARM,2005,5,2,5,5,5
+Armenia,ARM,2006,1,3,5,5,5
+Armenia,ARM,2007,1,3,5,5,5
+Armenia,ARM,2008,1,3,5,5,5
+Armenia,ARM,2009,1,3,5,5,5
+Armenia,ARM,2010,1,2,5,5,5
+Armenia,ARM,2011,1,3,5,5,5
+Armenia,ARM,2012,5,3,5,5,5
+Armenia,ARM,2013,1,3,5,5,5
+Armenia,ARM,2014,5,3,5,5,5
+Armenia,ARM,2015,5,3,5,5,5
+Armenia,ARM,2016,5,3,5,5,5
+Armenia,ARM,2017,1,3,5,5,5
+Armenia,ARM,2018,1,2,5,5,5
+Armenia,ARM,2019,1,3,5,5,5
+Armenia,ARM,2020,5,2,3,3,3
+Armenia,ARM,2021,5,3,3,2,3
+Australia,AUS,1990,1,3,4,4,4
+Australia,AUS,1991,1,2,4,4,4
+Australia,AUS,1992,1,2,4,4,4
+Australia,AUS,1993,1,2,4,4,4
+Australia,AUS,1994,1,2,4,4,4
+Australia,AUS,1995,1,2,4,4,4
+Australia,AUS,1996,1,2,4,4,4
+Australia,AUS,1997,1,2,4,4,4
+Australia,AUS,1998,1,2,4,4,4
+Australia,AUS,1999,1,2,4,4,4
+Australia,AUS,2000,1,2,4,4,4
+Australia,AUS,2001,1,2,4,4,4
+Australia,AUS,2002,1,2,4,4,4
+Australia,AUS,2003,1,2,4,4,4
+Australia,AUS,2004,1,2,4,4,4
+Australia,AUS,2005,1,2,4,4,4
+Australia,AUS,2006,1,2,4,4,4
+Australia,AUS,2007,1,2,4,4,4
+Australia,AUS,2008,1,2,4,4,4
+Australia,AUS,2009,1,2,4,4,4
+Australia,AUS,2010,1,1,4,4,4
+Australia,AUS,2011,1,1,4,4,4
+Australia,AUS,2012,1,1,4,4,4
+Australia,AUS,2013,1,1,4,3,4
+Australia,AUS,2014,1,1,4,3,4
+Australia,AUS,2015,1,1,4,3,4
+Australia,AUS,2016,1,1,4,3,4
+Australia,AUS,2017,1,1,4,3,4
+Australia,AUS,2018,5,1,4,3,4
+Australia,AUS,2019,1,1,4,3,4
+Australia,AUS,2020,1,1,4,3,4
+Australia,AUS,2021,1,1,4,3,4
+Austria,AUT,1990,1,2,5,5,5
+Austria,AUT,1991,1,2,5,5,5
+Austria,AUT,1992,1,2,5,5,5
+Austria,AUT,1993,1,1,5,5,5
+Austria,AUT,1994,1,1,5,5,5
+Austria,AUT,1995,1,1,5,5,5
+Austria,AUT,1996,1,2,5,5,5
+Austria,AUT,1997,1,1,5,5,5
+Austria,AUT,1998,1,1,5,5,5
+Austria,AUT,1999,1,1,5,5,5
+Austria,AUT,2000,1,1,5,5,5
+Austria,AUT,2001,1,1,5,5,5
+Austria,AUT,2002,1,1,5,5,5
+Austria,AUT,2003,1,1,5,5,5
+Austria,AUT,2004,1,1,5,5,5
+Austria,AUT,2005,1,1,5,5,5
+Austria,AUT,2006,1,1,5,5,5
+Austria,AUT,2007,1,1,5,5,5
+Austria,AUT,2008,1,1,5,5,5
+Austria,AUT,2009,1,1,5,5,5
+Austria,AUT,2010,1,1,5,5,5
+Austria,AUT,2011,1,1,5,5,5
+Austria,AUT,2012,1,1,5,5,5
+Austria,AUT,2013,1,1,5,5,5
+Austria,AUT,2014,1,1,5,5,5
+Austria,AUT,2015,1,1,5,5,5
+Austria,AUT,2016,1,1,5,5,5
+Austria,AUT,2017,1,1,5,5,5
+Austria,AUT,2018,1,1,5,5,5
+Austria,AUT,2019,1,1,5,5,5
+Austria,AUT,2020,5,1,5,5,5
+Austria,AUT,2021,1,1,5,5,5
+Azerbaijan,AZE,1991,5,4,4,4,4
+Azerbaijan,AZE,1992,5,4,2,2,2
+Azerbaijan,AZE,1993,5,4,1,1,1
+Azerbaijan,AZE,1994,5,4,1,1,1
+Azerbaijan,AZE,1995,5,4,1,1,1
+Azerbaijan,AZE,1996,1,4,1,1,1
+Azerbaijan,AZE,1997,5,3,1,1,1
+Azerbaijan,AZE,1998,5,3,1,1,1
+Azerbaijan,AZE,1999,1,3,1,1,1
+Azerbaijan,AZE,2000,1,3,1,1,1
+Azerbaijan,AZE,2001,1,3,1,1,1
+Azerbaijan,AZE,2002,1,3,1,1,1
+Azerbaijan,AZE,2007,1,3,1,1,1
+Azerbaijan,AZE,2008,5,3,1,1,1
+Azerbaijan,AZE,2010,1,3,1,1,1
+Azerbaijan,AZE,2011,1,3,1,1,1
+Azerbaijan,AZE,2012,5,3,1,1,1
+Azerbaijan,AZE,2013,1,3,1,1,1
+Azerbaijan,AZE,2014,5,3,1,1,1
+Azerbaijan,AZE,2015,5,3,1,1,1
+Azerbaijan,AZE,2016,5,2,1,1,1
+Azerbaijan,AZE,2017,5,2,1,1,1
+Azerbaijan,AZE,2018,1,2,1,1,1
+Azerbaijan,AZE,2019,1,2,1,1,1
+Azerbaijan,AZE,2020,5,3,2,1,2
+Azerbaijan,AZE,2021,5,2,2,1,2
+Bahrain,BHR,1995,1,1,2,2,2
+Bahrain,BHR,1996,1,2,2,2,2
+Bahrain,BHR,1997,1,1,2,2,2
+Bahrain,BHR,2001,1,2,2,2,2
+Bahrain,BHR,2002,1,1,2,2,2
+Bahrain,BHR,2007,1,1,2,2,2
+Bahrain,BHR,2008,1,1,2,2,2
+Bahrain,BHR,2009,1,1,2,2,2
+Bahrain,BHR,2010,1,1,2,2,2
+Bahrain,BHR,2011,5,1,2,2,2
+Bahrain,BHR,2012,1,1,2,2,2
+Bahrain,BHR,2013,1,1,2,2,2
+Bahrain,BHR,2014,1,1,2,2,2
+Bahrain,BHR,2015,1,1,2,2,2
+Bahrain,BHR,2016,1,1,2,2,2
+Bahrain,BHR,2017,1,1,2,2,2
+Bahrain,BHR,2018,1,1,2,2,2
+Bahrain,BHR,2019,1,1,2,2,2
+Bahrain,BHR,2020,1,1,2,2,2
+Bahrain,BHR,2021,1,1,2,2,2
+Bangladesh,BGD,2000,5,3,4,4,4
+Bangladesh,BGD,2001,5,3,4,4,4
+Bangladesh,BGD,2002,1,3,4,4,4
+Bangladesh,BGD,2003,1,3,4,4,4
+Bangladesh,BGD,2004,5,3,4,4,4
+Bangladesh,BGD,2005,5,3,4,4,4
+Bangladesh,BGD,2006,5,3,4,4,4
+Bangladesh,BGD,2007,5,3,4,4,4
+Bangladesh,BGD,2008,1,3,4,4,4
+Bangladesh,BGD,2009,1,3,4,4,4
+Bangladesh,BGD,2010,1,3,5,4,5
+Bangladesh,BGD,2011,1,3,5,4,5
+Bangladesh,BGD,2012,1,3,5,4,5
+Bangladesh,BGD,2013,5,3,4,4,4
+Bangladesh,BGD,2014,1,3,4,4,4
+Bangladesh,BGD,2015,5,3,4,4,4
+Bangladesh,BGD,2016,5,3,4,4,4
+Bangladesh,BGD,2017,5,3,4,4,4
+Bangladesh,BGD,2018,1,3,4,4,4
+Barbados,BRB,1990,1,5,4,4,4
+Barbados,BRB,1991,1,4,4,4,4
+Barbados,BRB,1992,1,4,4,4,4
+Barbados,BRB,1993,1,4,4,4,4
+Barbados,BRB,1994,1,4,4,4,4
+Barbados,BRB,1995,1,4,4,4,4
+Barbados,BRB,1998,1,4,4,4,4
+Barbados,BRB,1999,1,4,4,4,4
+Barbados,BRB,2000,1,4,4,4,4
+Barbados,BRB,2001,1,4,4,4,4
+Barbados,BRB,2002,1,4,4,4,4
+Barbados,BRB,2003,1,5,4,4,4
+Barbados,BRB,2004,1,4,4,4,4
+Barbados,BRB,2005,1,5,4,4,4
+Barbados,BRB,2006,1,5,4,4,4
+Barbados,BRB,2007,1,4,4,4,4
+Barbados,BRB,2008,1,4,4,4,4
+Barbados,BRB,2009,1,4,4,4,4
+Barbados,BRB,2010,1,5,4,4,4
+Barbados,BRB,2011,1,4,4,4,4
+Barbados,BRB,2012,1,4,4,4,4
+Barbados,BRB,2013,1,4,4,4,4
+Barbados,BRB,2014,1,4,4,4,4
+Barbados,BRB,2015,1,5,4,4,4
+Barbados,BRB,2016,1,4,4,4,4
+Barbados,BRB,2017,1,5,4,4,4
+Barbados,BRB,2018,1,5,4,4,4
+Barbados,BRB,2019,1,5,4,4,4
+Barbados,BRB,2020,1,5,4,4,4
+Barbados,BRB,2021,1,5,4,4,4
+Belarus,BLR,1991,1,3,1,3,1
+Belarus,BLR,1992,1,4,5,5,5
+Belarus,BLR,1993,1,4,5,5,5
+Belarus,BLR,1994,1,4,5,5,5
+Belarus,BLR,1995,1,4,5,5,5
+Belarus,BLR,1996,1,4,5,5,5
+Belarus,BLR,1997,1,4,5,5,5
+Belarus,BLR,1998,1,5,5,5,5
+Belarus,BLR,1999,1,4,5,5,5
+Belarus,BLR,2000,1,4,5,5,5
+Belarus,BLR,2001,1,4,5,5,5
+Belarus,BLR,2002,1,4,5,5,5
+Belarus,BLR,2007,1,4,5,5,5
+Belarus,BLR,2008,1,4,5,5,5
+Belarus,BLR,2009,1,4,5,5,5
+Belarus,BLR,2010,1,3,5,5,5
+Belarus,BLR,2011,1,3,5,5,5
+Belarus,BLR,2012,1,3,5,5,5
+Belarus,BLR,2013,1,3,5,5,5
+Belarus,BLR,2014,1,3,5,5,5
+Belarus,BLR,2015,1,3,5,5,5
+Belarus,BLR,2016,1,3,5,5,5
+Belarus,BLR,2017,1,3,5,5,5
+Belarus,BLR,2018,1,3,5,5,5
+Belarus,BLR,2019,1,3,5,5,5
+Belgium,BEL,1990,1,1,5,5,5
+Belgium,BEL,1991,1,1,5,5,5
+Belgium,BEL,1992,1,2,5,5,5
+Belgium,BEL,1993,1,2,5,5,5
+Belgium,BEL,1994,1,2,5,5,5
+Belgium,BEL,1995,1,2,5,5,5
+Belgium,BEL,1996,1,2,5,5,5
+Belgium,BEL,1997,1,2,5,5,5
+Belgium,BEL,2000,1,3,5,5,5
+Belgium,BEL,2001,1,3,5,5,5
+Belgium,BEL,2002,1,3,5,5,5
+Belgium,BEL,2021,1,1,5,5,5
+Bhutan,BTN,1990,1,3,3,4,2
+Bhutan,BTN,1991,1,3,3,4,2
+Bhutan,BTN,1992,1,4,3,4,2
+Bhutan,BTN,1993,1,3,3,4,2
+Bhutan,BTN,1994,1,3,3,4,2
+Bhutan,BTN,1995,1,3,3,4,2
+Bhutan,BTN,1996,1,3,3,4,2
+Bhutan,BTN,1997,5,2,3,4,2
+Bhutan,BTN,1998,1,2,3,4,2
+Bhutan,BTN,1999,1,3,3,4,2
+Bhutan,BTN,2000,1,3,3,4,2
+Bhutan,BTN,2001,1,3,3,4,2
+Bhutan,BTN,2002,1,3,3,4,2
+Bhutan,BTN,2003,1,1,2,3,2
+Bhutan,BTN,2004,1,3,2,3,2
+Bhutan,BTN,2005,1,2,2,3,2
+Bhutan,BTN,2006,1,2,2,3,2
+Bhutan,BTN,2007,1,3,2,3,2
+Bhutan,BTN,2008,1,3,2,3,2
+Bhutan,BTN,2009,1,3,2,3,2
+Bhutan,BTN,2010,1,3,2,3,2
+Bhutan,BTN,2011,1,4,2,3,2
+Bhutan,BTN,2012,1,4,2,3,2
+Bhutan,BTN,2013,1,3,2,3,2
+Bhutan,BTN,2015,1,2,2,3,2
+Bhutan,BTN,2016,1,2,2,2,2
+Bhutan,BTN,2017,1,2,2,2,2
+Bhutan,BTN,2018,1,2,2,2,2
+Bhutan,BTN,2019,1,1,2,2,2
+Bhutan,BTN,2020,1,3,2,2,2
+Bolivia,BOL,2015,1,4,2,2,2
+Bolivia,BOL,2016,1,4,2,2,2
+Bolivia,BOL,2017,1,4,2,2,2
+Bolivia,BOL,2018,1,4,2,2,2
+Bolivia,BOL,2019,1,3,2,2,2
+Bolivia,BOL,2020,5,3,1,1,1
+Bolivia,BOL,2021,5,3,2,2,2
+Bosnia and Herzegovina,BIH,1990,1,2,2,2,2
+Bosnia and Herzegovina,BIH,2000,1,3,2,3,1
+Bosnia and Herzegovina,BIH,2001,1,2,2,4,2
+Bosnia and Herzegovina,BIH,2002,1,3,2,4,2
+Bosnia and Herzegovina,BIH,2004,1,2,2,4,2
+Bosnia and Herzegovina,BIH,2007,1,2,2,4,2
+Bosnia and Herzegovina,BIH,2008,1,2,2,2,2
+Bosnia and Herzegovina,BIH,2009,1,2,2,2,2
+Bosnia and Herzegovina,BIH,2010,1,2,2,4,2
+Bosnia and Herzegovina,BIH,2011,1,2,2,4,2
+Bosnia and Herzegovina,BIH,2012,1,2,2,4,2
+Bosnia and Herzegovina,BIH,2013,1,2,3,4,2
+Bosnia and Herzegovina,BIH,2014,1,2,3,4,2
+Bosnia and Herzegovina,BIH,2015,1,2,3,4,2
+Bosnia and Herzegovina,BIH,2016,1,2,3,4,2
+Bosnia and Herzegovina,BIH,2017,1,2,2,2,1
+Bosnia and Herzegovina,BIH,2018,1,2,1,1,1
+Bosnia and Herzegovina,BIH,2019,1,2,2,2,1
+Bosnia and Herzegovina,BIH,2020,1,2,1,1,1
+Bosnia and Herzegovina,BIH,2021,1,1,1,1,1
+Botswana,BWA,2001,1,5,4,3,4
+Botswana,BWA,2002,1,5,4,3,4
+Botswana,BWA,2003,1,5,4,3,4
+Botswana,BWA,2004,1,5,4,3,4
+Botswana,BWA,2005,1,5,4,3,4
+Botswana,BWA,2006,1,5,4,3,4
+Botswana,BWA,2007,1,5,4,3,4
+Botswana,BWA,2008,1,5,4,3,4
+Botswana,BWA,2009,1,5,4,3,4
+Botswana,BWA,2010,1,5,4,3,4
+Botswana,BWA,2020,1,4,3,3,3
+Botswana,BWA,2021,1,5,3,3,3
+Brazil,BRA,1990,1,5,2,1,1
+Brazil,BRA,1991,1,5,2,1,1
+Brazil,BRA,1992,1,5,2,1,1
+Brazil,BRA,1993,5,5,2,1,1
+Brazil,BRA,1994,5,5,2,1,1
+Brazil,BRA,1995,5,5,2,1,1
+Brazil,BRA,1996,1,5,2,1,1
+Brazil,BRA,1997,5,5,2,1,1
+Brazil,BRA,1998,1,5,2,1,1
+Brazil,BRA,1999,5,5,2,1,1
+Brazil,BRA,2000,5,5,2,1,1
+Brazil,BRA,2001,5,5,2,1,1
+Brazil,BRA,2002,5,5,2,1,1
+Brazil,BRA,2003,5,5,2,1,1
+Brazil,BRA,2004,5,5,2,1,1
+Brazil,BRA,2005,5,5,2,1,1
+Brazil,BRA,2006,1,5,2,1,1
+Brazil,BRA,2007,1,5,2,1,1
+Brazil,BRA,2008,1,5,2,1,1
+Brazil,BRA,2009,5,5,2,1,1
+Brazil,BRA,2010,1,5,2,1,1
+Brazil,BRA,2011,5,5,2,1,1
+Brazil,BRA,2012,5,5,2,1,1
+Brazil,BRA,2013,1,5,2,1,1
+Brazil,BRA,2014,1,5,2,1,1
+Brazil,BRA,2015,5,5,1,1,1
+Brazil,BRA,2016,5,5,1,2,1
+Brazil,BRA,2017,5,5,1,2,1
+Brazil,BRA,2018,5,5,1,2,1
+Brazil,BRA,2019,5,5,2,2,2
+Brazil,BRA,2020,5,5,2,3,2
+Bulgaria,BGR,1990,1,3,5,5,5
+Bulgaria,BGR,1991,1,3,5,5,5
+Bulgaria,BGR,1992,1,4,5,5,5
+Bulgaria,BGR,1993,1,4,5,5,5
+Bulgaria,BGR,1994,1,4,5,5,5
+Bulgaria,BGR,1995,1,4,5,5,5
+Bulgaria,BGR,1996,1,4,5,5,5
+Bulgaria,BGR,1997,1,4,5,5,5
+Bulgaria,BGR,1998,1,4,5,5,5
+Bulgaria,BGR,1999,1,3,5,5,5
+Bulgaria,BGR,2000,1,3,5,5,5
+Bulgaria,BGR,2001,1,3,5,5,5
+Bulgaria,BGR,2002,1,3,5,5,5
+Bulgaria,BGR,2003,1,3,5,5,5
+Bulgaria,BGR,2004,1,3,5,5,5
+Bulgaria,BGR,2005,1,3,5,5,5
+Bulgaria,BGR,2006,1,3,5,5,5
+Bulgaria,BGR,2007,1,3,5,5,5
+Bulgaria,BGR,2008,1,3,5,5,5
+Bulgaria,BGR,2009,1,2,5,5,5
+Bulgaria,BGR,2010,1,2,5,5,5
+Bulgaria,BGR,2011,1,2,5,5,5
+Bulgaria,BGR,2012,1,2,5,5,5
+Bulgaria,BGR,2013,1,2,5,5,5
+Bulgaria,BGR,2014,1,2,5,5,5
+Bulgaria,BGR,2015,1,2,5,5,5
+Bulgaria,BGR,2016,1,1,5,5,5
+Bulgaria,BGR,2017,1,2,5,5,5
+Bulgaria,BGR,2018,1,2,5,5,5
+Bulgaria,BGR,2019,1,2,5,5,5
+Bulgaria,BGR,2020,1,1,5,5,5
+Bulgaria,BGR,2021,1,2,5,5,5
+Burundi,BDI,2012,1,4,2,2,2
+Burundi,BDI,2013,1,4,2,2,2
+Burundi,BDI,2014,5,4,2,2,2
+Burundi,BDI,2015,5,3,2,2,2
+Burundi,BDI,2016,5,4,2,2,2
+Cambodia,KHM,1992,5,3,1,1,1
+Cambodia,KHM,1993,5,4,1,1,1
+Cambodia,KHM,1994,5,3,1,1,1
+Cambodia,KHM,1995,5,3,1,1,1
+Cambodia,KHM,1996,5,4,1,1,1
+Cambodia,KHM,1997,5,3,1,1,1
+Cambodia,KHM,1998,5,4,1,1,1
+Cambodia,KHM,1999,1,4,1,1,1
+Cambodia,KHM,2000,1,4,2,2,2
+Cambodia,KHM,2001,1,3,2,2,2
+Cambodia,KHM,2002,1,3,2,2,2
+Cambodia,KHM,2003,1,3,2,2,2
+Cambodia,KHM,2004,1,3,2,2,2
+Cambodia,KHM,2005,1,3,2,2,2
+Cambodia,KHM,2006,1,3,2,2,2
+Cambodia,KHM,2007,1,3,2,2,2
+Cambodia,KHM,2008,1,3,2,2,2
+Cambodia,KHM,2009,1,3,2,2,2
+Cambodia,KHM,2010,1,3,2,2,2
+Cambodia,KHM,2011,5,2,2,2,2
+Cameroon,CMR,2000,1,3,3,3,3
+Cameroon,CMR,2001,1,4,3,3,3
+Cameroon,CMR,2002,1,4,3,3,3
+Cameroon,CMR,2003,1,4,3,3,3
+Cameroon,CMR,2008,1,3,3,3,3
+Cameroon,CMR,2009,1,4,3,3,3
+Cameroon,CMR,2010,1,4,3,3,3
+Cameroon,CMR,2011,1,3,3,3,3
+Cameroon,CMR,2012,5,3,3,3,3
+Cameroon,CMR,2015,5,3,3,2,3
+Cameroon,CMR,2016,5,3,2,2,2
+Cameroon,CMR,2017,5,3,2,2,2
+Cameroon,CMR,2020,5,4,2,2,1
+Canada,CAN,1990,1,3,4,3,4
+Canada,CAN,1991,1,3,4,3,4
+Canada,CAN,1992,1,3,4,3,4
+Canada,CAN,1993,1,3,4,3,4
+Canada,CAN,1994,1,3,4,3,4
+Canada,CAN,1995,5,2,4,3,4
+Canada,CAN,1996,1,3,4,3,4
+Canada,CAN,1997,1,2,4,3,4
+Canada,CAN,1998,5,2,4,3,4
+Canada,CAN,1999,1,2,4,3,4
+Canada,CAN,2000,1,2,4,3,4
+Canada,CAN,2001,1,2,4,3,4
+Canada,CAN,2002,1,2,4,3,4
+Canada,CAN,2003,1,2,4,3,4
+Canada,CAN,2004,1,2,4,3,4
+Canada,CAN,2005,1,3,4,3,4
+Canada,CAN,2006,1,2,4,3,4
+Canada,CAN,2007,1,2,4,3,4
+Canada,CAN,2008,1,2,4,3,4
+Canada,CAN,2009,1,2,4,3,4
+Canada,CAN,2010,1,2,4,4,4
+Canada,CAN,2011,1,2,4,4,4
+Canada,CAN,2012,1,2,4,4,4
+Canada,CAN,2013,1,2,3,3,4
+Canada,CAN,2014,1,2,3,3,4
+Canada,CAN,2015,1,2,3,3,3
+Canada,CAN,2016,1,2,3,3,4
+Canada,CAN,2017,1,2,3,3,3
+Canada,CAN,2018,1,2,3,3,3
+Canada,CAN,2019,1,2,3,3,3
+Canada,CAN,2020,1,2,2,3,2
+Canada,CAN,2021,1,3,3,3,3
+Cape Verde,CPV,2003,1,3,5,5,5
+Cape Verde,CPV,2004,1,3,5,5,5
+Cape Verde,CPV,2005,1,4,5,5,5
+Cape Verde,CPV,2006,1,4,5,5,5
+Cape Verde,CPV,2013,1,5,5,5,5
+Cape Verde,CPV,2014,1,5,5,5,5
+Cape Verde,CPV,2015,1,4,5,5,5
+Cape Verde,CPV,2016,1,5,5,5,5
+Cape Verde,CPV,2017,1,4,5,5,5
+Cape Verde,CPV,2018,1,4,4,4,4
+Cape Verde,CPV,2019,1,4,5,5,5
+Cape Verde,CPV,2020,1,4,5,5,5
+Chile,CHL,2003,1,3,3,3,3
+Chile,CHL,2005,1,3,3,3,3
+Chile,CHL,2006,1,3,3,3,3
+Chile,CHL,2007,1,3,3,3,3
+Chile,CHL,2008,1,3,3,3,3
+Chile,CHL,2009,1,3,3,3,3
+Chile,CHL,2010,1,3,3,3,3
+Chile,CHL,2011,1,3,3,3,3
+Chile,CHL,2012,1,3,3,3,3
+Chile,CHL,2013,1,3,3,3,3
+Chile,CHL,2014,1,3,3,3,3
+Chile,CHL,2015,1,3,3,3,3
+Chile,CHL,2016,1,3,3,3,3
+Chile,CHL,2017,1,3,3,2,3
+Chile,CHL,2018,1,3,3,2,3
+Chile,CHL,2019,1,3,2,2,2
+Chile,CHL,2020,1,4,3,3,3
+Chile,CHL,2021,1,3,1,1,1
+China,CHN,1995,1,3,3,3,3
+China,CHN,1996,1,3,3,3,3
+China,CHN,1997,1,3,3,3,3
+China,CHN,2002,1,2,3,3,3
+China,CHN,2003,1,2,3,3,3
+China,CHN,2004,1,2,3,3,4
+China,CHN,2005,1,2,3,2,3
+China,CHN,2006,1,2,3,2,3
+China,CHN,2007,1,2,3,2,3
+China,CHN,2008,5,1,3,2,3
+China,CHN,2009,5,1,3,2,3
+China,CHN,2010,1,1,3,2,3
+China,CHN,2011,5,1,3,2,3
+China,CHN,2012,5,1,3,2,3
+China,CHN,2013,5,1,3,2,3
+China,CHN,2014,5,1,3,2,3
+China,CHN,2015,5,1,3,2,3
+China,CHN,2016,5,1,3,2,3
+China,CHN,2017,1,1,3,2,3
+China,CHN,2018,1,1,3,2,3
+China,CHN,2019,1,1,3,2,3
+China,CHN,2020,1,1,3,2,3
+Colombia,COL,1990,5,5,1,1,1
+Colombia,COL,1991,5,5,1,1,1
+Colombia,COL,1992,5,5,1,1,1
+Colombia,COL,1993,5,5,1,1,1
+Colombia,COL,1994,5,5,1,1,1
+Colombia,COL,1995,5,5,1,1,1
+Colombia,COL,1996,5,5,1,1,1
+Colombia,COL,1997,5,5,1,1,1
+Colombia,COL,1998,5,5,1,1,1
+Colombia,COL,1999,5,5,1,1,1
+Colombia,COL,2000,5,5,1,1,1
+Colombia,COL,2001,5,5,1,1,1
+Colombia,COL,2002,5,5,1,1,1
+Colombia,COL,2003,5,5,1,1,1
+Colombia,COL,2004,5,5,1,1,1
+Colombia,COL,2005,5,5,1,1,1
+Colombia,COL,2006,5,5,1,1,1
+Colombia,COL,2007,5,5,1,1,1
+Colombia,COL,2008,5,5,1,1,1
+Colombia,COL,2009,5,5,1,1,1
+Colombia,COL,2010,5,5,1,1,1
+Colombia,COL,2011,5,5,1,1,1
+Colombia,COL,2012,5,5,1,1,1
+Colombia,COL,2013,5,5,1,1,1
+Colombia,COL,2014,5,5,1,1,1
+Colombia,COL,2015,5,5,1,1,1
+Colombia,COL,2016,5,5,1,1,1
+Colombia,COL,2017,5,5,1,1,1
+Colombia,COL,2018,5,5,1,1,1
+Colombia,COL,2019,5,5,1,1,1
+Colombia,COL,2020,5,5,1,1,1
+Colombia,COL,2021,5,5,1,1,1
+Costa Rica,CRI,1990,1,3,3,3,3
+Costa Rica,CRI,1991,1,3,3,3,3
+Costa Rica,CRI,1992,1,4,3,3,3
+Costa Rica,CRI,1993,1,4,3,3,3
+Costa Rica,CRI,1994,1,4,3,3,3
+Costa Rica,CRI,1995,1,4,3,3,3
+Costa Rica,CRI,1996,1,4,3,3,3
+Costa Rica,CRI,1997,1,4,3,3,3
+Costa Rica,CRI,1998,1,4,3,3,3
+Costa Rica,CRI,1999,1,4,3,3,3
+Costa Rica,CRI,2000,1,4,3,3,3
+Costa Rica,CRI,2001,1,4,3,3,3
+Costa Rica,CRI,2002,1,4,3,3,3
+Costa Rica,CRI,2003,1,4,3,3,3
+Costa Rica,CRI,2004,1,4,3,3,3
+Costa Rica,CRI,2005,1,4,3,3,3
+Costa Rica,CRI,2006,1,4,3,3,3
+Costa Rica,CRI,2007,1,4,3,3,3
+Costa Rica,CRI,2008,1,5,3,3,3
+Costa Rica,CRI,2009,1,5,3,3,3
+Costa Rica,CRI,2010,1,5,3,3,3
+Costa Rica,CRI,2011,1,5,3,3,3
+Costa Rica,CRI,2012,1,4,3,3,3
+Costa Rica,CRI,2013,1,4,3,3,3
+Costa Rica,CRI,2014,1,4,3,3,3
+Costa Rica,CRI,2015,1,5,3,3,3
+Costa Rica,CRI,2016,1,5,3,3,3
+Costa Rica,CRI,2017,1,5,3,3,3
+Costa Rica,CRI,2018,1,5,3,3,3
+Costa Rica,CRI,2019,1,5,3,2,3
+Costa Rica,CRI,2020,1,5,3,2,3
+Costa Rica,CRI,2021,1,5,2,2,2
+Croatia,HRV,1990,1,3,2,2,2
+Croatia,HRV,1992,5,4,1,1,1
+Croatia,HRV,1993,5,4,1,1,1
+Croatia,HRV,1994,5,3,1,1,1
+Croatia,HRV,1995,5,3,1,1,1
+Croatia,HRV,1996,1,3,3,3,3
+Croatia,HRV,1997,1,3,3,3,3
+Croatia,HRV,1998,1,3,3,4,3
+Croatia,HRV,1999,1,3,5,5,5
+Croatia,HRV,2000,1,3,5,5,5
+Croatia,HRV,2001,1,2,5,5,5
+Croatia,HRV,2002,1,2,5,5,5
+Croatia,HRV,2003,1,2,5,5,5
+Croatia,HRV,2004,1,2,5,5,5
+Croatia,HRV,2005,1,2,5,5,5
+Croatia,HRV,2006,1,2,5,5,5
+Croatia,HRV,2007,1,2,5,5,5
+Croatia,HRV,2008,1,2,5,5,5
+Croatia,HRV,2009,1,1,5,5,5
+Croatia,HRV,2010,1,2,5,5,5
+Croatia,HRV,2011,1,1,5,5,5
+Croatia,HRV,2012,1,2,5,5,5
+Croatia,HRV,2013,1,1,5,5,5
+Croatia,HRV,2014,1,1,5,5,5
+Croatia,HRV,2015,1,1,5,5,5
+Croatia,HRV,2016,1,1,5,5,5
+Croatia,HRV,2017,1,1,5,5,5
+Croatia,HRV,2018,1,1,5,5,5
+Croatia,HRV,2019,1,1,5,5,5
+Croatia,HRV,2020,1,1,5,5,5
+Croatia,HRV,2021,1,1,5,5,5
+Cuba,CUB,1992,1,4,4,3,4
+Cuba,CUB,1993,1,4,4,3,4
+Cuba,CUB,1994,1,4,4,3,4
+Cuba,CUB,1995,1,4,4,3,4
+Cuba,CUB,1996,1,4,4,3,4
+Cuba,CUB,1997,1,4,4,3,4
+Cuba,CUB,1998,1,4,4,3,4
+Cuba,CUB,1999,1,4,4,3,4
+Cuba,CUB,2000,1,4,4,3,4
+Cuba,CUB,2001,1,4,4,3,4
+Cuba,CUB,2002,1,4,4,3,4
+Cuba,CUB,2003,1,4,4,3,4
+Cuba,CUB,2004,1,4,4,3,4
+Cuba,CUB,2005,1,4,4,3,4
+Cuba,CUB,2006,1,4,4,3,4
+Cuba,CUB,2007,1,4,4,3,4
+Cuba,CUB,2008,1,4,4,3,4
+Cuba,CUB,2009,1,4,4,3,4
+Cuba,CUB,2010,1,3,4,3,4
+Cuba,CUB,2011,1,4,4,3,4
+Cuba,CUB,2012,1,4,4,3,4
+Cuba,CUB,2013,1,4,4,3,4
+Cuba,CUB,2014,1,4,4,3,4
+Cuba,CUB,2015,1,4,4,3,4
+Cuba,CUB,2016,1,4,4,3,4
+Cuba,CUB,2017,1,4,4,3,4
+Cuba,CUB,2018,1,3,4,3,4
+Cuba,CUB,2019,1,3,4,3,4
+Cyprus,CYP,1990,1,1,1,1,1
+Cyprus,CYP,1991,1,1,1,1,1
+Cyprus,CYP,1992,1,1,1,1,1
+Cyprus,CYP,1993,1,1,1,1,1
+Cyprus,CYP,1994,1,1,1,1,1
+Cyprus,CYP,1995,1,1,1,1,1
+Cyprus,CYP,1996,1,2,1,1,1
+Cyprus,CYP,1997,1,1,1,1,1
+Cyprus,CYP,1998,1,1,1,1,1
+Cyprus,CYP,1999,1,1,1,1,1
+Cyprus,CYP,2000,1,1,1,1,1
+Cyprus,CYP,2001,1,1,1,1,1
+Cyprus,CYP,2002,1,1,1,1,1
+Cyprus,CYP,2004,1,2,1,1,1
+Cyprus,CYP,2005,1,2,1,1,1
+Cyprus,CYP,2006,1,2,1,1,1
+Cyprus,CYP,2007,1,2,1,1,1
+Cyprus,CYP,2008,1,1,1,1,1
+Cyprus,CYP,2009,1,2,1,1,1
+Cyprus,CYP,2010,1,1,1,1,1
+Cyprus,CYP,2011,1,1,1,1,1
+Cyprus,CYP,2012,1,2,1,1,1
+Cyprus,CYP,2013,1,1,1,1,1
+Cyprus,CYP,2014,1,1,1,1,1
+Cyprus,CYP,2015,1,2,1,1,1
+Cyprus,CYP,2016,1,1,1,1,1
+Cyprus,CYP,2017,1,1,1,1,1
+Cyprus,CYP,2018,1,2,1,1,1
+Cyprus,CYP,2019,1,2,1,1,1
+Cyprus,CYP,2020,1,2,1,1,1
+Cyprus,CYP,2021,1,2,1,1,1
+Czechia,CZE,1994,1,2,5,5,5
+Czechia,CZE,1995,1,2,5,5,5
+Czechia,CZE,1996,1,2,5,5,5
+Czechia,CZE,1997,1,2,5,5,5
+Czechia,CZE,1998,1,2,5,5,5
+Czechia,CZE,1999,1,2,5,5,5
+Czechia,CZE,2000,1,2,5,5,5
+Czechia,CZE,2001,1,2,5,5,5
+Czechia,CZE,2002,1,2,5,5,5
+Czechia,CZE,2003,1,2,5,5,5
+Czechia,CZE,2004,1,2,5,5,5
+Czechia,CZE,2005,1,1,5,5,5
+Czechia,CZE,2006,1,2,5,5,5
+Czechia,CZE,2007,1,2,5,5,5
+Czechia,CZE,2008,1,1,5,5,5
+Czechia,CZE,2009,1,1,5,5,5
+Czechia,CZE,2010,1,1,5,5,5
+Czechia,CZE,2011,1,1,5,5,5
+Czechia,CZE,2012,1,1,5,5,5
+Czechia,CZE,2013,1,1,5,5,5
+Czechia,CZE,2014,1,1,5,5,5
+Czechia,CZE,2015,1,1,5,5,5
+Czechia,CZE,2016,1,1,5,5,5
+Czechia,CZE,2017,1,1,5,5,5
+Czechia,CZE,2019,1,1,5,5,5
+Czechia,CZE,2020,1,1,5,5,5
+Czechia,CZE,2021,1,1,5,5,5
+Denmark,DNK,1990,1,1,4,5,4
+Denmark,DNK,1991,1,2,4,5,4
+Denmark,DNK,1992,1,2,4,5,4
+Denmark,DNK,1993,1,2,4,5,4
+Denmark,DNK,1994,1,2,4,5,4
+Denmark,DNK,1995,1,2,4,5,4
+Denmark,DNK,1996,1,2,4,5,4
+Denmark,DNK,1997,1,2,4,5,4
+Denmark,DNK,1998,1,1,4,5,4
+Denmark,DNK,1999,1,1,4,5,4
+Denmark,DNK,2000,1,1,4,5,4
+Denmark,DNK,2001,1,1,4,5,4
+Denmark,DNK,2002,1,1,4,5,4
+Denmark,DNK,2010,1,1,4,5,4
+Denmark,DNK,2011,1,1,4,5,4
+Denmark,DNK,2012,1,1,4,5,4
+Denmark,DNK,2013,1,1,4,5,4
+Denmark,DNK,2014,1,2,4,5,4
+Denmark,DNK,2015,1,1,4,5,4
+Denmark,DNK,2016,1,1,4,5,4
+Denmark,DNK,2017,1,2,4,5,4
+Denmark,DNK,2018,1,1,4,5,4
+Denmark,DNK,2019,1,2,4,5,4
+Denmark,DNK,2020,1,1,4,5,4
+Denmark,DNK,2021,1,1,4,5,4
+Dominican Republic,DOM,1991,1,5,3,3,2
+Dominican Republic,DOM,1992,1,5,3,3,2
+Dominican Republic,DOM,1993,1,5,3,3,2
+Dominican Republic,DOM,1994,1,5,3,3,2
+Dominican Republic,DOM,1995,1,5,3,3,2
+Dominican Republic,DOM,1996,1,5,3,3,2
+Dominican Republic,DOM,1997,1,5,3,3,2
+Dominican Republic,DOM,1998,1,5,3,3,2
+Dominican Republic,DOM,1999,1,5,3,3,2
+Dominican Republic,DOM,2000,1,5,3,3,2
+Dominican Republic,DOM,2001,1,5,3,3,2
+Dominican Republic,DOM,2002,1,5,3,3,2
+Dominican Republic,DOM,2003,1,5,3,3,2
+Dominican Republic,DOM,2004,1,5,3,3,2
+Dominican Republic,DOM,2005,1,5,3,3,2
+Dominican Republic,DOM,2006,1,5,2,3,2
+Dominican Republic,DOM,2007,1,5,2,3,2
+Dominican Republic,DOM,2008,1,5,3,3,2
+Dominican Republic,DOM,2009,1,5,3,3,2
+Dominican Republic,DOM,2010,1,5,3,3,2
+Dominican Republic,DOM,2011,1,5,3,3,2
+Dominican Republic,DOM,2012,1,5,3,3,2
+Dominican Republic,DOM,2013,1,5,2,2,2
+Dominican Republic,DOM,2014,1,5,2,2,2
+Dominican Republic,DOM,2016,1,5,2,2,2
+Dominican Republic,DOM,2017,1,5,2,2,2
+Dominican Republic,DOM,2018,1,4,2,2,2
+Dominican Republic,DOM,2019,1,4,2,2,2
+Dominican Republic,DOM,2020,1,4,2,3,2
+Dominican Republic,DOM,2021,1,5,2,3,2
+East Timor,TLS,2004,1,3,2,2,2
+East Timor,TLS,2005,1,4,2,2,2
+East Timor,TLS,2006,1,4,3,3,3
+East Timor,TLS,2007,1,4,3,3,3
+East Timor,TLS,2008,1,3,3,3,3
+East Timor,TLS,2009,1,3,3,3,3
+East Timor,TLS,2010,1,3,3,3,3
+East Timor,TLS,2015,1,3,3,3,3
+Ecuador,ECU,1990,1,4,5,5,5
+Ecuador,ECU,1991,1,5,5,5,5
+Ecuador,ECU,1992,1,4,5,5,5
+Ecuador,ECU,1993,1,4,5,5,5
+Ecuador,ECU,1994,1,5,5,5,5
+Ecuador,ECU,1995,5,5,5,5,5
+Ecuador,ECU,1996,1,5,5,5,5
+Ecuador,ECU,1997,1,5,5,5,5
+Ecuador,ECU,1998,1,5,5,5,5
+Ecuador,ECU,1999,1,5,3,2,3
+Ecuador,ECU,2000,1,5,3,2,3
+Ecuador,ECU,2001,5,5,3,2,3
+Ecuador,ECU,2002,1,5,3,2,3
+Ecuador,ECU,2007,1,5,3,2,3
+Ecuador,ECU,2008,5,5,3,2,3
+Ecuador,ECU,2009,1,5,3,2,3
+Ecuador,ECU,2010,5,5,3,3,3
+Ecuador,ECU,2011,1,5,3,2,3
+Ecuador,ECU,2012,1,5,3,2,3
+Ecuador,ECU,2013,1,5,3,2,3
+Ecuador,ECU,2014,1,4,3,2,3
+Ecuador,ECU,2015,1,4,3,2,3
+Ecuador,ECU,2016,1,4,3,2,3
+Ecuador,ECU,2017,1,4,3,2,3
+Ecuador,ECU,2018,1,4,2,2,3
+Ecuador,ECU,2019,5,4,3,3,3
+Ecuador,ECU,2020,1,4,2,2,2
+Ecuador,ECU,2021,5,5,2,2,2
+Egypt,EGY,1990,1,1,1,1,1
+Egypt,EGY,1991,1,1,1,1,1
+Egypt,EGY,1992,1,1,1,1,1
+Egypt,EGY,1993,5,1,1,1,1
+Egypt,EGY,1994,5,1,1,1,1
+Egypt,EGY,2003,1,1,1,1,1
+Egypt,EGY,2004,5,1,1,1,1
+Egypt,EGY,2005,5,1,1,1,1
+Egypt,EGY,2006,1,1,2,2,2
+Egypt,EGY,2007,1,1,2,2,2
+Egypt,EGY,2008,1,2,2,2,2
+Egypt,EGY,2009,1,1,2,2,2
+Egypt,EGY,2010,1,3,2,2,2
+Egypt,EGY,2011,5,3,1,1,2
+Egypt,EGY,2012,5,3,1,1,2
+Egypt,EGY,2014,5,3,1,1,1
+Egypt,EGY,2015,5,2,1,1,1
+Egypt,EGY,2016,5,2,1,1,1
+Egypt,EGY,2017,5,2,1,1,1
+El Salvador,SLV,1994,1,5,2,2,3
+El Salvador,SLV,1995,1,5,2,2,3
+El Salvador,SLV,1996,1,5,2,2,3
+El Salvador,SLV,1997,1,5,2,2,3
+El Salvador,SLV,1998,1,5,2,2,3
+El Salvador,SLV,1999,1,5,2,2,3
+El Salvador,SLV,2000,1,5,2,2,3
+El Salvador,SLV,2001,1,5,2,2,3
+El Salvador,SLV,2002,1,5,2,2,3
+El Salvador,SLV,2003,1,5,2,2,3
+El Salvador,SLV,2004,5,5,2,2,3
+El Salvador,SLV,2005,1,5,2,2,3
+El Salvador,SLV,2006,1,5,2,2,3
+El Salvador,SLV,2007,1,5,2,2,3
+El Salvador,SLV,2008,1,5,2,2,3
+El Salvador,SLV,2009,1,5,2,2,3
+El Salvador,SLV,2010,1,5,2,2,2
+El Salvador,SLV,2011,1,5,2,2,2
+El Salvador,SLV,2012,1,5,2,2,2
+El Salvador,SLV,2013,1,5,2,2,2
+El Salvador,SLV,2014,1,5,2,2,2
+El Salvador,SLV,2015,1,5,2,2,2
+El Salvador,SLV,2016,1,5,2,2,2
+El Salvador,SLV,2017,1,5,2,2,3
+El Salvador,SLV,2018,1,5,2,2,2
+El Salvador,SLV,2019,1,5,2,2,2
+El Salvador,SLV,2020,1,5,2,2,2
+El Salvador,SLV,2021,1,5,2,2,2
+Eritrea,ERI,2012,1,5,4,3,4
+Estonia,EST,1991,1,4,2,2,2
+Estonia,EST,1992,1,5,3,4,3
+Estonia,EST,1993,1,5,3,4,3
+Estonia,EST,1994,1,5,3,4,3
+Estonia,EST,1995,1,5,5,5,5
+Estonia,EST,1996,1,5,5,5,5
+Estonia,EST,1997,1,5,5,5,5
+Estonia,EST,1998,1,5,5,5,5
+Estonia,EST,1999,1,5,5,5,5
+Estonia,EST,2000,1,5,5,5,5
+Estonia,EST,2001,1,4,5,5,5
+Estonia,EST,2002,1,5,5,5,5
+Estonia,EST,2007,1,4,5,5,5
+Estonia,EST,2008,1,4,5,5,5
+Estonia,EST,2009,1,4,5,5,5
+Estonia,EST,2010,1,4,5,5,5
+Estonia,EST,2011,1,4,5,5,5
+Estonia,EST,2012,1,4,5,5,5
+Estonia,EST,2013,1,3,5,5,5
+Estonia,EST,2014,1,3,5,5,5
+Estonia,EST,2015,1,3,5,5,5
+Estonia,EST,2016,1,3,5,5,5
+Estonia,EST,2017,1,3,5,5,5
+Estonia,EST,2018,1,3,5,5,5
+Estonia,EST,2019,1,2,5,5,5
+Estonia,EST,2020,1,3,5,5,5
+Estonia,EST,2021,1,2,5,5,5
+Eswatini,SWZ,1990,1,5,2,3,2
+Eswatini,SWZ,1991,1,5,2,3,2
+Eswatini,SWZ,1992,1,5,2,3,2
+Eswatini,SWZ,1993,1,5,2,3,2
+Eswatini,SWZ,1994,1,5,2,3,2
+Eswatini,SWZ,1998,1,5,2,3,2
+Eswatini,SWZ,1999,1,5,2,3,2
+Eswatini,SWZ,2000,1,5,2,3,2
+Eswatini,SWZ,2001,1,5,2,3,2
+Eswatini,SWZ,2002,1,5,2,3,2
+Eswatini,SWZ,2003,1,5,2,3,2
+Eswatini,SWZ,2004,1,5,2,3,2
+Eswatini,SWZ,2005,1,5,2,3,2
+Eswatini,SWZ,2006,1,5,2,3,2
+Eswatini,SWZ,2007,1,5,2,3,2
+Eswatini,SWZ,2008,1,5,2,3,2
+Eswatini,SWZ,2009,1,5,2,3,2
+Eswatini,SWZ,2010,1,5,2,3,2
+Eswatini,SWZ,2011,1,5,2,2,2
+Eswatini,SWZ,2012,1,4,2,2,2
+Eswatini,SWZ,2013,1,4,2,2,2
+Eswatini,SWZ,2014,1,5,2,2,2
+Eswatini,SWZ,2015,1,4,2,2,2
+Eswatini,SWZ,2016,1,5,2,2,2
+Eswatini,SWZ,2017,1,5,2,2,2
+Eswatini,SWZ,2021,5,5,2,4,2
+Ethiopia,ETH,2012,5,4,2,2,2
+Fiji,FJI,1990,1,3,2,2,2
+Fiji,FJI,1991,1,3,2,2,2
+Fiji,FJI,1992,1,3,2,2,2
+Fiji,FJI,1993,1,2,2,2,2
+Fiji,FJI,1994,1,3,2,2,2
+Fiji,FJI,1995,1,3,2,2,2
+Fiji,FJI,1996,1,2,2,2,2
+Fiji,FJI,1997,1,2,2,2,2
+Fiji,FJI,2003,1,3,2,2,2
+Fiji,FJI,2004,1,3,2,2,2
+Fiji,FJI,2005,1,3,2,2,2
+Fiji,FJI,2006,1,3,2,2,2
+Fiji,FJI,2007,1,3,2,2,2
+Fiji,FJI,2008,1,2,2,2,2
+Fiji,FJI,2009,1,3,2,2,2
+Fiji,FJI,2010,1,3,2,2,2
+Fiji,FJI,2011,1,3,2,2,2
+Fiji,FJI,2012,1,3,2,2,2
+Fiji,FJI,2013,1,3,2,2,2
+Fiji,FJI,2014,1,3,2,2,2
+Fiji,FJI,2020,1,3,2,2,2
+Finland,FIN,1990,1,3,4,4,4
+Finland,FIN,1991,1,3,4,4,4
+Finland,FIN,1992,1,3,4,4,4
+Finland,FIN,1993,1,3,4,4,4
+Finland,FIN,1994,1,3,4,4,4
+Finland,FIN,1995,1,3,4,4,4
+Finland,FIN,1996,1,3,4,4,4
+Finland,FIN,1997,1,3,4,4,4
+Finland,FIN,1998,1,3,4,4,4
+Finland,FIN,1999,1,3,4,4,4
+Finland,FIN,2000,1,3,4,4,4
+Finland,FIN,2001,1,3,4,4,4
+Finland,FIN,2002,1,3,4,4,4
+Finland,FIN,2003,1,2,4,4,4
+Finland,FIN,2004,1,3,4,4,4
+Finland,FIN,2005,1,3,4,4,4
+Finland,FIN,2006,1,3,4,4,4
+Finland,FIN,2007,1,3,4,4,4
+Finland,FIN,2008,1,3,4,4,4
+Finland,FIN,2009,1,3,4,4,4
+Finland,FIN,2010,1,3,4,4,4
+Finland,FIN,2011,1,2,4,4,4
+Finland,FIN,2012,1,2,4,4,4
+Finland,FIN,2013,1,2,4,4,4
+Finland,FIN,2014,1,2,4,4,4
+Finland,FIN,2015,1,2,4,4,4
+Finland,FIN,2016,1,2,4,4,4
+Finland,FIN,2017,1,2,4,4,4
+Finland,FIN,2018,1,2,5,5,5
+Finland,FIN,2019,1,2,5,5,5
+Finland,FIN,2020,1,2,5,5,5
+France,FRA,1990,1,3,2,2,3
+France,FRA,1991,1,3,2,2,3
+France,FRA,1992,1,3,2,2,3
+France,FRA,1993,1,3,2,2,3
+France,FRA,1994,1,3,2,2,3
+France,FRA,1995,1,3,2,2,3
+France,FRA,1996,1,2,2,2,3
+France,FRA,1997,1,2,2,2,3
+France,FRA,1998,1,2,2,2,3
+France,FRA,1999,1,2,2,2,3
+France,FRA,2000,1,2,2,2,3
+France,FRA,2001,1,2,2,2,3
+France,FRA,2002,1,2,2,2,3
+France,FRA,2003,1,2,2,2,3
+France,FRA,2004,1,2,2,2,3
+France,FRA,2005,1,2,2,2,3
+France,FRA,2006,1,2,2,2,3
+France,FRA,2007,1,2,2,2,3
+France,FRA,2008,1,2,2,2,3
+France,FRA,2009,1,2,2,2,3
+France,FRA,2010,1,2,2,2,3
+France,FRA,2011,1,2,2,2,3
+France,FRA,2012,1,2,2,2,3
+France,FRA,2013,1,2,2,2,3
+France,FRA,2014,1,2,2,2,3
+France,FRA,2015,5,2,2,2,3
+France,FRA,2016,5,2,2,2,3
+France,FRA,2017,5,1,3,3,3
+France,FRA,2018,5,1,2,2,3
+France,FRA,2019,1,2,2,2,3
+France,FRA,2020,1,1,3,3,4
+France,FRA,2021,1,2,3,3,4
+Georgia,GEO,1991,5,4,1,1,1
+Georgia,GEO,1992,5,5,1,1,1
+Georgia,GEO,1993,5,5,1,1,1
+Georgia,GEO,1994,1,5,1,1,1
+Georgia,GEO,1995,5,4,1,1,1
+Georgia,GEO,1996,1,4,1,1,1
+Georgia,GEO,1997,5,4,1,1,1
+Georgia,GEO,1998,5,4,1,1,1
+Georgia,GEO,1999,1,4,1,1,1
+Georgia,GEO,2000,1,4,1,1,1
+Georgia,GEO,2001,1,4,1,1,1
+Georgia,GEO,2002,5,4,1,1,1
+Georgia,GEO,2004,5,4,1,1,1
+Georgia,GEO,2005,1,5,1,1,1
+Georgia,GEO,2006,1,4,1,1,1
+Georgia,GEO,2007,1,4,1,1,1
+Georgia,GEO,2008,5,4,1,1,1
+Georgia,GEO,2009,1,4,1,1,1
+Georgia,GEO,2010,1,4,1,1,1
+Georgia,GEO,2016,1,1,1,1,1
+Georgia,GEO,2017,1,3,1,1,1
+Georgia,GEO,2018,1,3,1,1,1
+Georgia,GEO,2019,1,2,1,1,1
+Germany,DEU,1990,5,2,1,2,1
+Germany,DEU,1991,1,2,1,2,1
+Germany,DEU,1992,1,2,1,2,1
+Germany,DEU,1993,1,2,1,2,1
+Germany,DEU,1994,1,3,1,2,1
+Germany,DEU,1995,1,3,1,2,1
+Germany,DEU,1996,1,3,1,2,1
+Germany,DEU,1997,1,3,1,2,1
+Germany,DEU,1998,1,2,1,2,1
+Germany,DEU,1999,1,2,1,2,1
+Germany,DEU,2000,1,2,1,2,1
+Germany,DEU,2001,1,2,1,2,1
+Germany,DEU,2002,1,2,1,2,1
+Germany,DEU,2003,1,2,1,2,1
+Germany,DEU,2004,1,2,1,2,1
+Germany,DEU,2005,1,2,1,2,1
+Germany,DEU,2006,1,2,1,2,1
+Germany,DEU,2007,1,1,1,2,1
+Germany,DEU,2008,1,1,1,2,1
+Germany,DEU,2009,1,1,1,2,1
+Germany,DEU,2010,1,1,1,2,1
+Germany,DEU,2011,1,1,1,2,1
+Germany,DEU,2012,1,1,1,2,1
+Germany,DEU,2013,1,1,1,2,1
+Germany,DEU,2014,1,1,1,2,1
+Germany,DEU,2015,1,1,1,2,1
+Germany,DEU,2016,5,2,1,2,1
+Germany,DEU,2017,1,1,1,2,1
+Germany,DEU,2018,1,1,1,2,1
+Germany,DEU,2019,1,1,1,2,1
+Germany,DEU,2020,1,1,1,2,1
+Germany,DEU,2021,1,1,1,2,1
+Ghana,GHA,2001,5,3,2,3,2
+Ghana,GHA,2002,5,2,4,3,3
+Ghana,GHA,2003,1,2,4,3,3
+Ghana,GHA,2004,1,3,4,3,3
+Ghana,GHA,2005,1,2,4,3,3
+Ghana,GHA,2006,1,2,4,3,3
+Ghana,GHA,2007,1,2,4,3,3
+Ghana,GHA,2008,5,2,4,3,3
+Ghana,GHA,2009,1,2,4,3,3
+Ghana,GHA,2010,1,2,3,3,3
+Ghana,GHA,2011,1,2,3,3,3
+Ghana,GHA,2012,1,3,3,3,3
+Ghana,GHA,2013,1,2,3,3,3
+Ghana,GHA,2014,1,2,3,3,3
+Ghana,GHA,2015,1,2,3,3,3
+Ghana,GHA,2016,1,2,2,2,2
+Ghana,GHA,2017,1,2,2,2,2
+Ghana,GHA,2018,1,2,2,2,2
+Ghana,GHA,2019,1,2,2,2,2
+Ghana,GHA,2020,1,2,2,2,2
+Ghana,GHA,2021,1,2,3,3,3
+Greece,GRC,1990,1,1,4,4,4
+Greece,GRC,1991,1,2,4,4,4
+Greece,GRC,1992,1,2,4,4,4
+Greece,GRC,1993,1,2,4,4,4
+Greece,GRC,1994,1,2,4,4,4
+Greece,GRC,1995,1,2,4,4,4
+Greece,GRC,1996,1,2,4,4,4
+Greece,GRC,1997,1,2,4,4,4
+Greece,GRC,1998,1,2,4,4,4
+Greece,GRC,1999,1,2,4,4,4
+Greece,GRC,2001,1,2,4,4,4
+Greece,GRC,2002,1,1,4,4,4
+Greece,GRC,2004,1,1,4,4,4
+Greece,GRC,2005,1,2,4,4,4
+Greece,GRC,2006,1,1,4,4,4
+Greece,GRC,2007,1,2,4,4,4
+Greece,GRC,2008,1,2,4,4,4
+Greece,GRC,2009,1,2,4,4,4
+Greece,GRC,2010,1,2,4,4,4
+Greece,GRC,2011,1,2,4,4,4
+Greece,GRC,2012,1,2,4,4,4
+Greece,GRC,2013,1,2,4,4,4
+Greece,GRC,2014,1,1,4,4,4
+Greece,GRC,2015,1,1,4,4,4
+Greece,GRC,2016,1,1,4,4,4
+Greece,GRC,2017,1,1,4,4,4
+Greece,GRC,2018,1,1,4,4,4
+Greece,GRC,2019,1,1,4,4,4
+Greece,GRC,2020,1,1,4,4,4
+Greece,GRC,2021,1,1,4,4,4
+Guatemala,GTM,1992,5,5,1,1,1
+Guatemala,GTM,1993,5,5,1,1,1
+Guatemala,GTM,1994,5,5,1,1,1
+Guatemala,GTM,1995,5,5,1,1,1
+Guatemala,GTM,1996,1,5,1,1,1
+Guatemala,GTM,1997,1,5,1,1,1
+Guatemala,GTM,1998,1,5,1,1,1
+Guatemala,GTM,1999,1,5,1,1,1
+Guatemala,GTM,2000,1,5,1,1,1
+Guatemala,GTM,2001,1,5,1,1,1
+Guatemala,GTM,2002,1,5,1,1,1
+Guatemala,GTM,2003,1,5,1,1,1
+Guatemala,GTM,2004,1,5,1,1,1
+Guatemala,GTM,2005,5,5,2,1,2
+Guatemala,GTM,2006,1,5,2,1,2
+Guatemala,GTM,2007,1,5,2,1,2
+Guatemala,GTM,2008,5,5,2,1,2
+Guatemala,GTM,2009,1,5,2,1,2
+Guatemala,GTM,2010,1,5,2,1,2
+Guatemala,GTM,2011,5,5,2,1,2
+Guatemala,GTM,2012,1,5,2,1,2
+Guatemala,GTM,2013,1,5,2,2,2
+Guatemala,GTM,2014,1,5,2,2,2
+Guatemala,GTM,2017,1,5,1,1,1
+Guatemala,GTM,2018,1,5,1,2,1
+Guatemala,GTM,2019,5,5,1,1,1
+Guatemala,GTM,2020,1,5,1,1,1
+Guatemala,GTM,2021,1,5,1,1,1
+Guinea-Bissau,GNB,2016,1,3,1,1,1
+Guinea-Bissau,GNB,2017,1,1,1,1,1
+Guyana,GUY,1990,1,5,4,4,4
+Guyana,GUY,1991,1,5,4,4,4
+Guyana,GUY,1992,1,5,4,4,4
+Guyana,GUY,1993,1,5,4,4,4
+Guyana,GUY,1994,1,5,4,4,4
+Guyana,GUY,1995,1,5,4,4,4
+Guyana,GUY,1996,1,5,4,4,4
+Guyana,GUY,1997,1,5,4,4,4
+Guyana,GUY,1998,1,5,4,4,4
+Guyana,GUY,1999,1,5,4,4,4
+Guyana,GUY,2000,1,5,4,4,4
+Guyana,GUY,2001,1,5,4,4,4
+Guyana,GUY,2002,1,5,4,4,4
+Guyana,GUY,2003,1,5,4,4,4
+Guyana,GUY,2004,1,5,4,4,4
+Guyana,GUY,2005,1,5,4,4,4
+Guyana,GUY,2006,1,5,4,4,4
+Guyana,GUY,2007,1,5,4,4,4
+Guyana,GUY,2008,5,5,4,4,4
+Guyana,GUY,2009,1,5,4,4,4
+Guyana,GUY,2010,1,5,4,4,4
+Guyana,GUY,2011,1,5,4,4,4
+Guyana,GUY,2012,1,5,4,4,4
+Guyana,GUY,2013,1,5,4,4,4
+Guyana,GUY,2014,1,5,4,4,4
+Guyana,GUY,2015,1,5,4,4,4
+Guyana,GUY,2016,1,5,4,5,4
+Guyana,GUY,2017,1,5,4,5,4
+Guyana,GUY,2018,1,5,4,5,4
+Guyana,GUY,2019,1,5,4,4,4
+Guyana,GUY,2020,1,5,5,5,5
+Guyana,GUY,2021,1,5,5,5,5
+Haiti,HTI,2007,1,4,2,1,2
+Haiti,HTI,2008,1,4,2,1,2
+Haiti,HTI,2009,1,4,2,1,2
+Haiti,HTI,2010,1,4,2,1,2
+Haiti,HTI,2011,1,4,2,1,2
+Haiti,HTI,2012,1,5,2,1,2
+Haiti,HTI,2013,1,5,2,2,2
+Haiti,HTI,2014,1,4,2,2,2
+Haiti,HTI,2015,1,5,2,2,2
+Haiti,HTI,2016,1,4,2,2,2
+Haiti,HTI,2018,5,4,2,2,2
+Haiti,HTI,2020,5,5,1,2,1
+Haiti,HTI,2021,5,5,1,1,1
+Honduras,HND,1990,1,4,1,1,1
+Honduras,HND,1991,1,5,1,1,1
+Honduras,HND,1992,1,5,1,1,1
+Honduras,HND,1993,1,5,1,1,1
+Honduras,HND,1994,1,5,1,1,1
+Honduras,HND,1995,1,5,1,1,1
+Honduras,HND,1999,1,5,1,1,1
+Honduras,HND,2000,1,5,1,1,1
+Honduras,HND,2001,1,5,1,1,1
+Honduras,HND,2002,1,5,1,1,1
+Honduras,HND,2003,1,5,1,1,1
+Honduras,HND,2004,5,5,1,1,1
+Honduras,HND,2005,1,5,1,1,1
+Honduras,HND,2006,1,5,1,1,1
+Honduras,HND,2007,1,5,1,1,1
+Honduras,HND,2008,5,5,1,1,1
+Honduras,HND,2009,1,5,1,1,1
+Honduras,HND,2010,5,5,1,1,1
+Honduras,HND,2011,1,5,1,1,1
+Honduras,HND,2012,1,5,1,1,2
+Honduras,HND,2013,1,5,1,1,2
+Honduras,HND,2014,1,5,2,1,2
+Honduras,HND,2015,1,5,2,2,2
+Honduras,HND,2016,1,5,2,2,2
+Honduras,HND,2017,1,5,2,2,2
+Honduras,HND,2018,1,5,2,2,2
+Honduras,HND,2019,5,5,1,1,2
+Honduras,HND,2020,1,5,1,1,2
+Honduras,HND,2021,1,5,1,1,1
+Hungary,HUN,1990,1,2,5,5,5
+Hungary,HUN,1991,1,3,5,5,5
+Hungary,HUN,1992,1,3,5,5,5
+Hungary,HUN,1993,1,3,5,5,5
+Hungary,HUN,1994,1,3,5,5,5
+Hungary,HUN,1995,1,3,5,5,5
+Hungary,HUN,1996,1,3,5,5,5
+Hungary,HUN,1997,1,3,5,5,5
+Hungary,HUN,1998,1,3,5,5,5
+Hungary,HUN,1999,1,3,5,5,5
+Hungary,HUN,2000,1,2,5,5,5
+Hungary,HUN,2001,1,3,5,5,5
+Hungary,HUN,2002,1,2,5,5,5
+Hungary,HUN,2003,1,3,5,5,5
+Hungary,HUN,2004,1,3,5,5,5
+Hungary,HUN,2005,1,2,5,5,5
+Hungary,HUN,2006,1,2,5,5,5
+Hungary,HUN,2007,1,2,5,5,5
+Hungary,HUN,2008,1,2,5,5,5
+Hungary,HUN,2009,1,2,5,5,5
+Hungary,HUN,2010,1,2,5,5,5
+Hungary,HUN,2011,1,2,5,5,5
+Hungary,HUN,2012,1,2,5,5,5
+Hungary,HUN,2013,1,2,5,5,5
+Hungary,HUN,2014,1,2,5,5,5
+Hungary,HUN,2015,1,3,5,5,5
+Hungary,HUN,2016,1,3,5,5,5
+Hungary,HUN,2017,1,2,5,5,5
+Hungary,HUN,2018,1,1,5,5,5
+Hungary,HUN,2019,1,1,5,5,5
+Hungary,HUN,2020,1,1,5,5,5
+Hungary,HUN,2021,1,1,5,5,5
+Iceland,ISL,1994,1,1,5,5,5
+Iceland,ISL,1995,1,1,5,5,5
+Iceland,ISL,1996,1,1,5,5,5
+Iceland,ISL,1997,1,1,5,5,5
+Iceland,ISL,1998,1,1,5,5,5
+Iceland,ISL,1999,1,1,5,5,5
+Iceland,ISL,2000,1,2,5,5,5
+Iceland,ISL,2001,1,1,5,5,5
+Iceland,ISL,2002,1,2,5,5,5
+Iceland,ISL,2005,1,1,5,5,5
+Iceland,ISL,2006,1,1,5,5,5
+Iceland,ISL,2007,1,1,5,5,5
+Iceland,ISL,2008,1,1,5,4,5
+Iceland,ISL,2009,1,1,5,5,5
+Iceland,ISL,2010,1,1,5,5,5
+Iceland,ISL,2011,1,1,5,5,5
+Iceland,ISL,2012,1,1,5,5,5
+Iceland,ISL,2013,1,1,5,5,5
+Iceland,ISL,2014,1,1,5,5,5
+Iceland,ISL,2015,1,1,5,5,5
+Iceland,ISL,2016,1,1,5,5,5
+Iceland,ISL,2017,1,1,5,5,5
+Iceland,ISL,2018,1,1,5,5,5
+Iceland,ISL,2019,1,1,4,4,4
+Iceland,ISL,2020,1,2,5,5,5
+Iceland,ISL,2021,1,1,4,5,4
+India,IND,1990,5,4,3,2,3
+India,IND,1991,5,4,3,2,3
+India,IND,1992,5,4,3,2,3
+India,IND,1993,5,4,3,2,3
+India,IND,1994,5,4,3,2,3
+India,IND,1995,5,4,3,2,3
+India,IND,1996,5,4,3,2,3
+India,IND,1997,5,4,3,2,3
+India,IND,1998,5,4,2,1,2
+India,IND,1999,5,4,2,1,2
+India,IND,2000,5,4,2,1,2
+India,IND,2001,5,3,2,1,2
+India,IND,2002,5,3,2,1,2
+India,IND,2003,5,3,2,1,2
+India,IND,2004,5,3,2,1,2
+India,IND,2005,5,3,2,1,2
+India,IND,2006,5,3,2,1,2
+India,IND,2007,5,3,2,1,2
+India,IND,2008,5,3,2,1,2
+India,IND,2009,5,3,1,1,1
+India,IND,2010,5,3,2,1,2
+India,IND,2011,5,3,1,1,1
+India,IND,2012,5,3,1,1,1
+India,IND,2013,5,3,1,1,1
+India,IND,2014,5,3,1,1,1
+India,IND,2015,5,3,1,1,1
+India,IND,2016,5,3,1,1,1
+India,IND,2017,5,3,1,1,1
+India,IND,2018,5,3,1,1,1
+India,IND,2019,5,3,2,1,2
+India,IND,2020,5,3,2,1,2
+India,IND,2021,5,3,2,2,2
+Indonesia,IDN,1998,5,1,2,1,2
+Indonesia,IDN,1999,5,1,1,1,2
+Indonesia,IDN,2000,5,1,2,2,2
+Indonesia,IDN,2003,5,1,2,1,2
+Indonesia,IDN,2004,5,1,2,1,2
+Iran,IRN,2009,5,3,2,2,2
+Iran,IRN,2013,1,3,1,1,2
+Iran,IRN,2014,1,3,1,1,2
+Iraq,IRQ,1990,5,4,2,3,2
+Iraq,IRQ,1991,5,4,1,1,1
+Iraq,IRQ,1992,5,4,1,1,1
+Iraq,IRQ,1993,5,4,1,1,1
+Iraq,IRQ,1994,5,4,1,1,1
+Iraq,IRQ,2008,5,5,1,1,1
+Iraq,IRQ,2009,5,4,1,1,1
+Iraq,IRQ,2010,5,4,1,1,1
+Iraq,IRQ,2011,5,4,1,1,1
+Iraq,IRQ,2012,5,4,1,1,1
+Iraq,IRQ,2013,5,4,1,1,1
+Ireland,IRL,1990,1,1,3,3,3
+Ireland,IRL,1991,1,1,3,3,3
+Ireland,IRL,1992,1,1,3,3,3
+Ireland,IRL,1993,1,1,3,3,3
+Ireland,IRL,1994,1,1,3,3,3
+Ireland,IRL,1995,1,2,3,3,3
+Ireland,IRL,1996,1,2,3,3,3
+Ireland,IRL,1997,1,1,3,3,3
+Ireland,IRL,1998,1,1,3,3,3
+Ireland,IRL,1999,1,1,3,3,3
+Ireland,IRL,2000,1,1,3,3,3
+Ireland,IRL,2001,1,2,3,3,3
+Ireland,IRL,2002,1,2,3,3,3
+Ireland,IRL,2003,1,1,3,3,3
+Ireland,IRL,2004,1,1,3,3,3
+Ireland,IRL,2005,1,2,3,3,3
+Ireland,IRL,2006,1,2,3,3,3
+Ireland,IRL,2007,1,2,3,3,3
+Ireland,IRL,2008,1,2,3,3,3
+Ireland,IRL,2009,1,2,3,3,3
+Ireland,IRL,2010,1,2,3,3,3
+Ireland,IRL,2011,1,1,3,3,3
+Ireland,IRL,2012,1,2,3,3,3
+Ireland,IRL,2013,1,1,3,3,3
+Ireland,IRL,2015,1,1,3,3,3
+Ireland,IRL,2016,1,1,3,3,3
+Ireland,IRL,2017,1,1,3,3,3
+Ireland,IRL,2018,1,1,3,3,3
+Ireland,IRL,2019,1,1,3,3,3
+Ireland,IRL,2020,1,1,3,3,3
+Ireland,IRL,2021,1,1,2,2,2
+Israel,ISR,1990,5,3,3,3,3
+Israel,ISR,1991,5,3,3,3,3
+Israel,ISR,1992,5,3,3,3,3
+Israel,ISR,1993,5,3,3,3,3
+Israel,ISR,1994,5,3,3,3,3
+Israel,ISR,1995,5,2,3,3,3
+Israel,ISR,1996,5,3,3,3,3
+Israel,ISR,1997,1,3,3,3,3
+Israel,ISR,1998,1,3,3,3,3
+Israel,ISR,1999,1,3,3,3,3
+Israel,ISR,2000,5,3,3,3,3
+Israel,ISR,2001,5,3,3,3,3
+Israel,ISR,2002,5,3,3,3,3
+Israel,ISR,2003,5,3,3,3,3
+Israel,ISR,2004,5,3,3,3,3
+Israel,ISR,2005,5,3,3,3,3
+Israel,ISR,2006,5,3,3,3,3
+Israel,ISR,2007,5,2,3,3,3
+Israel,ISR,2008,5,2,3,3,3
+Israel,ISR,2009,5,2,3,3,3
+Israel,ISR,2010,5,2,3,3,3
+Israel,ISR,2011,5,2,3,3,3
+Israel,ISR,2012,5,2,3,3,3
+Israel,ISR,2013,1,2,3,3,3
+Israel,ISR,2014,5,2,3,3,3
+Israel,ISR,2015,5,2,3,3,3
+Israel,ISR,2016,1,2,3,3,3
+Israel,ISR,2017,1,2,3,3,3
+Israel,ISR,2018,5,2,2,2,2
+Israel,ISR,2019,5,2,2,2,2
+Israel,ISR,2020,1,2,2,2,2
+Israel,ISR,2021,5,2,2,2,2
+Italy,ITA,1990,1,3,2,2,2
+Italy,ITA,1991,1,3,2,2,2
+Italy,ITA,1992,1,3,2,2,2
+Italy,ITA,1993,1,2,2,2,2
+Italy,ITA,1994,1,2,2,2,2
+Italy,ITA,1995,1,2,2,2,2
+Italy,ITA,1996,1,2,2,2,2
+Italy,ITA,1997,1,2,2,2,2
+Italy,ITA,1998,1,2,2,2,2
+Italy,ITA,1999,1,2,2,2,2
+Italy,ITA,2000,1,2,2,2,2
+Italy,ITA,2001,1,2,2,2,2
+Italy,ITA,2002,1,2,2,2,2
+Italy,ITA,2005,1,1,2,2,2
+Italy,ITA,2006,1,1,2,2,2
+Italy,ITA,2007,1,1,2,2,2
+Italy,ITA,2008,1,1,2,2,2
+Italy,ITA,2009,1,1,2,2,2
+Italy,ITA,2010,1,1,2,2,2
+Italy,ITA,2011,1,1,2,2,2
+Italy,ITA,2012,1,1,2,2,2
+Italy,ITA,2013,1,1,1,1,2
+Italy,ITA,2014,1,1,1,1,2
+Italy,ITA,2015,1,1,2,1,2
+Italy,ITA,2016,1,1,2,1,2
+Italy,ITA,2017,1,1,1,1,2
+Italy,ITA,2018,1,1,2,2,2
+Italy,ITA,2019,1,1,2,2,3
+Italy,ITA,2020,1,1,2,2,2
+Italy,ITA,2021,1,1,2,2,2
+Jamaica,JAM,1990,1,5,3,2,2
+Jamaica,JAM,1991,1,5,3,2,2
+Jamaica,JAM,1992,1,5,3,2,2
+Jamaica,JAM,1993,1,5,3,2,2
+Jamaica,JAM,1994,1,5,3,2,2
+Jamaica,JAM,1995,1,5,3,2,2
+Jamaica,JAM,1996,1,5,3,2,2
+Jamaica,JAM,1997,1,5,3,2,2
+Jamaica,JAM,1998,1,5,3,2,2
+Jamaica,JAM,1999,1,5,3,2,2
+Jamaica,JAM,2000,1,5,2,2,2
+Jamaica,JAM,2001,5,5,2,2,2
+Jamaica,JAM,2002,1,5,2,2,2
+Jamaica,JAM,2003,1,5,2,2,2
+Jamaica,JAM,2004,1,5,2,2,2
+Jamaica,JAM,2005,1,5,2,2,2
+Jamaica,JAM,2006,1,5,2,2,2
+Jamaica,JAM,2007,1,5,2,2,2
+Jamaica,JAM,2008,1,5,2,2,2
+Jamaica,JAM,2009,1,5,2,2,2
+Jamaica,JAM,2010,1,5,2,2,2
+Jamaica,JAM,2011,1,5,2,2,2
+Jamaica,JAM,2012,1,5,2,2,2
+Jamaica,JAM,2013,1,5,2,2,2
+Jamaica,JAM,2014,1,5,2,2,2
+Jamaica,JAM,2015,1,5,2,2,2
+Jamaica,JAM,2016,1,5,2,2,2
+Jamaica,JAM,2017,1,5,2,2,2
+Jamaica,JAM,2018,1,5,2,2,2
+Jamaica,JAM,2019,1,5,2,2,2
+Jamaica,JAM,2020,1,5,2,2,2
+Jamaica,JAM,2021,1,5,2,2,2
+Japan,JPN,1990,1,1,3,3,3
+Japan,JPN,1991,1,1,3,3,3
+Japan,JPN,1992,1,1,3,3,3
+Japan,JPN,1993,1,1,3,3,3
+Japan,JPN,1994,1,1,3,3,3
+Japan,JPN,1995,1,1,3,3,3
+Japan,JPN,1996,1,1,3,3,3
+Japan,JPN,1997,1,1,3,3,3
+Japan,JPN,1998,1,1,3,3,3
+Japan,JPN,1999,1,1,3,3,3
+Japan,JPN,2000,1,1,3,3,3
+Japan,JPN,2001,1,1,3,3,3
+Japan,JPN,2002,1,1,3,3,3
+Japan,JPN,2003,1,1,3,3,3
+Japan,JPN,2004,1,1,3,3,3
+Japan,JPN,2005,1,1,3,3,3
+Japan,JPN,2006,1,1,3,3,3
+Japan,JPN,2007,1,1,3,3,3
+Japan,JPN,2008,1,1,3,3,3
+Japan,JPN,2009,1,1,3,3,3
+Japan,JPN,2010,1,1,3,3,3
+Japan,JPN,2011,1,1,3,3,3
+Japan,JPN,2012,1,1,3,3,3
+Japan,JPN,2013,1,1,3,3,3
+Japan,JPN,2014,1,1,3,3,3
+Japan,JPN,2015,1,1,3,3,3
+Japan,JPN,2016,1,1,3,3,3
+Japan,JPN,2017,1,1,3,3,3
+Japan,JPN,2018,1,1,3,3,3
+Japan,JPN,2019,1,1,3,3,3
+Japan,JPN,2020,1,1,3,3,3
+Japan,JPN,2021,1,1,3,3,3
+Jordan,JOR,1990,1,3,3,3,3
+Jordan,JOR,1991,1,3,3,3,3
+Jordan,JOR,1992,5,3,3,3,3
+Jordan,JOR,1993,1,3,3,3,3
+Jordan,JOR,1994,1,4,3,3,3
+Jordan,JOR,1995,1,1,3,3,3
+Jordan,JOR,1996,1,1,3,3,3
+Jordan,JOR,1997,1,1,3,3,3
+Jordan,JOR,2007,1,2,3,3,3
+Jordan,JOR,2008,1,2,3,3,3
+Jordan,JOR,2009,1,2,3,3,3
+Jordan,JOR,2010,1,2,3,3,3
+Jordan,JOR,2011,1,2,3,3,3
+Jordan,JOR,2012,1,3,3,3,3
+Jordan,JOR,2013,1,2,3,3,3
+Jordan,JOR,2014,1,2,3,3,3
+Jordan,JOR,2015,5,2,3,3,3
+Jordan,JOR,2016,5,2,3,3,3
+Jordan,JOR,2017,1,2,3,3,3
+Jordan,JOR,2018,1,1,3,3,3
+Jordan,JOR,2019,1,2,4,3,4
+Jordan,JOR,2020,1,1,4,4,4
+Jordan,JOR,2021,1,1,4,3,4
+Kazakhstan,KAZ,1991,1,4,4,4,4
+Kazakhstan,KAZ,1992,1,5,2,3,2
+Kazakhstan,KAZ,1993,1,5,2,3,2
+Kazakhstan,KAZ,1994,1,5,2,3,2
+Kazakhstan,KAZ,1995,1,5,2,3,2
+Kazakhstan,KAZ,1996,1,5,4,4,4
+Kazakhstan,KAZ,1997,1,5,4,4,4
+Kazakhstan,KAZ,1998,1,5,4,4,4
+Kazakhstan,KAZ,1999,1,5,4,4,4
+Kazakhstan,KAZ,2000,1,5,4,4,4
+Kazakhstan,KAZ,2001,1,5,4,4,4
+Kazakhstan,KAZ,2002,1,5,4,4,4
+Kazakhstan,KAZ,2003,1,5,4,4,4
+Kazakhstan,KAZ,2004,1,5,4,4,4
+Kazakhstan,KAZ,2008,1,5,4,4,4
+Kazakhstan,KAZ,2009,1,5,4,4,4
+Kazakhstan,KAZ,2010,1,4,4,4,4
+Kazakhstan,KAZ,2011,1,4,4,4,4
+Kazakhstan,KAZ,2012,1,4,4,4,4
+Kazakhstan,KAZ,2013,1,4,4,4,4
+Kazakhstan,KAZ,2014,1,4,4,4,4
+Kazakhstan,KAZ,2015,1,4,4,4,4
+Kazakhstan,KAZ,2017,1,4,4,4,4
+Kazakhstan,KAZ,2020,1,3,4,4,4
+Kenya,KEN,2004,5,3,2,1,2
+Kenya,KEN,2005,5,3,2,1,2
+Kenya,KEN,2006,5,3,2,1,2
+Kenya,KEN,2007,5,3,1,1,2
+Kenya,KEN,2008,5,3,1,1,2
+Kenya,KEN,2009,5,4,2,1,2
+Kenya,KEN,2010,5,4,2,2,2
+Kenya,KEN,2011,5,4,2,1,2
+Kenya,KEN,2012,5,4,2,1,2
+Kenya,KEN,2014,5,4,1,1,2
+Kenya,KEN,2015,5,4,2,1,2
+Kenya,KEN,2016,5,4,2,1,2
+Kenya,KEN,2017,5,4,2,1,2
+Kenya,KEN,2018,5,3,2,2,2
+Kenya,KEN,2019,5,3,2,2,2
+Kenya,KEN,2020,5,3,2,2,2
+Kenya,KEN,2021,5,4,2,2,2
+Kosovo,OWID_KOS,2008,1,4,1,1,1
+Kosovo,OWID_KOS,2009,1,3,1,1,1
+Kosovo,OWID_KOS,2010,1,4,1,1,1
+Kosovo,OWID_KOS,2011,1,3,1,1,1
+Kosovo,OWID_KOS,2012,1,4,1,1,1
+Kosovo,OWID_KOS,2013,1,3,1,1,1
+Kosovo,OWID_KOS,2014,1,3,1,1,1
+Kosovo,OWID_KOS,2015,1,3,1,1,1
+Kosovo,OWID_KOS,2016,1,3,1,1,1
+Kosovo,OWID_KOS,2017,1,3,1,1,2
+Kosovo,OWID_KOS,2018,1,3,1,1,2
+Kosovo,OWID_KOS,2019,1,2,1,1,2
+Kosovo,OWID_KOS,2020,1,3,1,1,2
+Kosovo,OWID_KOS,2021,1,2,1,1,1
+Kuwait,KWT,1996,5,1,3,3,3
+Kuwait,KWT,2001,1,2,3,3,3
+Kuwait,KWT,2002,1,1,3,3,3
+Kuwait,KWT,2003,1,2,3,3,3
+Kuwait,KWT,2004,1,2,3,3,3
+Kuwait,KWT,2005,1,2,3,3,3
+Kuwait,KWT,2006,1,2,3,3,3
+Kuwait,KWT,2007,1,3,3,3,3
+Kuwait,KWT,2008,1,2,3,3,3
+Kuwait,KWT,2009,1,2,3,3,3
+Kuwait,KWT,2010,1,2,3,3,3
+Kuwait,KWT,2011,1,2,3,3,3
+Kuwait,KWT,2012,1,2,3,3,3
+Kuwait,KWT,2017,1,1,3,3,3
+Kuwait,KWT,2018,1,1,3,3,3
+Kuwait,KWT,2019,1,1,3,3,3
+Kuwait,KWT,2020,1,1,4,4,4
+Latvia,LVA,1992,1,4,4,4,4
+Latvia,LVA,1993,1,5,4,4,4
+Latvia,LVA,1994,1,5,4,4,4
+Latvia,LVA,1995,1,5,3,4,3
+Latvia,LVA,1996,1,5,3,4,3
+Latvia,LVA,1997,1,5,3,4,3
+Latvia,LVA,1998,1,5,3,4,3
+Latvia,LVA,1999,1,4,3,4,3
+Latvia,LVA,2000,1,4,3,4,3
+Latvia,LVA,2001,1,4,3,4,3
+Latvia,LVA,2002,1,4,3,4,3
+Latvia,LVA,2012,1,3,4,5,4
+Latvia,LVA,2013,1,3,4,5,4
+Latvia,LVA,2014,1,3,4,5,4
+Latvia,LVA,2015,1,3,4,5,4
+Latvia,LVA,2016,1,3,3,4,3
+Latvia,LVA,2017,1,3,3,4,3
+Latvia,LVA,2018,1,3,3,4,3
+Latvia,LVA,2019,1,3,3,4,3
+Latvia,LVA,2020,1,3,3,4,3
+Latvia,LVA,2021,1,3,3,4,3
+Lebanon,LBN,2008,5,3,1,1,1
+Lebanon,LBN,2009,1,3,1,1,1
+Lebanon,LBN,2010,1,3,1,1,1
+Lebanon,LBN,2011,5,3,1,1,1
+Lebanon,LBN,2012,5,3,1,1,1
+Lebanon,LBN,2013,5,3,1,1,1
+Lebanon,LBN,2014,5,3,1,1,1
+Lebanon,LBN,2015,5,3,1,1,1
+Lebanon,LBN,2016,5,3,1,1,1
+Lebanon,LBN,2017,5,3,1,1,1
+Lebanon,LBN,2018,1,3,1,1,1
+Lebanon,LBN,2019,1,3,1,1,1
+Lebanon,LBN,2020,1,3,1,1,1
+Lesotho,LSO,1990,1,5,1,1,1
+Lesotho,LSO,1991,1,5,1,1,1
+Lesotho,LSO,1992,1,5,1,1,1
+Lesotho,LSO,1993,1,5,1,1,1
+Lesotho,LSO,1994,1,5,1,1,1
+Lesotho,LSO,2007,1,5,1,1,1
+Lesotho,LSO,2008,1,5,1,1,1
+Liberia,LBR,2007,1,3,1,2,1
+Liberia,LBR,2008,1,4,1,2,1
+Liberia,LBR,2009,1,3,1,2,1
+Liberia,LBR,2010,1,3,2,2,1
+Liberia,LBR,2011,1,3,2,2,1
+Liberia,LBR,2012,1,3,2,2,1
+Lithuania,LTU,1991,5,4,3,3,3
+Lithuania,LTU,1992,1,4,4,5,4
+Lithuania,LTU,1993,1,5,5,5,5
+Lithuania,LTU,1994,1,5,5,5,5
+Lithuania,LTU,1995,1,5,5,5,5
+Lithuania,LTU,1996,1,5,5,5,5
+Lithuania,LTU,1997,1,5,5,5,5
+Lithuania,LTU,1998,1,4,5,5,5
+Lithuania,LTU,1999,1,4,5,5,5
+Lithuania,LTU,2000,1,5,5,5,5
+Lithuania,LTU,2001,1,4,5,5,5
+Lithuania,LTU,2002,1,4,5,5,5
+Lithuania,LTU,2004,1,5,5,5,5
+Lithuania,LTU,2005,1,5,5,5,5
+Lithuania,LTU,2006,1,4,5,5,5
+Lithuania,LTU,2007,1,4,5,5,5
+Lithuania,LTU,2008,1,4,5,5,5
+Lithuania,LTU,2009,1,4,5,5,5
+Lithuania,LTU,2010,1,4,5,5,5
+Lithuania,LTU,2011,1,4,5,5,5
+Lithuania,LTU,2012,1,4,5,5,5
+Lithuania,LTU,2013,1,4,5,5,5
+Lithuania,LTU,2014,1,4,5,5,5
+Lithuania,LTU,2015,1,4,5,5,5
+Lithuania,LTU,2016,1,4,5,5,5
+Lithuania,LTU,2017,1,3,5,5,5
+Lithuania,LTU,2018,1,3,5,5,5
+Lithuania,LTU,2019,1,3,5,5,5
+Lithuania,LTU,2020,1,3,5,5,5
+Lithuania,LTU,2021,1,3,5,5,5
+Luxembourg,LUX,1994,1,2,5,5,5
+Luxembourg,LUX,1995,1,1,5,5,5
+Luxembourg,LUX,1996,1,1,5,5,5
+Luxembourg,LUX,1997,1,1,5,5,5
+Luxembourg,LUX,1998,1,1,5,5,5
+Luxembourg,LUX,1999,1,2,5,5,5
+Luxembourg,LUX,2000,1,1,5,5,5
+Luxembourg,LUX,2001,1,2,5,5,5
+Luxembourg,LUX,2002,1,2,5,5,5
+Luxembourg,LUX,2003,1,1,5,5,5
+Luxembourg,LUX,2004,1,1,5,5,5
+Luxembourg,LUX,2005,1,1,5,5,5
+Luxembourg,LUX,2006,1,2,5,5,5
+Luxembourg,LUX,2007,1,2,5,5,5
+Luxembourg,LUX,2008,1,2,5,5,5
+Luxembourg,LUX,2009,1,1,5,5,5
+Luxembourg,LUX,2010,1,2,5,5,5
+Luxembourg,LUX,2011,1,1,5,5,5
+Luxembourg,LUX,2012,1,1,5,5,5
+Luxembourg,LUX,2013,1,1,5,5,5
+Luxembourg,LUX,2014,1,1,5,5,5
+Luxembourg,LUX,2015,1,1,5,5,5
+Luxembourg,LUX,2016,1,1,5,5,5
+Luxembourg,LUX,2017,1,1,5,5,5
+Luxembourg,LUX,2018,1,1,5,5,5
+Luxembourg,LUX,2019,1,1,5,5,5
+Luxembourg,LUX,2020,1,1,5,5,5
+Luxembourg,LUX,2021,1,1,5,5,5
+Malawi,MWI,2000,1,4,4,4,4
+Malawi,MWI,2001,1,4,4,4,4
+Malawi,MWI,2002,1,4,4,4,4
+Malawi,MWI,2003,1,3,4,4,4
+Malawi,MWI,2004,1,3,4,4,4
+Malawi,MWI,2005,1,2,4,4,4
+Malawi,MWI,2006,1,4,4,4,4
+Malawi,MWI,2007,1,4,4,4,4
+Malawi,MWI,2008,1,4,4,4,4
+Malawi,MWI,2009,1,3,4,4,4
+Malawi,MWI,2010,1,3,4,4,4
+Malawi,MWI,2011,1,3,4,4,4
+Malawi,MWI,2012,1,2,4,4,4
+Malaysia,MYS,1990,1,2,3,3,3
+Malaysia,MYS,1991,1,3,3,3,3
+Malaysia,MYS,1992,1,2,3,3,3
+Malaysia,MYS,1993,1,2,3,3,3
+Malaysia,MYS,1994,1,2,3,3,3
+Malaysia,MYS,1995,1,2,3,3,3
+Malaysia,MYS,1996,1,3,3,3,3
+Malaysia,MYS,1997,1,3,3,3,3
+Malaysia,MYS,1998,1,3,3,3,3
+Malaysia,MYS,1999,1,3,3,3,3
+Malaysia,MYS,2000,1,3,3,3,3
+Malaysia,MYS,2001,1,3,3,3,3
+Malaysia,MYS,2002,1,3,3,3,3
+Malaysia,MYS,2003,1,3,3,3,3
+Malaysia,MYS,2004,1,2,3,3,3
+Malaysia,MYS,2005,1,3,3,3,3
+Malaysia,MYS,2006,1,3,3,3,3
+Malaysia,MYS,2007,1,3,3,3,3
+Malaysia,MYS,2008,1,3,3,3,3
+Malaysia,MYS,2009,1,2,3,3,3
+Malaysia,MYS,2010,1,2,3,3,3
+Malaysia,MYS,2011,1,2,3,3,3
+Malaysia,MYS,2012,5,2,3,3,3
+Malaysia,MYS,2013,5,3,3,3,3
+Malaysia,MYS,2014,5,2,3,3,3
+Malaysia,MYS,2015,1,2,3,3,3
+Malaysia,MYS,2016,5,2,3,3,3
+Malaysia,MYS,2017,5,2,3,3,3
+Malaysia,MYS,2018,1,1,3,3,3
+Malaysia,MYS,2019,1,1,3,3,3
+Malaysia,MYS,2020,1,1,3,3,3
+Malaysia,MYS,2021,5,1,3,3,3
+Maldives,MDV,1990,1,1,3,4,3
+Maldives,MDV,1995,1,1,3,4,3
+Maldives,MDV,1997,1,3,3,4,3
+Maldives,MDV,2001,1,3,3,4,3
+Maldives,MDV,2002,1,3,3,4,3
+Maldives,MDV,2007,1,1,3,4,3
+Maldives,MDV,2008,1,2,3,4,3
+Maldives,MDV,2009,1,2,3,4,3
+Maldives,MDV,2010,1,2,3,4,3
+Maldives,MDV,2011,1,1,3,4,3
+Maldives,MDV,2012,1,3,3,4,3
+Maldives,MDV,2013,1,1,3,3,3
+Maldives,MDV,2015,1,1,3,3,3
+Maldives,MDV,2016,1,3,3,3,3
+Maldives,MDV,2017,1,4,3,2,3
+Maldives,MDV,2019,1,1,3,3,3
+Malta,MLT,1990,1,1,5,5,5
+Malta,MLT,1991,1,1,5,5,5
+Malta,MLT,1992,1,2,5,5,5
+Malta,MLT,1993,1,2,5,5,5
+Malta,MLT,1994,1,1,5,5,5
+Malta,MLT,1998,1,2,5,5,5
+Malta,MLT,1999,1,3,5,5,5
+Malta,MLT,2000,1,1,5,5,5
+Malta,MLT,2001,1,2,5,5,5
+Malta,MLT,2002,1,2,5,5,5
+Malta,MLT,2004,1,2,5,5,5
+Malta,MLT,2005,1,1,5,5,5
+Malta,MLT,2006,1,1,5,5,5
+Malta,MLT,2007,1,1,5,5,5
+Malta,MLT,2008,1,2,5,5,5
+Malta,MLT,2009,1,1,5,5,5
+Malta,MLT,2010,1,1,5,5,5
+Malta,MLT,2011,1,1,5,5,5
+Malta,MLT,2012,1,3,5,5,5
+Malta,MLT,2013,1,2,5,5,5
+Malta,MLT,2014,1,2,5,5,5
+Malta,MLT,2015,1,1,5,5,5
+Malta,MLT,2016,1,1,5,5,5
+Malta,MLT,2017,1,2,5,5,5
+Malta,MLT,2018,1,2,5,5,5
+Malta,MLT,2019,1,1,5,5,5
+Malta,MLT,2020,1,2,5,5,5
+Malta,MLT,2021,1,1,5,5,5
+Mauritania,MRT,2018,1,2,2,3,2
+Mauritania,MRT,2019,1,1,3,3,3
+Mauritania,MRT,2020,1,1,2,2,2
+Mauritius,MUS,1990,1,2,1,1,2
+Mauritius,MUS,1991,1,3,1,1,2
+Mauritius,MUS,1992,1,3,1,1,2
+Mauritius,MUS,1993,1,2,1,1,2
+Mauritius,MUS,1994,1,3,1,1,2
+Mauritius,MUS,1995,1,3,1,1,2
+Mauritius,MUS,1996,1,3,1,1,2
+Mauritius,MUS,1997,1,2,1,1,2
+Mauritius,MUS,1998,1,3,1,1,2
+Mauritius,MUS,1999,1,2,1,1,2
+Mauritius,MUS,2000,1,3,1,1,2
+Mauritius,MUS,2009,1,3,1,1,2
+Mauritius,MUS,2010,1,3,1,1,2
+Mauritius,MUS,2011,1,3,1,1,2
+Mauritius,MUS,2012,1,3,1,1,2
+Mauritius,MUS,2013,1,3,1,1,2
+Mauritius,MUS,2014,1,2,1,1,2
+Mauritius,MUS,2015,1,2,1,1,2
+Mauritius,MUS,2016,1,2,1,1,2
+Mauritius,MUS,2017,1,3,1,1,1
+Mauritius,MUS,2018,1,3,1,1,1
+Mauritius,MUS,2019,1,3,1,1,1
+Mauritius,MUS,2020,1,3,1,1,1
+Mauritius,MUS,2021,1,3,1,1,1
+Mexico,MEX,1990,5,5,3,4,2
+Mexico,MEX,1991,5,5,3,4,2
+Mexico,MEX,1992,1,5,3,4,2
+Mexico,MEX,1993,5,5,3,4,2
+Mexico,MEX,1994,5,5,2,3,2
+Mexico,MEX,1995,5,5,2,3,2
+Mexico,MEX,1996,5,5,2,3,2
+Mexico,MEX,1997,5,5,3,4,2
+Mexico,MEX,1998,1,5,3,4,2
+Mexico,MEX,1999,1,5,3,4,2
+Mexico,MEX,2000,1,5,2,2,1
+Mexico,MEX,2001,1,5,1,1,1
+Mexico,MEX,2002,5,4,1,1,1
+Mexico,MEX,2003,1,4,1,1,1
+Mexico,MEX,2004,5,4,1,1,1
+Mexico,MEX,2005,5,4,1,1,1
+Mexico,MEX,2006,5,4,1,1,2
+Mexico,MEX,2007,5,4,1,1,1
+Mexico,MEX,2008,5,5,1,1,1
+Mexico,MEX,2009,5,5,1,1,1
+Mexico,MEX,2010,5,5,1,1,1
+Mexico,MEX,2011,5,5,1,1,1
+Mexico,MEX,2012,5,5,1,1,1
+Mexico,MEX,2013,5,5,1,1,1
+Mexico,MEX,2014,5,5,1,1,1
+Mexico,MEX,2015,5,5,1,1,1
+Mexico,MEX,2016,5,5,1,1,1
+Mexico,MEX,2017,5,5,1,1,1
+Mexico,MEX,2018,5,5,1,1,1
+Mexico,MEX,2019,5,5,1,1,1
+Mexico,MEX,2020,5,5,1,1,1
+Mexico,MEX,2021,5,5,1,1,1
+Moldova,MDA,1991,1,4,3,4,3
+Moldova,MDA,1992,5,5,1,1,1
+Moldova,MDA,1993,1,4,1,1,1
+Moldova,MDA,1994,1,4,1,1,1
+Moldova,MDA,1995,1,4,1,1,1
+Moldova,MDA,1996,1,4,1,1,1
+Moldova,MDA,1997,1,4,1,1,1
+Moldova,MDA,1998,1,4,1,1,1
+Moldova,MDA,1999,1,4,1,1,1
+Moldova,MDA,2000,1,5,1,1,1
+Moldova,MDA,2001,1,4,1,1,1
+Moldova,MDA,2002,1,4,1,1,1
+Moldova,MDA,2003,1,4,1,1,1
+Moldova,MDA,2004,1,4,1,1,1
+Moldova,MDA,2005,1,4,1,1,1
+Moldova,MDA,2006,1,4,1,1,1
+Moldova,MDA,2007,1,4,1,1,1
+Moldova,MDA,2008,1,4,1,1,1
+Moldova,MDA,2009,1,4,1,1,1
+Moldova,MDA,2010,1,4,1,1,1
+Moldova,MDA,2011,1,4,1,1,1
+Moldova,MDA,2012,1,4,1,1,1
+Moldova,MDA,2013,1,4,1,1,1
+Moldova,MDA,2014,1,4,1,1,1
+Moldova,MDA,2015,1,4,1,1,1
+Moldova,MDA,2016,1,4,1,1,1
+Moldova,MDA,2017,1,3,1,1,1
+Moldova,MDA,2018,1,4,1,1,1
+Moldova,MDA,2019,1,3,1,1,1
+Moldova,MDA,2020,1,3,1,1,1
+Mongolia,MNG,2003,1,5,4,4,4
+Mongolia,MNG,2004,1,5,4,4,4
+Mongolia,MNG,2005,1,5,4,4,4
+Mongolia,MNG,2006,1,5,4,4,4
+Mongolia,MNG,2007,1,5,4,4,4
+Mongolia,MNG,2008,1,4,4,4,4
+Mongolia,MNG,2009,1,4,4,4,4
+Mongolia,MNG,2010,1,4,4,4,4
+Mongolia,MNG,2011,1,4,4,4,4
+Mongolia,MNG,2012,1,4,4,4,4
+Mongolia,MNG,2013,1,4,4,4,4
+Mongolia,MNG,2014,1,4,4,4,4
+Mongolia,MNG,2015,1,4,4,4,4
+Mongolia,MNG,2016,1,4,3,4,3
+Mongolia,MNG,2017,1,4,3,4,3
+Mongolia,MNG,2018,1,4,3,4,3
+Mongolia,MNG,2019,1,4,3,3,3
+Mongolia,MNG,2020,1,4,3,3,3
+Mongolia,MNG,2021,1,4,3,3,3
+Montenegro,MNE,2007,1,2,5,5,5
+Montenegro,MNE,2008,1,3,5,5,5
+Montenegro,MNE,2009,1,3,5,5,5
+Montenegro,MNE,2010,1,3,5,5,5
+Montenegro,MNE,2011,1,3,5,5,5
+Montenegro,MNE,2012,1,3,5,5,5
+Montenegro,MNE,2013,1,2,5,5,5
+Montenegro,MNE,2014,1,3,5,5,5
+Montenegro,MNE,2015,1,3,5,5,5
+Montenegro,MNE,2016,1,3,5,5,5
+Montenegro,MNE,2017,1,3,5,5,5
+Montenegro,MNE,2018,1,3,5,5,5
+Montenegro,MNE,2019,1,3,5,5,5
+Montenegro,MNE,2020,1,3,5,5,5
+Montenegro,MNE,2021,1,3,5,5,5
+Morocco,MAR,1990,1,1,2,2,2
+Morocco,MAR,1991,1,1,2,2,2
+Morocco,MAR,1992,1,1,2,2,2
+Morocco,MAR,1993,1,1,2,2,2
+Morocco,MAR,1994,1,1,2,2,2
+Morocco,MAR,1997,1,3,2,2,2
+Morocco,MAR,1998,1,2,2,2,2
+Morocco,MAR,1999,1,2,2,2,2
+Morocco,MAR,2000,1,2,2,2,2
+Morocco,MAR,2001,1,2,2,2,2
+Morocco,MAR,2002,1,2,2,2,2
+Morocco,MAR,2003,5,2,2,2,2
+Morocco,MAR,2004,1,2,2,2,2
+Morocco,MAR,2005,1,2,2,2,2
+Morocco,MAR,2006,1,2,2,2,2
+Morocco,MAR,2007,1,2,2,2,2
+Morocco,MAR,2008,1,2,2,2,2
+Morocco,MAR,2009,1,2,2,2,2
+Morocco,MAR,2010,1,2,2,2,2
+Morocco,MAR,2011,1,2,2,2,2
+Morocco,MAR,2012,1,2,2,2,2
+Morocco,MAR,2013,1,2,2,2,2
+Morocco,MAR,2014,1,1,2,2,2
+Morocco,MAR,2015,1,2,2,2,2
+Morocco,MAR,2016,1,2,2,2,2
+Morocco,MAR,2017,1,3,2,2,2
+Morocco,MAR,2018,1,2,2,2,2
+Morocco,MAR,2019,1,2,2,2,2
+Morocco,MAR,2020,1,2,2,2,2
+Morocco,MAR,2021,1,2,2,2,2
+Mozambique,MOZ,2001,1,4,2,2,2
+Mozambique,MOZ,2002,1,4,2,2,2
+Mozambique,MOZ,2003,1,4,2,2,2
+Mozambique,MOZ,2004,1,4,2,2,2
+Mozambique,MOZ,2005,1,4,2,2,2
+Mozambique,MOZ,2006,1,3,2,2,2
+Mozambique,MOZ,2007,1,3,2,2,2
+Mozambique,MOZ,2008,1,4,2,2,2
+Mozambique,MOZ,2009,1,3,2,2,2
+Mozambique,MOZ,2010,1,3,2,2,2
+Mozambique,MOZ,2011,1,3,2,2,2
+Myanmar,MMR,1990,5,4,1,1,1
+Myanmar,MMR,1995,5,3,1,1,1
+Myanmar,MMR,2000,5,3,1,1,1
+Myanmar,MMR,2001,5,2,1,1,1
+Myanmar,MMR,2002,5,2,1,1,1
+Myanmar,MMR,2003,5,2,1,1,1
+Myanmar,MMR,2004,5,2,1,1,1
+Myanmar,MMR,2005,5,2,1,1,1
+Myanmar,MMR,2006,5,2,1,1,1
+Myanmar,MMR,2007,5,2,1,1,1
+Myanmar,MMR,2008,5,2,1,1,1
+Myanmar,MMR,2009,5,2,1,1,1
+Myanmar,MMR,2010,5,2,1,1,1
+Myanmar,MMR,2011,5,3,1,1,1
+Myanmar,MMR,2012,5,3,1,1,1
+Myanmar,MMR,2013,5,3,1,1,1
+Myanmar,MMR,2014,5,3,1,1,1
+Myanmar,MMR,2015,5,3,1,1,1
+Myanmar,MMR,2016,5,3,1,1,1
+Myanmar,MMR,2017,5,3,1,1,1
+Myanmar,MMR,2018,5,3,1,1,1
+Myanmar,MMR,2019,5,3,1,1,1
+Myanmar,MMR,2020,5,3,1,1,1
+Myanmar,MMR,2021,5,5,1,1,1
+Namibia,NAM,1995,1,5,3,3,3
+Namibia,NAM,1996,1,5,3,3,3
+Namibia,NAM,1997,1,5,3,3,3
+Namibia,NAM,1998,1,5,3,3,3
+Namibia,NAM,1999,5,5,3,3,3
+Namibia,NAM,2000,5,5,3,3,3
+Namibia,NAM,2001,1,5,3,3,3
+Namibia,NAM,2002,1,5,3,3,3
+Namibia,NAM,2004,1,5,3,3,3
+Namibia,NAM,2008,1,5,3,3,3
+Namibia,NAM,2009,1,5,3,3,3
+Namibia,NAM,2010,1,5,3,3,3
+Namibia,NAM,2011,1,5,3,3,3
+Namibia,NAM,2012,1,5,3,3,3
+Namibia,NAM,2018,1,5,3,3,3
+Namibia,NAM,2019,1,5,3,3,3
+Namibia,NAM,2020,1,5,3,2,3
+Namibia,NAM,2021,1,5,2,2,2
+Nepal,NPL,1990,1,2,2,2,2
+Nepal,NPL,1997,5,3,1,1,1
+Nepal,NPL,1998,5,3,1,1,1
+Nepal,NPL,1999,5,3,1,1,1
+Nepal,NPL,2000,5,3,1,1,1
+Nepal,NPL,2001,5,3,1,1,1
+Nepal,NPL,2002,5,3,1,1,1
+Nepal,NPL,2003,5,3,1,1,1
+Nepal,NPL,2004,5,3,1,1,1
+Nepal,NPL,2005,5,3,1,1,1
+Nepal,NPL,2006,5,3,1,1,1
+Nepal,NPL,2007,5,3,1,1,1
+Nepal,NPL,2008,1,3,1,1,1
+Nepal,NPL,2009,1,3,1,1,2
+Nepal,NPL,2010,1,3,1,1,1
+Nepal,NPL,2011,1,3,1,1,2
+Nepal,NPL,2012,1,3,2,1,2
+Nepal,NPL,2013,1,3,2,2,2
+Nepal,NPL,2014,1,2,2,2,2
+Nepal,NPL,2015,1,2,1,1,1
+Nepal,NPL,2016,1,3,2,1,2
+Nepal,NPL,2017,1,3,2,1,2
+Nepal,NPL,2018,1,3,2,2,2
+Nepal,NPL,2019,1,3,2,2,2
+Netherlands,NLD,1990,5,1,5,5,5
+Netherlands,NLD,1991,1,2,5,5,5
+Netherlands,NLD,1992,1,2,5,5,5
+Netherlands,NLD,1993,1,2,5,5,5
+Netherlands,NLD,1994,1,1,5,5,5
+Netherlands,NLD,1995,1,2,5,5,5
+Netherlands,NLD,1996,1,2,5,5,5
+Netherlands,NLD,1997,1,2,5,5,5
+Netherlands,NLD,1998,1,1,5,5,5
+Netherlands,NLD,1999,1,2,5,5,5
+Netherlands,NLD,2000,1,2,5,5,5
+Netherlands,NLD,2001,1,2,5,5,5
+Netherlands,NLD,2002,1,2,5,5,5
+Netherlands,NLD,2003,1,2,5,5,5
+Netherlands,NLD,2004,1,2,5,5,5
+Netherlands,NLD,2005,1,1,5,5,5
+Netherlands,NLD,2006,1,1,5,5,5
+Netherlands,NLD,2007,1,1,5,5,5
+Netherlands,NLD,2008,1,1,5,5,5
+Netherlands,NLD,2009,1,1,5,5,5
+Netherlands,NLD,2010,1,1,5,5,5
+Netherlands,NLD,2011,1,1,5,5,5
+Netherlands,NLD,2012,1,1,5,5,5
+Netherlands,NLD,2013,1,1,5,5,5
+Netherlands,NLD,2014,1,1,5,5,5
+Netherlands,NLD,2015,1,1,5,5,5
+Netherlands,NLD,2016,1,1,5,5,5
+Netherlands,NLD,2017,1,1,5,5,5
+Netherlands,NLD,2018,1,1,5,5,5
+Netherlands,NLD,2019,1,1,5,5,5
+Netherlands,NLD,2020,1,1,4,4,4
+Netherlands,NLD,2021,1,1,4,4,4
+New Zealand,NZL,1990,1,2,5,5,5
+New Zealand,NZL,1991,1,2,5,5,5
+New Zealand,NZL,1992,1,2,5,5,5
+New Zealand,NZL,1993,1,2,5,5,5
+New Zealand,NZL,1994,1,2,5,5,5
+New Zealand,NZL,1995,1,1,5,5,5
+New Zealand,NZL,1996,1,2,5,5,5
+New Zealand,NZL,1997,1,2,5,5,5
+New Zealand,NZL,1998,1,2,5,5,5
+New Zealand,NZL,1999,1,2,5,5,5
+New Zealand,NZL,2000,1,2,5,5,5
+New Zealand,NZL,2001,1,2,5,5,5
+New Zealand,NZL,2002,1,2,5,5,5
+New Zealand,NZL,2003,1,1,5,5,5
+New Zealand,NZL,2004,1,1,5,5,5
+New Zealand,NZL,2005,1,2,5,5,5
+New Zealand,NZL,2006,1,2,5,5,5
+New Zealand,NZL,2007,1,2,5,5,5
+New Zealand,NZL,2008,1,2,5,5,5
+New Zealand,NZL,2009,1,2,5,5,5
+New Zealand,NZL,2010,1,1,5,5,5
+New Zealand,NZL,2011,1,1,5,5,5
+New Zealand,NZL,2012,1,1,5,5,5
+New Zealand,NZL,2013,1,1,5,5,5
+New Zealand,NZL,2014,1,1,5,5,5
+New Zealand,NZL,2015,1,1,5,5,5
+New Zealand,NZL,2016,1,1,5,5,5
+New Zealand,NZL,2017,1,1,5,5,5
+New Zealand,NZL,2018,1,2,5,5,5
+New Zealand,NZL,2019,1,3,5,5,5
+Nicaragua,NIC,1990,5,5,1,2,1
+Nicaragua,NIC,1991,1,5,2,1,2
+Nicaragua,NIC,1992,1,5,2,1,2
+Nicaragua,NIC,1993,1,5,2,1,2
+Nicaragua,NIC,1994,1,5,2,1,2
+Nicaragua,NIC,1995,1,5,2,1,2
+Nicaragua,NIC,1996,1,5,2,1,2
+Nicaragua,NIC,1997,1,5,2,1,2
+Nicaragua,NIC,1998,1,5,2,1,2
+Nicaragua,NIC,1999,1,5,2,1,2
+Nicaragua,NIC,2000,1,4,2,1,2
+Nicaragua,NIC,2001,1,5,2,1,2
+Nicaragua,NIC,2002,1,5,2,1,2
+Nicaragua,NIC,2003,1,5,2,1,2
+Nicaragua,NIC,2004,1,5,2,1,2
+Nicaragua,NIC,2005,1,5,2,1,2
+Nicaragua,NIC,2006,1,5,2,1,2
+Nicaragua,NIC,2007,1,5,2,2,2
+Nicaragua,NIC,2008,1,5,2,2,2
+Nicaragua,NIC,2009,1,5,2,2,2
+Nicaragua,NIC,2010,1,5,2,2,2
+Nicaragua,NIC,2011,1,5,2,2,2
+Nicaragua,NIC,2012,1,5,2,2,2
+Nicaragua,NIC,2013,1,4,2,2,2
+Nicaragua,NIC,2014,1,4,2,2,2
+Nicaragua,NIC,2015,1,4,2,2,2
+Nicaragua,NIC,2016,1,4,2,2,2
+Nicaragua,NIC,2017,1,4,2,2,2
+Nicaragua,NIC,2018,1,5,1,1,1
+Nicaragua,NIC,2019,1,4,1,1,1
+Nicaragua,NIC,2021,1,5,2,1,2
+Niger,NER,2011,5,4,1,1,1
+Niger,NER,2012,1,3,1,1,1
+Nigeria,NGA,2016,5,5,1,1,1
+Nigeria,NGA,2019,5,5,1,1,1
+North Macedonia,MKD,1998,1,3,2,2,2
+North Macedonia,MKD,1999,5,2,1,1,2
+North Macedonia,MKD,2000,1,3,1,1,1
+North Macedonia,MKD,2001,5,3,1,1,1
+North Macedonia,MKD,2002,1,3,1,1,1
+North Macedonia,MKD,2003,1,3,2,2,2
+North Macedonia,MKD,2004,1,3,1,1,2
+North Macedonia,MKD,2006,1,3,3,3,3
+North Macedonia,MKD,2007,1,2,3,3,3
+North Macedonia,MKD,2008,1,2,3,3,3
+North Macedonia,MKD,2009,1,2,3,3,3
+North Macedonia,MKD,2010,1,2,3,3,3
+North Macedonia,MKD,2011,1,2,3,3,3
+North Macedonia,MKD,2012,1,2,3,3,3
+North Macedonia,MKD,2013,1,1,3,4,3
+North Macedonia,MKD,2014,1,2,3,3,3
+North Macedonia,MKD,2015,1,2,3,3,3
+North Macedonia,MKD,2016,1,1,3,4,3
+North Macedonia,MKD,2017,1,2,3,3,3
+North Macedonia,MKD,2018,1,2,3,3,2
+North Macedonia,MKD,2019,1,2,3,3,2
+Norway,NOR,1990,1,1,5,5,5
+Norway,NOR,1991,1,2,5,5,5
+Norway,NOR,1992,1,1,5,5,5
+Norway,NOR,1993,1,1,5,5,5
+Norway,NOR,1994,1,1,5,5,5
+Norway,NOR,1995,1,1,5,5,5
+Norway,NOR,1996,1,1,5,5,5
+Norway,NOR,1997,1,1,5,5,5
+Norway,NOR,1998,1,1,5,5,5
+Norway,NOR,1999,1,1,5,5,5
+Norway,NOR,2000,1,1,5,5,5
+Norway,NOR,2001,1,1,5,5,5
+Norway,NOR,2002,1,1,5,5,5
+Norway,NOR,2004,1,1,5,5,5
+Norway,NOR,2005,1,1,5,5,5
+Norway,NOR,2006,1,1,5,5,5
+Norway,NOR,2007,1,1,5,5,5
+Norway,NOR,2008,1,1,5,4,5
+Norway,NOR,2009,1,1,5,4,5
+Norway,NOR,2010,1,1,5,5,5
+Norway,NOR,2011,1,3,5,5,5
+Norway,NOR,2012,1,1,5,5,5
+Norway,NOR,2013,1,1,5,5,5
+Norway,NOR,2014,1,1,5,5,5
+Norway,NOR,2015,1,1,5,5,5
+Norway,NOR,2016,1,1,5,5,5
+Norway,NOR,2017,1,1,5,5,5
+Norway,NOR,2018,1,1,4,4,4
+Norway,NOR,2019,1,1,3,3,3
+Norway,NOR,2020,1,1,5,5,5
+Norway,NOR,2021,1,1,5,5,5
+Oman,OMN,2002,1,2,3,3,3
+Oman,OMN,2003,1,2,3,3,3
+Oman,OMN,2004,1,2,3,3,3
+Oman,OMN,2005,1,3,3,3,3
+Oman,OMN,2006,1,4,3,3,3
+Oman,OMN,2007,1,2,3,3,3
+Oman,OMN,2008,1,2,3,3,3
+Oman,OMN,2009,1,2,3,3,3
+Oman,OMN,2010,1,2,3,3,3
+Oman,OMN,2011,1,1,3,3,3
+Oman,OMN,2012,1,1,3,3,3
+Oman,OMN,2013,1,3,3,3,3
+Oman,OMN,2014,1,1,3,3,3
+Oman,OMN,2015,1,1,3,3,3
+Oman,OMN,2016,1,1,3,3,3
+Oman,OMN,2017,1,1,3,3,3
+Oman,OMN,2018,1,1,3,3,3
+Oman,OMN,2019,1,1,3,3,2
+Oman,OMN,2020,1,1,2,3,2
+Oman,OMN,2021,1,1,1,1,1
+Pakistan,PAK,1990,5,4,1,1,1
+Pakistan,PAK,1996,5,4,1,1,1
+Pakistan,PAK,1997,5,4,1,1,1
+Pakistan,PAK,1998,5,4,1,1,1
+Pakistan,PAK,1999,5,4,1,1,1
+Pakistan,PAK,2000,5,4,1,1,1
+Pakistan,PAK,2001,5,4,1,1,1
+Pakistan,PAK,2002,5,4,1,1,1
+Pakistan,PAK,2003,5,4,1,1,1
+Pakistan,PAK,2004,5,4,1,1,1
+Pakistan,PAK,2005,5,4,1,1,1
+Pakistan,PAK,2006,5,4,1,1,1
+Pakistan,PAK,2007,5,4,1,1,1
+Pakistan,PAK,2008,5,4,1,1,1
+Pakistan,PAK,2009,5,4,1,1,1
+Pakistan,PAK,2010,5,4,1,1,1
+Pakistan,PAK,2011,5,4,1,1,1
+Pakistan,PAK,2012,5,4,1,1,1
+Pakistan,PAK,2013,5,4,1,1,1
+Pakistan,PAK,2014,5,4,1,1,1
+Pakistan,PAK,2015,5,4,1,1,1
+Pakistan,PAK,2016,5,3,1,1,1
+Pakistan,PAK,2017,5,3,1,1,1
+Pakistan,PAK,2018,5,3,1,1,1
+Pakistan,PAK,2019,5,3,1,1,1
+Pakistan,PAK,2020,5,3,1,1,1
+Pakistan,PAK,2021,5,3,1,1,1
+Panama,PAN,1990,1,5,1,1,1
+Panama,PAN,1991,1,5,1,1,1
+Panama,PAN,1992,1,5,1,1,1
+Panama,PAN,1993,1,5,1,1,1
+Panama,PAN,1994,1,5,1,1,1
+Panama,PAN,1995,1,5,1,1,1
+Panama,PAN,1996,1,4,1,1,1
+Panama,PAN,1997,1,5,1,1,1
+Panama,PAN,1998,1,4,1,1,1
+Panama,PAN,1999,1,4,1,1,1
+Panama,PAN,2000,1,4,1,2,1
+Panama,PAN,2001,1,4,1,2,1
+Panama,PAN,2002,1,5,1,2,1
+Panama,PAN,2003,1,5,1,2,1
+Panama,PAN,2004,1,4,1,2,1
+Panama,PAN,2005,1,5,1,2,1
+Panama,PAN,2006,1,4,1,2,1
+Panama,PAN,2007,1,4,1,2,1
+Panama,PAN,2008,1,5,1,2,1
+Panama,PAN,2009,1,5,1,2,1
+Panama,PAN,2010,1,5,1,2,1
+Panama,PAN,2011,1,5,1,2,1
+Panama,PAN,2012,1,5,1,2,1
+Panama,PAN,2013,1,5,1,1,1
+Panama,PAN,2014,1,5,1,1,1
+Panama,PAN,2015,1,5,1,1,1
+Panama,PAN,2016,1,5,1,1,1
+Panama,PAN,2017,1,4,1,1,1
+Panama,PAN,2018,1,4,2,2,2
+Panama,PAN,2019,1,5,3,3,4
+Panama,PAN,2020,1,5,3,3,3
+Panama,PAN,2021,1,5,3,3,3
+Papua New Guinea,PNG,1998,1,4,1,1,1
+Papua New Guinea,PNG,1999,5,4,1,1,1
+Papua New Guinea,PNG,2000,1,4,1,1,1
+Papua New Guinea,PNG,2001,5,4,1,1,1
+Papua New Guinea,PNG,2002,1,4,1,1,1
+Papua New Guinea,PNG,2003,1,4,1,1,1
+Papua New Guinea,PNG,2005,1,4,1,1,1
+Papua New Guinea,PNG,2006,1,4,1,1,1
+Papua New Guinea,PNG,2007,1,4,1,1,1
+Papua New Guinea,PNG,2008,1,4,1,1,1
+Papua New Guinea,PNG,2009,1,4,1,1,1
+Papua New Guinea,PNG,2010,1,4,1,1,1
+Paraguay,PRY,2000,1,5,1,1,1
+Paraguay,PRY,2001,1,5,1,1,1
+Paraguay,PRY,2002,1,5,1,1,1
+Paraguay,PRY,2003,1,5,1,1,1
+Paraguay,PRY,2004,1,5,1,1,1
+Paraguay,PRY,2005,1,5,1,1,1
+Paraguay,PRY,2006,1,5,1,1,1
+Paraguay,PRY,2007,1,5,1,1,1
+Paraguay,PRY,2008,1,5,1,1,1
+Paraguay,PRY,2009,1,5,1,1,1
+Paraguay,PRY,2010,1,5,1,1,1
+Paraguay,PRY,2011,1,5,1,1,1
+Paraguay,PRY,2012,1,5,1,1,1
+Paraguay,PRY,2013,1,5,1,1,1
+Paraguay,PRY,2014,1,4,1,1,1
+Paraguay,PRY,2015,1,4,1,1,1
+Paraguay,PRY,2016,1,5,1,1,1
+Paraguay,PRY,2017,1,4,1,1,1
+Paraguay,PRY,2018,1,4,1,1,1
+Paraguay,PRY,2019,1,4,1,1,1
+Paraguay,PRY,2020,1,4,1,1,1
+Paraguay,PRY,2021,1,4,1,1,1
+Peru,PER,2011,1,4,2,1,2
+Peru,PER,2012,1,4,1,1,2
+Peru,PER,2013,1,4,1,1,2
+Peru,PER,2014,1,4,2,2,1
+Peru,PER,2015,1,4,2,2,2
+Peru,PER,2016,1,4,2,2,2
+Peru,PER,2017,1,4,2,2,2
+Peru,PER,2018,1,4,1,1,1
+Peru,PER,2019,1,4,1,1,1
+Peru,PER,2020,5,4,1,1,1
+Philippines,PHL,1990,5,5,2,1,2
+Philippines,PHL,1991,5,5,2,1,2
+Philippines,PHL,1992,5,5,2,1,2
+Philippines,PHL,1993,5,5,2,1,2
+Philippines,PHL,1994,5,4,2,1,2
+Philippines,PHL,1998,5,4,2,1,2
+Philippines,PHL,1999,5,4,2,1,2
+Philippines,PHL,2000,5,4,2,1,2
+Philippines,PHL,2001,5,4,2,1,2
+Philippines,PHL,2002,5,4,2,1,2
+Philippines,PHL,2007,5,4,2,1,2
+Philippines,PHL,2008,5,4,2,1,2
+Philippines,PHL,2009,5,4,2,1,2
+Philippines,PHL,2010,5,4,2,1,2
+Philippines,PHL,2011,5,4,2,1,2
+Philippines,PHL,2012,5,4,2,1,2
+Philippines,PHL,2016,5,5,2,2,2
+Philippines,PHL,2017,5,4,2,2,2
+Philippines,PHL,2018,5,4,2,2,2
+Philippines,PHL,2019,5,3,2,2,2
+Poland,POL,1990,1,2,4,4,4
+Poland,POL,1991,1,3,4,4,4
+Poland,POL,1992,1,3,4,4,4
+Poland,POL,1993,1,3,4,4,4
+Poland,POL,1994,1,3,4,4,4
+Poland,POL,1995,1,3,4,4,4
+Poland,POL,1996,1,3,4,4,4
+Poland,POL,1997,1,3,4,4,4
+Poland,POL,1998,1,2,4,4,4
+Poland,POL,1999,1,2,4,4,4
+Poland,POL,2000,1,3,4,4,4
+Poland,POL,2001,1,2,4,4,4
+Poland,POL,2002,1,2,4,4,4
+Poland,POL,2008,1,1,4,4,4
+Poland,POL,2009,1,1,4,4,4
+Poland,POL,2010,1,1,4,4,4
+Poland,POL,2011,1,1,4,4,4
+Poland,POL,2012,1,1,4,4,4
+Poland,POL,2013,1,1,4,4,4
+Poland,POL,2014,1,1,4,4,4
+Poland,POL,2015,1,1,3,4,3
+Poland,POL,2016,1,1,3,4,3
+Poland,POL,2017,1,1,3,4,3
+Poland,POL,2018,1,1,3,4,3
+Poland,POL,2019,1,1,3,4,3
+Poland,POL,2020,1,1,3,4,3
+Poland,POL,2021,1,1,3,4,3
+Portugal,PRT,1990,1,2,3,4,3
+Portugal,PRT,1991,1,2,3,4,3
+Portugal,PRT,1992,1,2,3,4,3
+Portugal,PRT,1993,1,2,3,4,3
+Portugal,PRT,1994,1,2,3,4,3
+Portugal,PRT,1995,1,1,3,4,3
+Portugal,PRT,1996,1,1,3,4,3
+Portugal,PRT,1997,1,1,3,4,3
+Portugal,PRT,1998,1,2,3,4,3
+Portugal,PRT,1999,1,1,3,4,3
+Portugal,PRT,2000,1,2,3,4,3
+Portugal,PRT,2001,1,1,3,4,3
+Portugal,PRT,2002,1,2,3,4,3
+Portugal,PRT,2005,1,2,3,4,3
+Portugal,PRT,2010,1,2,3,4,3
+Portugal,PRT,2011,1,1,3,4,3
+Portugal,PRT,2012,1,2,3,4,3
+Portugal,PRT,2013,1,2,3,4,3
+Portugal,PRT,2014,1,1,3,4,3
+Portugal,PRT,2015,1,1,3,4,3
+Portugal,PRT,2016,1,1,3,4,3
+Portugal,PRT,2017,1,1,3,4,3
+Portugal,PRT,2018,1,1,3,4,3
+Portugal,PRT,2019,1,1,2,4,2
+Portugal,PRT,2020,1,1,2,4,2
+Portugal,PRT,2021,1,1,2,4,2
+Qatar,QAT,1990,1,1,2,2,2
+Qatar,QAT,1991,1,1,2,2,2
+Qatar,QAT,1992,1,2,2,2,2
+Qatar,QAT,1993,1,1,2,2,2
+Qatar,QAT,1994,1,1,2,2,2
+Qatar,QAT,1998,1,1,2,2,2
+Qatar,QAT,1999,1,1,2,2,2
+Qatar,QAT,2000,1,1,2,2,2
+Qatar,QAT,2001,1,1,4,4,4
+Qatar,QAT,2004,1,1,4,4,4
+Qatar,QAT,2005,1,1,4,4,4
+Qatar,QAT,2006,1,1,4,4,4
+Qatar,QAT,2007,1,1,4,4,4
+Qatar,QAT,2008,1,1,4,4,4
+Qatar,QAT,2009,1,1,4,4,4
+Qatar,QAT,2010,1,1,4,4,4
+Qatar,QAT,2011,1,1,4,4,4
+Qatar,QAT,2012,1,1,4,4,4
+Qatar,QAT,2013,1,1,3,3,3
+Qatar,QAT,2014,1,1,3,3,3
+Qatar,QAT,2015,1,1,3,3,3
+Qatar,QAT,2016,1,1,5,5,5
+Qatar,QAT,2017,1,1,5,5,5
+Qatar,QAT,2018,1,1,4,4,4
+Qatar,QAT,2019,1,1,4,5,4
+Qatar,QAT,2020,1,1,4,5,4
+Qatar,QAT,2021,1,1,4,5,4
+Romania,ROU,1990,1,3,4,5,4
+Romania,ROU,1991,1,3,4,5,4
+Romania,ROU,1992,1,3,4,5,4
+Romania,ROU,1993,1,3,4,5,4
+Romania,ROU,1994,1,3,4,5,4
+Romania,ROU,1995,1,3,4,5,4
+Romania,ROU,1996,1,3,4,5,4
+Romania,ROU,1997,1,3,4,5,4
+Romania,ROU,1998,1,3,4,5,4
+Romania,ROU,1999,1,3,4,5,4
+Romania,ROU,2000,1,3,4,5,4
+Romania,ROU,2001,1,3,4,5,4
+Romania,ROU,2002,1,3,4,5,4
+Romania,ROU,2003,1,3,4,5,4
+Romania,ROU,2004,1,3,4,5,4
+Romania,ROU,2005,1,2,4,5,4
+Romania,ROU,2006,1,2,4,4,4
+Romania,ROU,2007,1,2,4,5,4
+Romania,ROU,2008,1,2,4,5,4
+Romania,ROU,2009,1,2,4,4,4
+Romania,ROU,2010,1,2,4,5,4
+Romania,ROU,2011,1,1,4,5,4
+Romania,ROU,2012,1,1,4,5,4
+Romania,ROU,2013,1,1,4,5,4
+Romania,ROU,2014,1,2,4,5,4
+Romania,ROU,2015,1,2,4,5,4
+Romania,ROU,2016,1,2,4,5,4
+Romania,ROU,2017,1,2,5,5,5
+Romania,ROU,2018,1,2,4,4,3
+Romania,ROU,2019,1,2,3,4,3
+Romania,ROU,2020,1,2,3,4,3
+Romania,ROU,2021,1,2,3,4,3
+Russia,RUS,1990,5,5,3,4,3
+Russia,RUS,1991,1,5,3,3,3
+Russia,RUS,1992,1,5,3,3,3
+Russia,RUS,1993,5,5,1,1,1
+Russia,RUS,1994,5,5,1,2,1
+Russia,RUS,1995,5,5,1,2,1
+Russia,RUS,1996,5,5,1,2,1
+Russia,RUS,1997,1,5,1,2,1
+Russia,RUS,1998,1,5,1,2,1
+Russia,RUS,1999,5,5,1,2,1
+Russia,RUS,2000,5,5,4,3,4
+Russia,RUS,2001,5,5,4,3,4
+Russia,RUS,2002,5,5,4,3,4
+Russia,RUS,2003,5,5,4,3,4
+Russia,RUS,2004,5,5,4,3,4
+Russia,RUS,2005,5,5,4,3,4
+Russia,RUS,2006,5,5,4,3,4
+Russia,RUS,2007,5,5,4,4,4
+Russia,RUS,2008,5,5,4,4,4
+Russia,RUS,2009,5,5,4,4,4
+Russia,RUS,2010,5,5,4,4,4
+Russia,RUS,2011,5,5,4,4,4
+Russia,RUS,2012,5,5,4,4,4
+Russia,RUS,2013,5,5,4,4,4
+Russia,RUS,2014,5,5,4,4,4
+Russia,RUS,2015,5,5,4,4,4
+Russia,RUS,2016,5,5,4,3,4
+Russia,RUS,2017,5,4,4,4,4
+Russia,RUS,2018,5,4,4,4,4
+Russia,RUS,2019,5,4,4,4,4
+Russia,RUS,2020,5,4,4,4,4
+Russia,RUS,2021,1,4,4,4,4
+Rwanda,RWA,2006,5,3,5,5,5
+Rwanda,RWA,2007,5,3,5,5,5
+Rwanda,RWA,2008,5,2,5,5,5
+Rwanda,RWA,2010,1,3,5,5,5
+Rwanda,RWA,2012,5,3,5,5,5
+Rwanda,RWA,2013,5,3,5,5,5
+Rwanda,RWA,2014,1,3,5,5,5
+Rwanda,RWA,2015,1,3,5,5,5
+Rwanda,RWA,2016,5,3,5,5,5
+Rwanda,RWA,2017,5,3,5,5,5
+Rwanda,RWA,2018,5,3,5,5,5
+Rwanda,RWA,2019,5,3,4,4,5
+Rwanda,RWA,2020,5,3,5,5,5
+Sao Tome and Principe,STP,1990,1,4,4,4,4
+Sao Tome and Principe,STP,1991,1,4,4,4,4
+Sao Tome and Principe,STP,1992,1,4,4,4,4
+Sao Tome and Principe,STP,1993,1,4,4,4,4
+Sao Tome and Principe,STP,1994,1,4,4,4,4
+Sao Tome and Principe,STP,2006,1,3,4,4,4
+Sao Tome and Principe,STP,2007,1,3,4,4,4
+Sao Tome and Principe,STP,2008,1,4,4,4,4
+Sao Tome and Principe,STP,2009,1,3,4,4,4
+Sao Tome and Principe,STP,2010,1,3,4,4,4
+Sao Tome and Principe,STP,2011,1,3,4,4,4
+Saudi Arabia,SAU,1999,1,1,4,4,4
+Saudi Arabia,SAU,2000,1,1,4,4,4
+Saudi Arabia,SAU,2001,1,1,4,4,4
+Saudi Arabia,SAU,2002,1,2,4,4,4
+Saudi Arabia,SAU,2003,5,1,4,4,4
+Saudi Arabia,SAU,2004,5,2,4,4,4
+Saudi Arabia,SAU,2005,5,2,4,4,4
+Saudi Arabia,SAU,2006,5,1,4,4,4
+Saudi Arabia,SAU,2007,5,1,4,4,4
+Saudi Arabia,SAU,2018,5,1,4,4,4
+Saudi Arabia,SAU,2019,5,1,4,4,4
+Serbia,SRB,2000,1,3,1,1,2
+Serbia,SRB,2001,1,3,1,1,2
+Serbia,SRB,2002,1,3,1,1,2
+Serbia,SRB,2003,1,3,1,1,2
+Serbia,SRB,2004,1,3,1,1,2
+Serbia,SRB,2005,1,2,1,1,2
+Serbia,SRB,2006,1,2,1,1,2
+Serbia,SRB,2007,1,3,2,1,2
+Serbia,SRB,2008,1,2,2,1,2
+Serbia,SRB,2009,1,2,2,2,2
+Serbia,SRB,2010,1,2,2,2,2
+Serbia,SRB,2011,1,2,2,2,2
+Serbia,SRB,2012,1,2,2,2,2
+Serbia,SRB,2013,1,2,2,2,2
+Serbia,SRB,2014,1,2,2,2,2
+Serbia,SRB,2015,1,2,2,2,2
+Serbia,SRB,2016,1,2,2,2,2
+Serbia,SRB,2017,1,2,2,2,2
+Serbia,SRB,2018,1,2,3,2,3
+Serbia,SRB,2019,1,2,2,2,2
+Serbia,SRB,2020,1,2,2,2,2
+Serbia,SRB,2021,1,1,2,2,2
+Seychelles,SYC,2004,1,5,3,2,3
+Seychelles,SYC,2006,1,5,3,2,3
+Seychelles,SYC,2007,1,4,3,2,3
+Seychelles,SYC,2008,1,4,3,2,3
+Seychelles,SYC,2009,1,5,3,2,3
+Seychelles,SYC,2010,1,4,3,2,3
+Seychelles,SYC,2011,1,5,3,2,3
+Seychelles,SYC,2012,1,3,3,2,3
+Seychelles,SYC,2013,1,5,3,3,3
+Seychelles,SYC,2014,1,5,3,3,3
+Seychelles,SYC,2015,1,4,3,3,3
+Seychelles,SYC,2016,1,5,3,3,3
+Seychelles,SYC,2017,1,4,3,3,3
+Seychelles,SYC,2018,1,4,3,3,3
+Seychelles,SYC,2019,1,4,4,4,4
+Seychelles,SYC,2020,1,4,3,4,3
+Seychelles,SYC,2021,1,4,3,4,3
+Sierra Leone,SLE,2004,1,2,1,1,1
+Sierra Leone,SLE,2005,1,2,2,2,2
+Sierra Leone,SLE,2006,1,2,2,2,2
+Sierra Leone,SLE,2007,1,3,2,2,2
+Sierra Leone,SLE,2008,1,3,2,2,2
+Sierra Leone,SLE,2009,1,3,2,2,2
+Sierra Leone,SLE,2010,1,3,2,2,2
+Sierra Leone,SLE,2011,1,3,2,2,2
+Sierra Leone,SLE,2012,1,2,2,2,2
+Sierra Leone,SLE,2015,1,2,4,3,4
+Sierra Leone,SLE,2020,1,3,2,3,2
+Singapore,SGP,1990,1,2,1,2,1
+Singapore,SGP,1991,1,2,1,2,1
+Singapore,SGP,1992,1,2,1,2,1
+Singapore,SGP,1993,1,2,1,2,1
+Singapore,SGP,1994,1,2,1,2,1
+Singapore,SGP,1995,1,2,1,2,1
+Singapore,SGP,1996,1,1,1,2,1
+Singapore,SGP,1997,1,1,1,2,1
+Singapore,SGP,1998,1,1,1,2,1
+Singapore,SGP,1999,1,1,1,2,1
+Singapore,SGP,2000,1,1,1,2,1
+Singapore,SGP,2001,1,1,1,2,1
+Singapore,SGP,2002,1,1,1,2,1
+Singapore,SGP,2003,1,1,1,2,1
+Singapore,SGP,2004,1,1,1,2,1
+Singapore,SGP,2006,1,1,1,2,1
+Singapore,SGP,2007,1,1,1,2,1
+Singapore,SGP,2008,1,1,1,2,1
+Singapore,SGP,2009,1,1,1,2,1
+Singapore,SGP,2010,1,1,1,2,1
+Singapore,SGP,2011,1,1,1,2,1
+Singapore,SGP,2012,1,1,1,2,1
+Singapore,SGP,2013,1,1,1,2,1
+Singapore,SGP,2014,1,1,1,2,1
+Singapore,SGP,2015,1,1,1,2,1
+Singapore,SGP,2016,1,1,1,2,1
+Singapore,SGP,2017,1,1,1,2,1
+Singapore,SGP,2018,1,1,1,2,1
+Singapore,SGP,2019,1,1,1,2,1
+Singapore,SGP,2020,1,1,2,3,2
+Singapore,SGP,2021,1,1,2,3,2
+Slovakia,SVK,1990,1,2,5,5,5
+Slovakia,SVK,1991,1,3,5,5,5
+Slovakia,SVK,1993,1,3,5,5,5
+Slovakia,SVK,1994,1,3,5,5,5
+Slovakia,SVK,1995,1,3,5,5,5
+Slovakia,SVK,1996,1,3,5,5,5
+Slovakia,SVK,1997,1,3,5,5,5
+Slovakia,SVK,1998,1,3,5,5,5
+Slovakia,SVK,1999,1,3,5,5,5
+Slovakia,SVK,2000,1,3,5,5,5
+Slovakia,SVK,2001,1,3,5,5,5
+Slovakia,SVK,2002,1,3,5,5,5
+Slovakia,SVK,2003,1,3,5,5,5
+Slovakia,SVK,2004,1,2,5,5,5
+Slovakia,SVK,2005,1,2,5,5,5
+Slovakia,SVK,2006,1,2,5,5,5
+Slovakia,SVK,2007,1,2,5,5,5
+Slovakia,SVK,2008,1,2,5,5,5
+Slovakia,SVK,2009,1,2,5,5,5
+Slovakia,SVK,2010,1,2,5,5,5
+Slovakia,SVK,2011,1,2,5,5,5
+Slovakia,SVK,2012,1,2,5,5,5
+Slovakia,SVK,2013,1,2,5,5,5
+Slovakia,SVK,2014,1,2,5,5,5
+Slovakia,SVK,2015,1,1,5,5,5
+Slovakia,SVK,2016,1,1,5,5,5
+Slovakia,SVK,2017,1,2,5,5,5
+Slovakia,SVK,2018,1,2,5,5,5
+Slovakia,SVK,2019,1,2,5,5,5
+Slovakia,SVK,2020,1,2,5,5,5
+Slovakia,SVK,2021,1,1,5,5,5
+Slovenia,SVN,1992,1,3,4,4,4
+Slovenia,SVN,1993,1,2,4,4,4
+Slovenia,SVN,1994,1,3,4,4,4
+Slovenia,SVN,1995,1,3,4,4,4
+Slovenia,SVN,1996,1,2,4,4,4
+Slovenia,SVN,1997,1,2,4,4,4
+Slovenia,SVN,1998,1,1,4,4,4
+Slovenia,SVN,1999,1,2,4,4,4
+Slovenia,SVN,2000,1,2,4,4,4
+Slovenia,SVN,2001,1,2,4,4,4
+Slovenia,SVN,2002,1,2,4,4,4
+Slovenia,SVN,2003,1,1,4,4,4
+Slovenia,SVN,2004,1,2,4,4,4
+Slovenia,SVN,2005,1,1,4,4,4
+Slovenia,SVN,2006,1,1,4,4,4
+Slovenia,SVN,2007,1,2,4,4,4
+Slovenia,SVN,2008,1,1,4,4,4
+Slovenia,SVN,2009,1,1,4,4,4
+Slovenia,SVN,2010,1,1,4,4,4
+Slovenia,SVN,2011,1,1,4,4,4
+Slovenia,SVN,2012,1,1,4,4,4
+Slovenia,SVN,2013,1,1,4,4,4
+Slovenia,SVN,2014,1,1,4,4,4
+Slovenia,SVN,2015,1,1,4,4,4
+Slovenia,SVN,2016,1,1,4,4,4
+Slovenia,SVN,2017,1,1,4,4,4
+Slovenia,SVN,2018,1,1,4,4,4
+Slovenia,SVN,2019,1,1,4,4,4
+Slovenia,SVN,2020,1,1,4,4,4
+Slovenia,SVN,2021,1,1,4,4,4
+Solomon Islands,SLB,2004,1,3,1,1,1
+Solomon Islands,SLB,2005,1,4,1,2,1
+Solomon Islands,SLB,2006,1,4,1,2,1
+Solomon Islands,SLB,2007,1,4,1,2,1
+Solomon Islands,SLB,2008,1,3,1,2,1
+South Africa,ZAF,1994,5,5,1,2,1
+South Africa,ZAF,1995,5,5,3,3,3
+South Africa,ZAF,1996,5,5,3,3,3
+South Africa,ZAF,1997,1,5,3,3,3
+South Africa,ZAF,1998,5,5,3,3,3
+South Africa,ZAF,1999,1,5,3,3,3
+South Africa,ZAF,2000,1,5,3,3,3
+South Africa,ZAF,2001,1,5,3,3,3
+South Africa,ZAF,2002,1,5,3,3,3
+South Africa,ZAF,2003,1,5,3,3,3
+South Africa,ZAF,2004,1,5,3,3,3
+South Africa,ZAF,2005,1,5,3,3,3
+South Africa,ZAF,2006,1,5,3,3,3
+South Africa,ZAF,2007,1,5,3,3,3
+South Africa,ZAF,2008,1,5,3,3,3
+South Africa,ZAF,2009,1,5,3,3,3
+South Africa,ZAF,2010,1,5,3,3,3
+South Africa,ZAF,2011,1,5,3,3,3
+South Africa,ZAF,2012,1,5,3,2,3
+South Africa,ZAF,2013,1,5,3,2,3
+South Africa,ZAF,2014,1,5,3,2,3
+South Africa,ZAF,2015,1,5,3,2,3
+South Africa,ZAF,2016,1,5,3,2,3
+South Africa,ZAF,2017,1,5,3,2,3
+South Africa,ZAF,2018,5,5,3,3,2
+South Africa,ZAF,2019,1,5,3,3,2
+South Africa,ZAF,2020,1,5,2,3,2
+South Africa,ZAF,2021,5,5,4,4,4
+South Korea,KOR,1990,1,1,5,5,5
+South Korea,KOR,1991,1,1,5,5,5
+South Korea,KOR,1992,1,1,5,5,5
+South Korea,KOR,1993,1,1,5,5,5
+South Korea,KOR,1994,1,1,5,5,5
+South Korea,KOR,1995,1,1,5,5,5
+South Korea,KOR,1996,1,1,5,5,5
+South Korea,KOR,1997,1,1,5,5,5
+South Korea,KOR,1998,1,1,5,5,5
+South Korea,KOR,1999,1,1,5,5,5
+South Korea,KOR,2000,1,1,5,5,5
+South Korea,KOR,2001,1,1,5,5,5
+South Korea,KOR,2002,1,1,5,5,5
+South Korea,KOR,2003,1,1,5,5,5
+South Korea,KOR,2004,1,1,5,5,5
+South Korea,KOR,2005,1,1,5,5,5
+South Korea,KOR,2006,1,1,5,5,5
+South Korea,KOR,2007,1,1,5,5,5
+South Korea,KOR,2008,1,1,5,5,5
+South Korea,KOR,2009,1,1,5,5,5
+South Korea,KOR,2010,1,1,5,5,5
+South Korea,KOR,2011,1,1,5,5,5
+South Korea,KOR,2012,1,1,5,5,5
+South Korea,KOR,2013,1,1,5,5,5
+South Korea,KOR,2014,1,1,5,5,5
+South Korea,KOR,2015,1,1,5,5,5
+South Korea,KOR,2016,1,1,5,5,5
+South Korea,KOR,2017,1,1,5,5,5
+South Korea,KOR,2018,1,1,5,5,5
+South Korea,KOR,2019,1,1,5,5,5
+South Korea,KOR,2020,1,1,5,5,5
+South Korea,KOR,2021,1,1,4,4,4
+South Sudan,SSD,2012,5,5,1,1,1
+Spain,ESP,1990,1,2,4,4,4
+Spain,ESP,1991,5,2,4,4,4
+Spain,ESP,1992,1,1,4,4,4
+Spain,ESP,1993,1,2,4,4,4
+Spain,ESP,1994,1,1,4,4,4
+Spain,ESP,1995,1,1,4,4,4
+Spain,ESP,1996,1,1,4,4,4
+Spain,ESP,1997,1,2,4,4,4
+Spain,ESP,1998,1,2,4,4,4
+Spain,ESP,1999,1,2,4,4,4
+Spain,ESP,2000,1,2,4,4,4
+Spain,ESP,2001,1,2,4,4,4
+Spain,ESP,2002,1,2,4,4,4
+Spain,ESP,2003,1,2,4,4,4
+Spain,ESP,2004,5,2,4,4,4
+Spain,ESP,2005,1,2,4,4,4
+Spain,ESP,2006,1,1,4,4,4
+Spain,ESP,2007,1,1,4,4,4
+Spain,ESP,2008,1,1,4,4,4
+Spain,ESP,2009,1,1,4,4,4
+Spain,ESP,2010,1,1,4,4,4
+Spain,ESP,2011,1,1,4,4,4
+Spain,ESP,2012,1,1,4,4,4
+Spain,ESP,2013,1,1,4,4,4
+Spain,ESP,2014,1,1,4,4,4
+Spain,ESP,2015,1,1,4,4,4
+Spain,ESP,2016,1,1,4,4,4
+Spain,ESP,2017,5,1,4,4,3
+Spain,ESP,2018,1,1,5,4,5
+Spain,ESP,2019,1,1,5,4,5
+Spain,ESP,2020,1,1,5,4,5
+Spain,ESP,2021,1,1,4,4,4
+Sri Lanka,LKA,1990,5,5,1,1,1
+Sri Lanka,LKA,1995,5,4,1,1,1
+Sri Lanka,LKA,1996,5,4,1,1,1
+Sri Lanka,LKA,1997,5,5,1,1,1
+Sri Lanka,LKA,1999,5,5,1,1,1
+Sri Lanka,LKA,2005,5,4,1,1,1
+Sri Lanka,LKA,2006,5,5,1,1,1
+Sri Lanka,LKA,2008,5,4,1,1,1
+Sri Lanka,LKA,2009,5,4,1,1,1
+Sri Lanka,LKA,2010,1,3,4,4,4
+Sri Lanka,LKA,2011,1,3,4,4,4
+Sri Lanka,LKA,2012,1,3,4,4,4
+Sri Lanka,LKA,2013,1,3,4,5,4
+Sri Lanka,LKA,2014,1,3,4,5,4
+Sri Lanka,LKA,2015,1,3,4,5,4
+Sri Lanka,LKA,2016,1,3,4,5,4
+Sri Lanka,LKA,2017,1,3,5,5,5
+Sri Lanka,LKA,2018,1,3,5,5,5
+Sri Lanka,LKA,2019,5,3,5,5,5
+Suriname,SUR,2000,1,5,2,3,2
+Suriname,SUR,2001,1,5,2,3,2
+Suriname,SUR,2002,1,5,2,3,2
+Suriname,SUR,2003,1,5,2,3,2
+Suriname,SUR,2004,1,4,2,3,2
+Suriname,SUR,2005,1,5,2,3,2
+Suriname,SUR,2006,1,5,2,3,2
+Suriname,SUR,2007,1,4,2,3,2
+Suriname,SUR,2008,1,4,2,3,2
+Suriname,SUR,2013,1,4,1,1,1
+Suriname,SUR,2014,1,4,1,1,1
+Suriname,SUR,2015,1,4,1,1,1
+Suriname,SUR,2016,1,4,1,1,1
+Suriname,SUR,2017,1,4,1,1,1
+Suriname,SUR,2018,1,4,1,1,1
+Suriname,SUR,2019,1,4,1,1,1
+Suriname,SUR,2020,1,4,1,1,1
+Suriname,SUR,2021,1,4,1,1,1
+Sweden,SWE,1990,1,1,5,4,5
+Sweden,SWE,1991,1,2,5,4,5
+Sweden,SWE,1992,1,2,5,4,5
+Sweden,SWE,1993,1,2,5,4,5
+Sweden,SWE,1994,1,2,5,4,5
+Sweden,SWE,1995,1,1,5,4,5
+Sweden,SWE,1996,1,2,5,4,5
+Sweden,SWE,1997,1,1,5,4,5
+Sweden,SWE,1998,1,1,5,4,5
+Sweden,SWE,1999,1,2,5,4,5
+Sweden,SWE,2000,1,1,5,4,5
+Sweden,SWE,2001,1,1,5,4,5
+Sweden,SWE,2002,1,2,5,4,5
+Sweden,SWE,2003,1,1,5,4,5
+Sweden,SWE,2004,1,2,5,4,5
+Sweden,SWE,2005,1,1,5,4,5
+Sweden,SWE,2006,1,1,5,4,5
+Sweden,SWE,2007,1,2,5,4,5
+Sweden,SWE,2008,1,1,5,4,5
+Sweden,SWE,2009,1,1,5,4,5
+Sweden,SWE,2010,1,1,5,4,5
+Sweden,SWE,2011,1,1,5,4,5
+Sweden,SWE,2012,1,1,5,4,5
+Sweden,SWE,2013,1,1,5,4,5
+Sweden,SWE,2014,1,1,5,4,5
+Sweden,SWE,2015,1,2,5,4,5
+Sweden,SWE,2016,1,1,5,4,5
+Sweden,SWE,2017,5,1,5,4,5
+Sweden,SWE,2018,1,1,4,4,5
+Sweden,SWE,2019,1,1,4,4,4
+Sweden,SWE,2020,1,2,4,4,4
+Sweden,SWE,2021,1,1,4,4,4
+Switzerland,CHE,1990,1,2,5,5,5
+Switzerland,CHE,1991,1,2,5,5,5
+Switzerland,CHE,1992,1,2,5,5,5
+Switzerland,CHE,1993,1,2,5,5,5
+Switzerland,CHE,1994,1,2,5,5,5
+Switzerland,CHE,1995,1,2,5,5,5
+Switzerland,CHE,1996,1,2,5,5,5
+Switzerland,CHE,1997,1,2,5,5,5
+Switzerland,CHE,1998,1,1,5,5,5
+Switzerland,CHE,1999,1,2,5,5,5
+Switzerland,CHE,2000,1,1,5,5,5
+Switzerland,CHE,2001,1,2,5,5,5
+Switzerland,CHE,2002,1,2,5,5,5
+Switzerland,CHE,2009,1,1,5,5,5
+Switzerland,CHE,2010,1,1,5,5,5
+Switzerland,CHE,2011,1,1,5,5,5
+Switzerland,CHE,2012,1,1,5,5,5
+Switzerland,CHE,2013,1,1,5,5,5
+Switzerland,CHE,2014,1,1,5,5,5
+Switzerland,CHE,2015,1,1,5,5,5
+Switzerland,CHE,2016,1,1,5,5,5
+Switzerland,CHE,2017,1,1,5,5,5
+Switzerland,CHE,2018,1,1,5,4,5
+Switzerland,CHE,2019,1,1,5,5,5
+Switzerland,CHE,2020,1,1,5,5,5
+Switzerland,CHE,2021,1,1,5,5,5
+Syria,SYR,1997,1,2,2,2,2
+Syria,SYR,1998,1,3,2,2,2
+Syria,SYR,1999,1,3,2,2,2
+Syria,SYR,2000,1,3,1,1,1
+Syria,SYR,2001,1,3,1,1,1
+Syria,SYR,2002,1,3,1,1,1
+Syria,SYR,2003,1,3,1,1,1
+Syria,SYR,2004,5,3,1,1,1
+Syria,SYR,2005,1,3,1,1,1
+Syria,SYR,2006,1,3,1,1,1
+Syria,SYR,2007,1,3,1,1,1
+Syria,SYR,2008,1,3,1,1,1
+Syria,SYR,2009,1,3,1,1,1
+Syria,SYR,2010,1,3,1,1,1
+Tajikistan,TJK,1991,1,3,1,2,1
+Tajikistan,TJK,1992,5,5,1,1,1
+Tajikistan,TJK,1993,5,5,1,1,1
+Tajikistan,TJK,1994,5,5,1,1,1
+Tajikistan,TJK,1995,5,4,1,2,1
+Tajikistan,TJK,1996,5,4,1,2,1
+Tajikistan,TJK,1997,5,4,2,3,1
+Tajikistan,TJK,1998,5,4,2,3,1
+Tajikistan,TJK,1999,5,4,2,3,1
+Tajikistan,TJK,2000,5,4,2,3,1
+Tajikistan,TJK,2001,1,3,2,3,1
+Tajikistan,TJK,2002,1,3,2,3,1
+Tajikistan,TJK,2003,1,3,2,2,2
+Tajikistan,TJK,2004,1,3,2,2,2
+Tajikistan,TJK,2005,1,3,2,2,2
+Tajikistan,TJK,2006,1,3,2,2,2
+Tajikistan,TJK,2007,1,2,2,2,2
+Tajikistan,TJK,2008,1,2,2,2,2
+Tajikistan,TJK,2009,1,2,2,2,2
+Tajikistan,TJK,2010,5,3,2,2,2
+Tajikistan,TJK,2011,5,2,2,2,2
+Tajikistan,TJK,2020,1,1,3,3,3
+Tanzania,TZA,1995,1,4,2,2,2
+Tanzania,TZA,1996,1,4,2,2,2
+Tanzania,TZA,1997,5,4,2,2,2
+Tanzania,TZA,2003,1,4,2,2,2
+Tanzania,TZA,2004,1,4,2,2,2
+Tanzania,TZA,2010,1,4,2,2,2
+Tanzania,TZA,2011,1,4,2,2,2
+Tanzania,TZA,2012,1,4,2,2,2
+Tanzania,TZA,2013,1,4,2,2,2
+Tanzania,TZA,2015,1,4,2,2,3
+Tanzania,TZA,2016,5,4,2,2,3
+Tanzania,TZA,2017,5,4,3,2,3
+Tanzania,TZA,2018,1,4,3,2,3
+Tanzania,TZA,2019,5,4,3,2,3
+Tanzania,TZA,2020,5,3,3,2,3
+Thailand,THA,1990,5,4,2,2,2
+Thailand,THA,1991,5,4,2,2,2
+Thailand,THA,1992,5,5,2,2,2
+Thailand,THA,1993,5,4,2,2,2
+Thailand,THA,1994,5,4,2,2,2
+Thailand,THA,1995,5,4,2,2,2
+Thailand,THA,1996,5,4,2,2,2
+Thailand,THA,1997,5,4,2,2,2
+Thailand,THA,1998,5,4,2,2,2
+Thailand,THA,1999,5,4,2,2,2
+Thailand,THA,2000,5,4,2,2,2
+Thailand,THA,2001,5,4,2,2,2
+Thailand,THA,2002,5,4,2,2,2
+Thailand,THA,2003,5,4,2,2,2
+Thailand,THA,2004,5,4,2,2,2
+Thailand,THA,2005,5,4,3,2,3
+Thailand,THA,2006,5,4,3,2,3
+Thailand,THA,2007,5,4,3,2,3
+Thailand,THA,2008,5,4,3,2,3
+Thailand,THA,2009,5,4,3,2,3
+Thailand,THA,2010,5,4,3,2,3
+Thailand,THA,2011,5,4,3,2,3
+Trinidad and Tobago,TTO,2000,1,4,4,4,4
+Trinidad and Tobago,TTO,2001,1,5,4,4,4
+Trinidad and Tobago,TTO,2002,1,5,4,4,4
+Trinidad and Tobago,TTO,2003,1,5,4,4,4
+Trinidad and Tobago,TTO,2004,1,5,4,4,4
+Trinidad and Tobago,TTO,2005,1,5,4,4,4
+Trinidad and Tobago,TTO,2006,1,5,4,4,4
+Trinidad and Tobago,TTO,2007,1,5,4,4,4
+Trinidad and Tobago,TTO,2008,1,5,4,4,4
+Trinidad and Tobago,TTO,2009,1,5,4,4,4
+Trinidad and Tobago,TTO,2010,1,5,4,4,4
+Trinidad and Tobago,TTO,2011,1,5,4,4,4
+Trinidad and Tobago,TTO,2012,1,5,4,4,4
+Trinidad and Tobago,TTO,2013,1,5,3,3,3
+Trinidad and Tobago,TTO,2014,1,5,3,3,3
+Trinidad and Tobago,TTO,2015,1,5,3,3,3
+Trinidad and Tobago,TTO,2016,1,5,3,3,3
+Trinidad and Tobago,TTO,2017,1,5,3,2,3
+Trinidad and Tobago,TTO,2018,1,5,3,2,3
+Trinidad and Tobago,TTO,2019,1,5,2,2,2
+Trinidad and Tobago,TTO,2020,1,5,2,2,2
+Trinidad and Tobago,TTO,2021,1,5,2,2,2
+Tunisia,TUN,2004,1,2,2,2,1
+Tunisia,TUN,2005,1,3,2,2,1
+Tunisia,TUN,2006,1,3,2,2,1
+Tunisia,TUN,2007,1,3,2,2,1
+Tunisia,TUN,2008,1,3,2,2,1
+Tunisia,TUN,2009,1,3,2,2,1
+Tunisia,TUN,2010,1,3,2,2,1
+Tunisia,TUN,2012,1,3,1,1,1
+Tunisia,TUN,2019,1,4,2,2,2
+Tunisia,TUN,2020,1,4,2,2,2
+Turkey,TUR,2003,5,3,3,3,3
+Turkey,TUR,2004,5,3,3,3,3
+Turkey,TUR,2005,5,4,3,3,3
+Turkey,TUR,2006,5,4,3,3,3
+Turkey,TUR,2007,5,4,3,3,3
+Turkey,TUR,2008,5,4,3,3,3
+Turkey,TUR,2010,5,3,3,3,3
+Turkey,TUR,2011,5,3,3,3,3
+Turkey,TUR,2012,5,3,3,3,3
+Turkey,TUR,2015,5,3,2,2,2
+Turkey,TUR,2016,5,3,2,2,2
+Turkey,TUR,2017,5,3,2,2,1
+Turkey,TUR,2018,5,3,2,3,2
+Turkey,TUR,2019,5,3,2,2,2
+Turkey,TUR,2020,5,3,2,3,2
+Turkey,TUR,2021,5,3,2,3,2
+Turkmenistan,TKM,1991,1,4,4,4,4
+Turkmenistan,TKM,1992,1,4,4,4,4
+Turkmenistan,TKM,1993,1,4,4,4,4
+Turkmenistan,TKM,1994,1,4,4,4,4
+Turkmenistan,TKM,1995,1,4,4,4,4
+Turkmenistan,TKM,1996,1,4,4,4,4
+Turkmenistan,TKM,1997,1,4,4,4,4
+Turkmenistan,TKM,1998,1,4,4,4,4
+Turkmenistan,TKM,1999,1,4,4,4,4
+Turkmenistan,TKM,2000,1,4,4,4,4
+Turkmenistan,TKM,2001,1,4,4,4,4
+Turkmenistan,TKM,2002,1,4,4,4,4
+Turkmenistan,TKM,2003,1,4,4,4,4
+Turkmenistan,TKM,2004,1,3,4,4,4
+Turkmenistan,TKM,2005,1,3,4,4,4
+Turkmenistan,TKM,2006,1,3,4,4,4
+Turkmenistan,TKM,2010,1,2,4,4,4
+Turkmenistan,TKM,2011,5,2,4,4,4
+Turkmenistan,TKM,2012,1,2,4,4,4
+Turkmenistan,TKM,2013,5,2,4,4,4
+Turkmenistan,TKM,2014,1,2,4,4,4
+Turkmenistan,TKM,2015,1,1,4,4,4
+Uganda,UGA,1995,5,4,1,1,1
+Uganda,UGA,1996,5,4,1,1,1
+Uganda,UGA,1997,5,4,1,1,1
+Uganda,UGA,2007,5,4,2,2,2
+Uganda,UGA,2008,5,4,2,2,2
+Uganda,UGA,2009,5,5,2,2,2
+Uganda,UGA,2010,5,4,3,3,3
+Uganda,UGA,2011,5,5,3,3,3
+Uganda,UGA,2012,5,5,3,3,3
+Uganda,UGA,2013,5,5,3,3,3
+Uganda,UGA,2014,1,5,3,3,3
+Uganda,UGA,2016,5,5,3,3,3
+Uganda,UGA,2017,5,5,3,3,3
+Uganda,UGA,2018,1,5,3,3,3
+Uganda,UGA,2019,5,5,3,3,3
+Uganda,UGA,2020,5,5,3,3,3
+Uganda,UGA,2021,5,4,3,3,3
+Ukraine,UKR,1991,1,4,4,4,4
+Ukraine,UKR,1992,1,4,3,3,4
+Ukraine,UKR,1993,1,4,3,3,4
+Ukraine,UKR,1994,1,4,2,2,2
+Ukraine,UKR,1995,1,4,2,2,2
+Ukraine,UKR,1996,1,4,4,4,4
+Ukraine,UKR,1997,1,4,4,4,4
+Ukraine,UKR,1998,1,4,4,4,4
+Ukraine,UKR,1999,1,4,4,4,4
+Ukraine,UKR,2000,1,4,4,4,4
+Ukraine,UKR,2001,1,5,4,4,4
+Ukraine,UKR,2002,1,4,4,4,4
+Ukraine,UKR,2003,1,4,4,4,4
+Ukraine,UKR,2004,1,4,1,1,1
+Ukraine,UKR,2005,1,4,2,2,1
+Ukraine,UKR,2006,1,4,3,3,3
+Ukraine,UKR,2007,1,4,3,3,3
+Ukraine,UKR,2008,1,4,3,3,3
+Ukraine,UKR,2009,1,4,3,3,3
+Ukraine,UKR,2010,1,3,3,3,3
+Ukraine,UKR,2012,1,4,3,3,3
+Ukraine,UKR,2014,5,4,1,1,1
+Ukraine,UKR,2017,5,4,1,1,1
+Ukraine,UKR,2018,5,4,1,1,1
+Ukraine,UKR,2019,5,3,1,1,1
+Ukraine,UKR,2020,5,3,1,1,1
+Ukraine,UKR,2021,5,3,1,1,1
+United Arab Emirates,ARE,2010,1,1,2,2,3
+United Arab Emirates,ARE,2011,1,1,2,2,3
+United Arab Emirates,ARE,2012,1,1,2,2,3
+United Arab Emirates,ARE,2013,1,1,2,2,3
+United Arab Emirates,ARE,2014,1,1,2,2,3
+United Arab Emirates,ARE,2015,1,1,2,2,3
+United Arab Emirates,ARE,2019,1,1,2,2,2
+United Arab Emirates,ARE,2020,1,1,2,2,3
+United Arab Emirates,ARE,2021,1,1,2,2,3
+United Kingdom,GBR,1990,5,2,4,3,4
+United Kingdom,GBR,1991,5,2,4,3,4
+United Kingdom,GBR,1992,1,2,4,3,4
+United Kingdom,GBR,1993,5,2,4,3,4
+United Kingdom,GBR,1994,1,2,4,3,4
+United Kingdom,GBR,1995,1,2,4,3,4
+United Kingdom,GBR,1996,1,2,4,3,4
+United Kingdom,GBR,1997,1,2,4,3,4
+United Kingdom,GBR,1998,5,2,4,3,4
+United Kingdom,GBR,1999,1,2,4,3,4
+United Kingdom,GBR,2000,1,2,4,3,4
+United Kingdom,GBR,2001,1,2,4,3,4
+United Kingdom,GBR,2002,1,2,4,3,4
+United Kingdom,GBR,2003,1,2,4,3,4
+United Kingdom,GBR,2004,1,2,4,3,4
+United Kingdom,GBR,2005,5,2,4,3,4
+United Kingdom,GBR,2006,1,2,4,3,4
+United Kingdom,GBR,2007,1,2,4,3,4
+United Kingdom,GBR,2008,1,2,4,3,4
+United Kingdom,GBR,2009,1,2,4,4,4
+United Kingdom,GBR,2010,1,2,4,4,4
+United Kingdom,GBR,2011,1,1,4,4,4
+United Kingdom,GBR,2012,1,1,4,4,4
+United Kingdom,GBR,2013,1,1,4,4,4
+United Kingdom,GBR,2014,1,1,4,4,4
+United Kingdom,GBR,2015,1,1,4,4,4
+United Kingdom,GBR,2016,1,2,4,4,4
+United Kingdom,GBR,2017,1,2,4,4,4
+United Kingdom,GBR,2018,1,2,4,4,4
+United Kingdom,GBR,2019,5,2,4,4,4
+United Kingdom,GBR,2020,1,1,3,4,2
+United States,USA,1990,1,4,4,4,4
+United States,USA,1991,1,4,4,4,4
+United States,USA,1992,1,4,4,4,4
+United States,USA,1993,1,4,4,4,4
+United States,USA,1994,1,4,4,4,4
+United States,USA,1995,1,4,4,4,4
+United States,USA,1996,1,4,4,4,4
+United States,USA,1997,1,4,4,4,4
+United States,USA,1998,1,4,4,4,4
+United States,USA,1999,1,4,4,4,4
+United States,USA,2000,1,4,4,4,4
+United States,USA,2001,5,4,4,4,4
+United States,USA,2002,1,4,4,4,4
+United States,USA,2006,1,4,4,4,4
+United States,USA,2007,1,4,4,4,4
+United States,USA,2008,1,4,4,4,4
+United States,USA,2009,1,4,4,4,4
+United States,USA,2010,5,4,4,4,4
+United States,USA,2011,1,4,4,4,4
+United States,USA,2012,1,4,4,4,4
+United States,USA,2013,1,4,4,4,4
+United States,USA,2014,5,3,4,4,4
+United States,USA,2015,5,4,4,4,4
+United States,USA,2016,1,4,4,4,4
+United States,USA,2017,5,4,3,3,3
+United States,USA,2018,1,4,3,3,3
+United States,USA,2019,5,4,3,3,3
+United States,USA,2020,1,4,3,3,3
+United States,USA,2021,5,4,3,3,3
+Uruguay,URY,1990,1,4,4,4,4
+Uruguay,URY,1991,1,4,4,4,4
+Uruguay,URY,1992,1,4,4,4,4
+Uruguay,URY,1995,1,4,4,4,4
+Uruguay,URY,1996,1,4,4,4,4
+Uruguay,URY,1997,1,4,4,4,4
+Uruguay,URY,1998,1,4,4,4,4
+Uruguay,URY,1999,1,4,4,4,4
+Uruguay,URY,2000,1,4,4,4,4
+Uruguay,URY,2001,1,4,4,4,4
+Uruguay,URY,2002,1,4,4,4,4
+Uruguay,URY,2003,1,4,4,4,4
+Uruguay,URY,2004,1,4,4,4,4
+Uruguay,URY,2005,1,4,4,4,4
+Uruguay,URY,2006,1,4,4,4,4
+Uruguay,URY,2007,1,4,4,4,4
+Uruguay,URY,2008,1,4,4,4,4
+Uruguay,URY,2009,1,4,4,4,4
+Uruguay,URY,2010,1,4,4,4,4
+Uruguay,URY,2011,1,4,4,4,4
+Uruguay,URY,2012,1,4,4,4,4
+Uruguay,URY,2013,1,4,4,4,4
+Uruguay,URY,2014,1,4,4,4,4
+Uruguay,URY,2015,1,4,4,4,4
+Uruguay,URY,2016,1,4,4,4,4
+Uruguay,URY,2017,1,4,4,4,4
+Uruguay,URY,2018,1,5,4,4,4
+Uruguay,URY,2019,1,5,4,4,4
+Uruguay,URY,2020,1,4,4,4,4
+Uruguay,URY,2021,1,4,5,5,5
+Uzbekistan,UZB,1991,1,4,2,2,2
+Uzbekistan,UZB,1992,1,4,3,2,3
+Uzbekistan,UZB,1993,1,4,3,2,3
+Uzbekistan,UZB,1994,1,4,3,2,3
+Uzbekistan,UZB,1995,1,4,3,2,3
+Uzbekistan,UZB,1996,1,4,3,3,3
+Uzbekistan,UZB,1997,1,3,3,3,3
+Uzbekistan,UZB,1998,1,3,3,3,3
+Uzbekistan,UZB,1999,5,3,3,3,3
+Uzbekistan,UZB,2000,5,3,3,3,3
+Uzbekistan,UZB,2001,1,3,3,3,3
+Uzbekistan,UZB,2002,1,3,3,3,3
+Uzbekistan,UZB,2003,1,3,3,3,3
+Uzbekistan,UZB,2004,5,3,3,3,3
+Uzbekistan,UZB,2005,1,3,3,3,3
+Uzbekistan,UZB,2006,1,3,4,3,4
+Uzbekistan,UZB,2007,1,3,4,3,4
+Uzbekistan,UZB,2008,1,3,4,3,4
+Uzbekistan,UZB,2015,1,2,4,4,4
+Uzbekistan,UZB,2016,1,3,4,4,4
+Uzbekistan,UZB,2017,1,2,5,5,5
+Uzbekistan,UZB,2018,1,2,5,5,5
+Uzbekistan,UZB,2019,1,2,5,5,5
+Uzbekistan,UZB,2020,1,2,5,5,5
+Uzbekistan,UZB,2021,1,2,4,4,4
+Vanuatu,VUT,2019,1,1,4,4,4
+Vanuatu,VUT,2020,1,1,4,4,4
+Venezuela,VEN,1990,5,5,2,2,2
+Venezuela,VEN,1991,5,5,2,2,2
+Venezuela,VEN,1992,5,5,2,2,2
+Venezuela,VEN,1993,5,5,2,2,2
+Venezuela,VEN,1994,5,5,2,2,2
+Venezuela,VEN,1995,5,5,2,2,2
+Venezuela,VEN,1996,5,5,2,2,2
+Venezuela,VEN,1997,5,5,2,2,2
+Venezuela,VEN,1998,5,5,2,2,2
+Venezuela,VEN,1999,5,5,2,2,2
+Venezuela,VEN,2000,5,5,2,1,2
+Venezuela,VEN,2001,5,5,2,1,2
+Venezuela,VEN,2002,5,5,2,1,2
+Venezuela,VEN,2003,5,5,2,1,2
+Venezuela,VEN,2004,5,5,2,1,2
+Venezuela,VEN,2005,5,5,2,1,2
+Venezuela,VEN,2006,1,5,2,1,2
+Venezuela,VEN,2007,5,5,2,1,2
+Venezuela,VEN,2008,5,5,2,1,2
+Venezuela,VEN,2009,5,5,2,1,2
+Venezuela,VEN,2010,5,5,2,1,2
+Venezuela,VEN,2011,5,5,2,1,2
+Venezuela,VEN,2012,5,5,2,1,2
+Venezuela,VEN,2014,5,5,1,1,1
+Venezuela,VEN,2015,5,5,1,1,1
+Venezuela,VEN,2016,5,5,1,1,1
+Venezuela,VEN,2017,5,5,1,1,1
+Venezuela,VEN,2019,5,5,1,1,1
+Venezuela,VEN,2020,1,5,1,1,1
+Venezuela,VEN,2021,5,5,1,2,1
+Vietnam,VNM,2001,1,2,3,3,4
+Vietnam,VNM,2002,1,2,3,3,4
+Vietnam,VNM,2003,1,2,3,3,4
+Vietnam,VNM,2004,1,2,3,3,4
+Vietnam,VNM,2005,1,2,2,3,2
+Vietnam,VNM,2006,1,2,2,3,2
+Vietnam,VNM,2007,1,2,2,3,2
+Vietnam,VNM,2008,1,2,2,3,2
+Vietnam,VNM,2009,1,2,2,3,2
+Vietnam,VNM,2010,1,2,2,3,2
+Vietnam,VNM,2011,1,2,2,3,2
+Yemen,YEM,1998,1,3,1,1,1
+Yemen,YEM,1999,1,4,1,1,1
+Yemen,YEM,2000,1,3,1,1,1
+Yemen,YEM,2003,1,3,1,1,1
+Yemen,YEM,2004,5,3,1,1,1
+Yemen,YEM,2009,5,3,1,1,1
+Yemen,YEM,2010,5,3,1,1,1
+Yemen,YEM,2011,5,4,1,1,1
+Yemen,YEM,2012,5,4,1,1,1
+Yemen,YEM,2013,5,4,1,1,1
+Zambia,ZMB,1990,5,4,4,4,4
+Zambia,ZMB,1991,1,4,4,4,4
+Zambia,ZMB,1992,1,4,4,4,4
+Zambia,ZMB,1993,5,4,4,4,4
+Zambia,ZMB,1994,1,4,4,4,4
+Zambia,ZMB,1998,1,4,4,4,4
+Zambia,ZMB,1999,1,5,4,4,4
+Zambia,ZMB,2000,5,4,4,4,4
+Zambia,ZMB,2008,1,4,3,3,3
+Zambia,ZMB,2009,1,4,3,3,3
+Zambia,ZMB,2010,1,4,3,3,3
+Zambia,ZMB,2011,1,4,3,3,3
+Zambia,ZMB,2012,1,4,3,3,3
+Zambia,ZMB,2013,1,4,4,4,3
+Zambia,ZMB,2014,1,4,4,4,3
+Zambia,ZMB,2015,1,4,4,4,3
+Zimbabwe,ZWE,1990,5,4,5,4,5
+Zimbabwe,ZWE,2001,1,5,5,4,5
+Zimbabwe,ZWE,2002,1,5,5,4,5
+Zimbabwe,ZWE,2003,1,5,5,4,5
+Zimbabwe,ZWE,2004,1,5,5,4,5
+Zimbabwe,ZWE,2005,1,5,5,4,5
+Zimbabwe,ZWE,2006,1,4,5,4,5
+Zimbabwe,ZWE,2010,1,4,5,4,5
+Zimbabwe,ZWE,2012,1,4,5,4,5
+Zimbabwe,ZWE,2018,1,4,4,4,4
+Zimbabwe,ZWE,2019,1,4,4,4,4
+Zimbabwe,ZWE,2020,1,4,5,5,5
+Zimbabwe,ZWE,2021,1,4,4,4,4
