@@ -2,11 +2,11 @@ import numpy as np
 
 import pandas as pd
 
-data = pd.read_csv("homicide-rate-unodc.csv")
+data = pd.read_csv("concat_index.csv")
 # Calculate the logarithm of the homicide rates
 data['Log_Homicide_Rate'] = np.log(data['Homicide rate per 100,000 population - Both sexes - All ages'])
 
-# Creating Likert Scale system based on the log homicide rates (example uses broad ranges for simplicity)
+# Creating Likert Scale system based on the log of variables (example uses broad ranges for simplicity)
 echelon_ranges = {
     '1': (0, np.log(2)),
     '2': (np.log(2), np.log(5)),
