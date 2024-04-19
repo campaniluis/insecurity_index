@@ -1,7 +1,7 @@
-.PHONY: all concat parse likert
+.PHONY: all concat parse convert finally
 
 # Run all steps in order
-all: concat parse likert
+all: concat parse convert finally
 
 # Concatenate CSV files
 concat:
@@ -11,13 +11,18 @@ concat:
 parse:
 	python parse_csv.py
 
-# Convert data to Likert scale
-likert:
-	python convert_to_likert.py
+# Convert data
+convert:
+	python convert_hr.py 
+	python convert_ac.py 
+	python convert_tc.py
 
+# Calculate final score
+finally:
+	python algorithm.py
 # Clean up generated files
 clean:
-	rm -f concat_index.csv parsed_index.csv updated_parsed_index.csv updated_rates_echelons.csv updated_parsed_index.csv updated_rates_echelons.csv
+	rm -f insecurity_index.csv
 	rm -f *.pyc
 	rm -rf __pycache__
 
