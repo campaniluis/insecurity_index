@@ -1,7 +1,7 @@
 # Insecurity Index Project
 ## Project Description
 
-This project was made for a Peace & Security Studies courde. The aim was to choose variables to create a (in)security index to ranks countries. I choose to rank based on homicide rates (per 100,000 inhabitants) using a logarithmic scale, control over territory (if > 95%), and armed conflict deaths (if existing). To be able to check the results of the index I used ChatGPT to build a csv file with this information processed.
+This project was made for a Peace & Security Studies course. The aim was to choose variables to create a (in)security index to ranks countries. I choose to rank based on homicide rates (per 100,000 inhabitants) using a logarithmic scale, control over territory (if > 95%), and armed conflict deaths (if != 0). To be able to observe the results of the index I used ChatGPT (with major debbuging made by myself) to process the original data using Python.
 
 ## Sources:
 
