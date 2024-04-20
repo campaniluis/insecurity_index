@@ -11,7 +11,7 @@ def filter_and_save_by_year(Year):
     df_filtered = df[df['Year'] == Year]
 
     # Construct the output filename
-    output_file = f"{Year}_index.csv"
+    output_file = f"output_data/{Year}_index.csv"
 
     # Save the filtered data to a new CSV file
     df_filtered.to_csv(output_file, index=False)

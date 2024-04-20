@@ -1,0 +1,115 @@
+Country,ISO Code,Year,Armed Conflict Deaths,Homicide Rate,Territorial Control,TC Upper Est.,TC Lower Est.,Score
+Afghanistan,AFG,2019,1,4,1,1,1,64
+Albania,ALB,2019,0,3,0,0,1,3
+Algeria,DZA,2019,0,2,0,0,0,2
+Argentina,ARG,2019,0,4,0,0,0,4
+Armenia,ARM,2019,0,3,0,0,0,3
+Australia,AUS,2019,0,1,0,0,0,1
+Austria,AUT,2019,0,1,0,0,0,1
+Azerbaijan,AZE,2019,0,2,1,1,1,4
+Bahrain,BHR,2019,0,1,1,0,1,1
+Barbados,BRB,2019,0,5,0,0,0,5
+Belarus,BLR,2019,0,3,0,0,0,3
+Bhutan,BTN,2019,0,1,1,0,1,1
+Bolivia,BOL,2019,0,3,1,1,1,9
+Bosnia and Herzegovina,BIH,2019,0,2,1,0,1,4
+Brazil,BRA,2019,1,5,1,0,1,125
+Bulgaria,BGR,2019,0,2,0,0,0,2
+Canada,CAN,2019,0,2,0,0,0,2
+Cape Verde,CPV,2019,0,4,0,0,0,4
+Chile,CHL,2019,0,3,1,0,1,9
+China,CHN,2019,0,1,0,0,1,1
+Colombia,COL,2019,1,5,1,1,1,125
+Costa Rica,CRI,2019,0,5,0,0,1,5
+Croatia,HRV,2019,0,1,0,0,0,1
+Cuba,CUB,2019,0,3,0,0,0,3
+Cyprus,CYP,2019,0,2,1,1,1,4
+Czechia,CZE,2019,0,1,0,0,0,1
+Denmark,DNK,2019,0,2,0,0,0,2
+Dominican Republic,DOM,2019,0,4,1,0,1,16
+Ecuador,ECU,2019,1,4,0,0,1,16
+El Salvador,SLV,2019,0,5,1,0,1,25
+Estonia,EST,2019,0,2,0,0,0,2
+Finland,FIN,2019,0,2,0,0,0,2
+France,FRA,2019,0,2,0,0,1,2
+Georgia,GEO,2019,0,2,1,1,1,4
+Germany,DEU,2019,0,1,1,0,1,1
+Ghana,GHA,2019,0,2,1,0,1,4
+Greece,GRC,2019,0,1,0,0,0,1
+Guatemala,GTM,2019,1,5,1,1,1,125
+Guyana,GUY,2019,0,5,0,0,0,5
+Honduras,HND,2019,1,5,1,1,1,125
+Hungary,HUN,2019,0,1,0,0,0,1
+Iceland,ISL,2019,0,1,0,0,0,1
+India,IND,2019,1,3,1,1,1,27
+Ireland,IRL,2019,0,1,0,0,1,1
+Israel,ISR,2019,1,2,1,0,1,8
+Italy,ITA,2019,0,1,0,0,1,1
+Jamaica,JAM,2019,0,5,0,0,1,5
+Japan,JPN,2019,0,1,0,0,0,1
+Jordan,JOR,2019,0,2,0,0,0,2
+Kenya,KEN,2019,1,3,1,0,1,27
+Kosovo,OWID_KOS,2019,0,2,1,1,1,4
+Kuwait,KWT,2019,0,1,0,0,0,1
+Latvia,LVA,2019,0,3,0,0,1,3
+Lebanon,LBN,2019,0,3,1,1,1,9
+Lithuania,LTU,2019,0,3,0,0,0,3
+Luxembourg,LUX,2019,0,1,0,0,0,1
+Malaysia,MYS,2019,0,1,0,0,0,1
+Maldives,MDV,2019,0,1,0,0,1,1
+Malta,MLT,2019,0,1,0,0,0,1
+Mauritania,MRT,2019,0,1,0,0,0,1
+Mauritius,MUS,2019,0,3,1,1,1,9
+Mexico,MEX,2019,1,5,1,1,1,125
+Moldova,MDA,2019,0,3,1,1,1,9
+Mongolia,MNG,2019,0,4,0,0,0,4
+Montenegro,MNE,2019,0,3,0,0,0,3
+Morocco,MAR,2019,0,2,1,0,1,4
+Myanmar,MMR,2019,1,3,1,1,1,27
+Namibia,NAM,2019,0,5,0,0,1,5
+Nepal,NPL,2019,0,3,1,0,1,9
+Netherlands,NLD,2019,0,1,0,0,0,1
+New Zealand,NZL,2019,0,3,0,0,0,3
+Nicaragua,NIC,2019,0,4,1,1,1,16
+Nigeria,NGA,2019,1,5,1,1,1,125
+North Macedonia,MKD,2019,0,2,0,0,1,2
+Norway,NOR,2019,0,1,0,0,0,1
+Oman,OMN,2019,0,1,0,0,1,1
+Pakistan,PAK,2019,1,3,1,1,1,27
+Panama,PAN,2019,0,5,0,0,0,5
+Paraguay,PRY,2019,0,4,1,1,1,16
+Peru,PER,2019,0,4,1,1,1,16
+Philippines,PHL,2019,1,3,1,0,1,27
+Poland,POL,2019,0,1,0,0,1,1
+Portugal,PRT,2019,0,1,1,0,1,1
+Qatar,QAT,2019,0,1,0,0,0,1
+Romania,ROU,2019,0,2,0,0,0,2
+Russia,RUS,2019,1,4,0,0,0,16
+Rwanda,RWA,2019,1,3,0,0,0,9
+Saudi Arabia,SAU,2019,1,1,0,0,0,1
+Serbia,SRB,2019,0,2,1,0,1,4
+Seychelles,SYC,2019,0,4,0,0,0,4
+Singapore,SGP,2019,0,1,1,1,1,1
+Slovakia,SVK,2019,0,2,0,0,0,2
+Slovenia,SVN,2019,0,1,0,0,0,1
+South Africa,ZAF,2019,0,5,0,0,1,5
+South Korea,KOR,2019,0,1,0,0,0,1
+Spain,ESP,2019,0,1,0,0,0,1
+Sri Lanka,LKA,2019,1,3,0,0,0,9
+Suriname,SUR,2019,0,4,1,1,1,16
+Sweden,SWE,2019,0,1,0,0,0,1
+Switzerland,CHE,2019,0,1,0,0,0,1
+Tanzania,TZA,2019,1,4,0,0,1,16
+Trinidad and Tobago,TTO,2019,0,5,1,0,1,25
+Tunisia,TUN,2019,0,4,0,0,1,4
+Turkey,TUR,2019,1,3,1,0,1,27
+Uganda,UGA,2019,1,5,0,0,0,25
+Ukraine,UKR,2019,1,3,1,1,1,27
+United Arab Emirates,ARE,2019,0,1,1,0,1,1
+United Kingdom,GBR,2019,1,2,0,0,0,4
+United States,USA,2019,1,4,0,0,0,16
+Uruguay,URY,2019,0,5,0,0,0,5
+Uzbekistan,UZB,2019,0,2,0,0,0,2
+Vanuatu,VUT,2019,0,1,0,0,0,1
+Venezuela,VEN,2019,1,5,1,1,1,125
+Zimbabwe,ZWE,2019,0,4,0,0,0,4
