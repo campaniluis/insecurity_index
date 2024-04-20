@@ -1,4 +1,4 @@
-.PHONY: all concat parse convert finally
+.PHONY: all concat parse convert finally year-% re
 
 # Run all steps in order
 all: concat parse convert finally
@@ -22,9 +22,12 @@ finally:
 	python algorithm.py
 # Clean up generated files
 clean:
-	rm -f insecurity_index.csv
+	rm -f *_index.csv
 	rm -f *.pyc
 	rm -rf __pycache__
+
+year-%:
+	python parse_by_year.py $*
 
 # Rebuild everything
 re: clean all
